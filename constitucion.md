@@ -1286,9 +1286,11 @@ Artículo 200. Son garantías constitucionales:
 
 1. La Acción de Hábeas Corpus, que procede ante el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza la libertad individual o los derechos constitucionales conexos.
 
-2. La Acción de Amparo, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los demás derechos reconocidos por la Constitución. No procede contra normas legales ni contra resoluciones judiciales emanadas de procedimiento regular.
+2. La Acción de Amparo, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los demás derechos reconocidos por la Constitución, con excepción de los señalados en el inciso siguiente.
 
-3. La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2, incisos 5, 6 y 7 de la Constitución.
+No procede contra normas legales ni contra Resoluciones Judiciales emanadas de procedimiento regular.
+
+3. La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2, incisos 5 y 6 de la Constitución.
 
 4. La Acción de Inconstitucionalidad, que procede contra las normas que tienen rango de ley: leyes, decretos legislativos, decretos de urgencia, tratados, reglamentos del Congreso, normas regionales de carácter general y ordenanzas municipales que contravengan la Constitución en la forma o en el fondo.
 
@@ -1300,7 +1302,9 @@ Una ley orgánica regula el ejercicio de estas garantías y los efectos de la de
 
 El ejercicio de las acciones de hábeas corpus y de amparo no se suspende durante la vigencia de los regímenes de excepción a que se refiere el artículo 137 de la Constitución.
 
-Cuando se interponen acciones de esta naturaleza en relación con derechos restringidos o suspendidos, el órgano jurisdiccional competente examina la razonabilidad y la proporcionalidad del acto restrictivo. No corresponde al juez cuestionar la declaración del estado de emergencia ni de sitio.
+Cuando se interponen acciones de esta naturaleza en relación con derechos restringidos o suspendidos, el órgano jurisdiccional competente examina la razonabilidad y la proporcionalidad del
+
+acto restrictivo. No corresponde al juez cuestionar la declaración del estado de emergencia ni de sitio.
 
 Artículo 201. El Tribunal Constitucional es el órgano de control de la Constitución. Es autónomo e independiente. Se compone de siete miembros elegidos por cinco años.
 
