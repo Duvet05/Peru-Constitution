@@ -132,6 +132,8 @@ Artículo 10. El Estado reconoce el derecho universal y progresivo de toda perso
 
 Artículo 11. El Estado garantiza el libre acceso a prestaciones de salud y a pensiones, a través de entidades públicas, privadas o mixtas. Supervisa asimismo su eficaz funcionamiento.
 
+La ley establece la entidad del Gobierno Nacional que administra los regímenes de pensiones a cargo del Estado.
+
 Artículo 12. Los fondos y las reservas de la seguridad social son intangibles. Los recursos se aplican en la forma y bajo la responsabilidad que señala la ley.
 
 Artículo 13. La educación tiene como finalidad el desarrollo integral de la persona humana. El Estado reconoce y garantiza la libertad de enseñanza. Los padres de familia tienen el deber de educar a sus hijos y el derecho de escoger los centros de educación y de participar en el proceso educativo.
@@ -646,9 +648,7 @@ CAPITULO II
 
 DE LA FUNCION LEGISLATIVA
 
-Artículo 103. Pueden expedirse leyes especiales porque así lo exige la naturaleza de las cosas, pero no por razón de la diferencia de personas. Ninguna ley tiene fuerza ni efecto retroactivos, salvo en materia penal, cuando favorece al reo.
-
-La ley se deroga sólo por otra ley. También queda sin efecto por sentencia que declara su inconstitucionalidad.
+Artículo 103. Pueden expedirse leyes especiales porque así lo exige la naturaleza de las cosas, pero no por razón de las diferencias de las personas. La ley, desde su entrada en vigencia, se aplica a las consecuencias de las relaciones y situaciones jurídicas existentes y no tiene fuerza ni efectos retroactivos; salvo, en ambos supuestos, en materia penal cuando favorece al reo. La ley se deroga sólo por otra ley. También queda sin efecto por sentencia que declara su inconstitucionalidad.
 
 La Constitución no ampara el abuso del derecho.
 
@@ -1412,7 +1412,19 @@ La iniciativa de reforma constitucional corresponde al Presidente de la Repúbli
 
 DISPOSICIONES FINALES Y TRANSITORIAS
 
-Primera.- Los nuevos regímenes sociales obligatorios, que sobre materia de pensiones de los trabajadores públicos, se establezcan, no afectan los derechos legalmente obtenidos, en particular el correspondiente a los regímenes de los decretos leyes 19990 y 20530 y sus modificatorias.
+Primera.- Declárase cerrado definitivamente el régimen pensionario del Decreto Ley Nº 20530. En consecuencia a partir de la entrada en vigencia de esta Reforma Constitucional:
+
+1. No están permitidas las nuevas incorporaciones o reincorporaciones al régimen pensionario del Decreto Ley Nº 20530.
+
+2. Los trabajadores que, perteneciendo a dicho régimen, no hayan cumplido con los requisitos para obtener la pensión correspondiente, deberán optar entre el Sistema Nacional de Pensiones o el Sistema Privado de Administradoras de Fondos de Pensiones.
+
+Por razones de interés social, las nuevas reglas pensionarias establecidas por ley se aplicarán inmediatamente a los trabajadores y pensionistas de los regímenes pensionarios a cargo del Estado, según corresponda. No se podrá prever en ellas la nivelación de las pensiones con las remuneraciones, ni la reducción del importe de las pensiones que sean inferiores a una Unidad Impositiva Tributaria.
+
+La ley dispondrá la aplicación progresiva de topes a las pensiones que excedan de una Unidad Impositiva Tributaria.
+
+El ahorro presupuestal que provenga de la aplicación de nuevas reglas pensionarias será destinado a incrementar las pensiones más bajas, conforme a ley. Las modificaciones que se introduzcan en los regímenes pensionarios actuales, así como los nuevos regímenes pensionarios que se establezcan en el futuro, deberán regirse por los criterios de sostenibilidad financiera y no nivelación.
+
+Autorízase a la entidad competente del Gobierno Nacional a iniciar las acciones legales correspondientes para que se declare la nulidad de las pensiones obtenidas ilegalmente, salvo los casos definidos por sentencias con carácter de cosa juzgada que se hayan pronunciado expresamente sobre el fondo del asunto o que las respectivas acciones hubieran prescrito.
 
 Segunda.- El Estado garantiza el pago oportuno y el reajuste periódico de las pensiones que administra, con arreglo a las previsiones presupuestarias que éste destine para tales efectos, y a las posibilidades de la economía nacional.
 
