@@ -242,7 +242,17 @@ DE LOS DERECHOS POLITICOS Y DE LOS DEBERES
 
 Artículo 30. Son ciudadanos los peruanos mayores de dieciocho años. Para el ejercicio de la ciudadanía se requiere la inscripción electoral.
 
-Artículo 31. Los ciudadanos tienen derecho a participar en los asuntos públicos mediante referéndum; iniciativa legislativa; remoción o revocación de autoridades y demanda de rendición de cuentas. Tienen también el derecho de ser elegidos y de elegir libremente a sus representantes, de acuerdo con las condiciones y procedimientos determinados por ley orgánica. Es derecho y deber de los vecinos participar en el gobierno municipal de su jurisdicción. La ley norma y promueve los mecanismos directos e indirectos de su participación. Tienen derecho al voto los ciudadanos en goce de su capacidad civil. El voto es personal, igual, libre, secreto y obligatorio hasta los setenta años. Es facultativo después de esa edad. Es nulo y punible todo acto que prohíba o limite al ciudadano el ejercicio de sus derechos.
+Artículo 31. Los ciudadanos tienen derecho a participar en los asuntos públicos mediante referéndum; iniciativa legislativa; remoción o revocación de autoridades y demanda de rendición de cuentas. Tienen también el derecho de ser elegidos y de elegir libremente a sus representantes, de acuerdo con las condiciones y procedimientos determinados por ley orgánica.
+
+Es derecho y deber de los vecinos participar en el gobierno municipal de su jurisdicción. La ley norma y promueve los mecanismos directos e indirectos de su participación.
+
+Tienen derecho al voto los ciudadanos en goce de su capacidad civil. Para el ejercicio de este derecho se requiere estar inscrito en el registro correspondiente.
+
+El voto es personal, igual, libre, secreto y obligatorio hasta los setenta años. Es facultativo después de esa edad.
+
+La ley establece los mecanismos para garantizar la neutralidad estatal durante los procesos electorales y de participación ciudadana.
+
+Es nulo y punible todo acto que prohíba o limite al ciudadano el ejercicio de sus derechos.
 
 Artículo 32. Pueden ser sometidas a referéndum:
 
@@ -264,7 +274,7 @@ Artículo 33. El ejercicio de la ciudadanía se suspende:
 
 3. Por sentencia con inhabilitación de los derechos políticos.
 
-Artículo 34. Los miembros de las Fuerzas Armadas y de la Policía Nacional en actividad no pueden elegir ni ser elegidos. No existen ni pueden crearse otras inhabilitaciones.
+Artículo 34. Los miembros de las Fuerzas Armadas y de la Policía Nacional tienen derecho al voto y a la participación ciudadana, regulados por ley. No pueden postular a cargos de elección popular, participar en actividades partidarias o manifestaciones ni realizar actos de proselitismo, mientras no hayan pasado a la situación de retiro, de acuerdo a ley.
 
 Artículo 35. Los ciudadanos pueden ejercer sus derechos individualmente o a través de organizaciones políticas como partidos, movimientos o alianzas, conforme a ley. Tales organizaciones concurren a la formación y manifestación de la voluntad popular. Su inscripción en el registro correspondiente les concede personalidad jurídica.
 
