@@ -466,7 +466,7 @@ La contratación de servicios y proyectos cuya importancia y cuyo monto señala 
 
 Artículo 77. La administración económica y financiera del Estado se rige por el presupuesto que anualmente aprueba el Congreso. La estructura del presupuesto del sector público contiene dos secciones: Gobierno Central e instancias descentralizadas.
 
-El presupuesto asigna equitativamente los recursos públicos. Su programación y ejecución responden a los criterios de eficiencia, de necesidades sociales básicas y de descentralización. Corresponde a las respectivas circunscripciones, conforme a ley, recibir una participación adecuada del impuesto a la renta percibido por la explotación de los recursos naturales en cada zona, en calidad de canon.
+El presupuesto asigna equitativamente los recursos públicos, su programación y ejecución responden a los criterios de eficiencia de necesidades sociales básicas y de descentralización. Corresponden a las respectivas circunscripciones, conforme a ley, recibir una participación adecuada del total de los ingresos y rentas obtenidos por el Estado en la explotación de los recursos naturales en cada zona en calidad de canon.
 
 Artículo 78. El Presidente de la República envía al Congreso el proyecto de Ley de Presupuesto dentro de un plazo que vence el 30 de agosto de cada año.
 
