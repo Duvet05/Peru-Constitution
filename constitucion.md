@@ -448,11 +448,11 @@ CAPITULO IV
 
 DEL REGIMEN TRIBUTARIO Y PRESUPUESTAL
 
-Artículo 74. Los tributos se crean, modifican o derogan, o se establece una exoneración, exclusivamente por ley o decreto legislativo en caso de delegación de facultades, salvo los aranceles y tasas, los cuales se regulan mediante decreto supremo.
+Artículo 74. Los tributos se crean, modifican o derogan, o se establece una exoneración, exclusivamente por ley o decreto legislativo en caso de delegación de facultades, salvo los aranceles y tasas, los cuales se regulan mediante decreto supremo. Los Gobiernos Regionales y los Gobiernos Locales pueden crear, modificar y suprimir contribuciones y tasas, o exonerar de éstas, dentro de su jurisdicción, y con los límites que señala la ley. El Estado,
 
-Los gobiernos locales pueden crear, modificar y suprimir contribuciones y tasas, o exonerar de éstas, dentro de su jurisdicción y con los límites que señala la ley. El Estado, al ejercer la potestad tributaria, debe respetar los principios de reserva de la ley, y los de igualdad y respeto de los derechos fundamentales de la persona. Ningún tributo puede tener efecto confiscatorio.
+al ejercer la potestad tributaria, debe respetar los principios de reserva de la ley, y los de igualdad y respeto de los derechos fundamentales de la persona. Ningún tributo puede tener carácter confiscatorio.
 
-Los decretos de urgencia no pueden contener materia tributaria. Las leyes relativas a tributos de periodicidad anual rigen a partir del primero de enero del año siguiente a su promulgación. Las leyes de presupuesto no pueden contener normas sobre materia tributaria.
+Las leyes de presupuesto y los decretos de urgencia no pueden contener normas sobre materia tributaria. Las leyes relativas a tributos de periodicidad anual rigen a partir del primero de enero del año siguiente a su promulgación.
 
 No surten efecto las normas tributarias dictadas en violación de lo que establece el presente artículo.
 
@@ -670,9 +670,9 @@ CAPITULO III
 
 DE LA FORMACION Y PROMULGACION DE LAS LEYES
 
-Artículo 107. El Presidente de la República y los congresistas tienen derecho de iniciativa en la formación de las leyes.
+Artículo 107. El Presidente de la República y los Congresistas tienen derecho a iniciativa en la formación de leyes.
 
-También tienen el mismo derecho en las materias que les son propias los otros poderes del Estado, las instituciones públicas autónomas, los municipios y los colegios profesionales. Asimismo lo tienen los ciudadanos que ejercen el derecho de iniciativa conforme a ley.
+También tienen el mismo derecho en las materias que les son propias los otros poderes del Estado, las instituciones públicas autónomas, los Gobiernos Regionales, los Gobiernos Locales y los colegios profesionales. Asimismo lo tienen los ciudadanos que ejercen el derecho de iniciativa conforme a ley.
 
 Artículo 108. La ley aprobada según lo previsto por la Constitución, se envía al Presidente de la República para su promulgación dentro de un plazo de quince días. En caso de no promulgación por el Presidente de la República, la promulga el Presidente del Congreso, o el de la Comisión Permanente, según corresponda.
 
