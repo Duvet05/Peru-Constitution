@@ -536,11 +536,17 @@ Todos los directores del Banco son nombrados por el período constitucional que 
 
 Artículo 87. El Estado fomenta y garantiza el ahorro. La ley establece las obligaciones y los límites de las empresas que reciben ahorros del público, así como el modo y los alcances de dicha garantía.
 
-La Superintendencia de Banca y Seguros ejerce el control de las empresas bancarias y de seguros, de las demás que reciben depósitos del público y de aquellas otras que, por realizar operaciones conexas o similares, determine la ley.
+La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones ejerce el control de las empresas bancarias, de seguros, de administración de fondos de pensiones, de las
 
-La ley establece la organización y la autonomía funcional de la Superintendencia de Banca y Seguros.
+demás que reciben depósitos del público y de aquellas otras que, por realizar operaciones conexas o similares, determine la ley. La ley establece la organización y la autonomía funcional de la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
 
-El Poder Ejecutivo designa al Superintendente de Banca y Seguros por el plazo correspondiente a su período constitucional. El Congreso lo ratifica.
+El Poder Ejecutivo designa al Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones por el plazo correspondiente a su período constitucional. El Congreso lo ratifica.
+
+CAPITULO VI
+
+DEL REGIMEN AGRARIO Y DE LAS
+
+COMUNIDADES CAMPESINAS Y NATIVAS
 
 Artículo 88. El Estado apoya preferentemente el desarrollo agrario. Garantiza el derecho de propiedad sobre la tierra, en forma privada o comunal o en cualquiera otra forma asociativa. La ley puede fijar los límites y la extensión de la tierra según las peculiaridades de cada zona.
 
@@ -568,11 +574,11 @@ Para ser elegido congresista se requiere ser peruano de nacimiento, haber cumpli
 
 Artículo 91. No pueden ser elegidos congresistas si no han dejado el cargo seis meses antes de la elección:
 
-1. Los ministros y viceministros de Estado, el Contralor General.
+1. Los ministros y viceministros de Estado, el Contralor General, y las autoridades regionales.
 
 2. Los miembros del Tribunal Constitucional, del Consejo Nacional de la Magistratura, del Poder Judicial, del Ministerio Público, del Jurado Nacional de Elecciones, ni el Defensor del Pueblo.
 
-3. El Presidente del Banco Central de Reserva, el Superintendente de Banca y Seguros y el Superintendente Nacional de Administración Tributaria. Y
+3. El Presidente del Banco Central de Reserva, el Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones y el Superintendente Nacional de Administración Tributaria. Y,
 
 4. Los miembros de las Fuerzas Armadas y de la Policía Nacional en actividad.
 
@@ -582,7 +588,7 @@ El mandato del congresista es incompatible con el ejercicio de cualquiera otra f
 
 La función de congresista es, asimismo, incompatible con la condición de gerente, apoderado, representante, mandatario, abogado, accionista mayoritario o miembro del Directorio de empresas que tienen con el Estado contratos de obras, de suministro o de aprovisionamiento, o que administran rentas públicas o prestan servicios públicos.
 
-La función de congresista es incompatible con cargos similares en empresas que, durante el mandato del congresista, obtengan concesiones del Estado, así como en empresas del sistema crediticio financiero supervisadas por la Superintendencia de Banca y Seguros.
+La función de congresista es incompatible con cargos similares en empresas que, durante el mandato del congresista, obtengan concesiones del Estado, así como en empresas del sistema crediticio financiero supervisadas por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
 
 Artículo 93. Los congresistas representan a la Nación. No están sujetos a mandato imperativo ni a interpelación.
 
@@ -596,7 +602,7 @@ Artículo 95. El mandato legislativo es irrenunciable.
 
 Las sanciones disciplinarias que impone el Congreso a los representantes y que implican suspensión de funciones no pueden exceder de ciento veinte días de legislatura.
 
-Artículo 96. Cualquier representante a Congreso puede pedir a los Ministros de Estado, al Jurado Nacional de Elecciones, al Contralor General, al Banco Central de Reserva, a la Superintendencia de Banca y Seguros, a los gobiernos locales y a las instituciones que señala la ley, los informes que estime necesarios.
+Artículo 96. Cualquier representante al Congreso puede pedir a los Ministros de Estado, al Jurado Nacional de Elecciones, al Contralor General, al Banco Central de Reserva, a la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, a los Gobiernos Regionales y Locales y a las instituciones que señala la ley, los informes que estime necesarios.
 
 El pedido se hace por escrito y de acuerdo con el Reglamento del Congreso. La falta de respuesta da lugar a las responsabilidades de ley.
 
@@ -624,13 +630,15 @@ Son atribuciones de la Comisión Permanente:
 
 1. Designar al Contralor General, a propuesta del Presidente de la República.
 
-2. Ratificar la designación del Presidente del Banco Central de Reserva y del Superintendente de Banca y Seguros.
+2. Ratificar la designación del Presidente del Banco Central de Reserva y del Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
 
 3. Aprobar los créditos suplementarios y las transferencias y habilitaciones del Presupuesto, durante el receso parlamentario.
 
 4. Ejercitar la delegación de facultades legislativas que el Congreso le otorgue.
 
 No pueden delegarse a la Comisión Permanente materias relativas a reforma constitucional, ni a la aprobación de tratados internacionales, leyes orgánicas, Ley de Presupuesto y Ley de la Cuenta General de la República.
+
+5. Las demás que le asigna la Constitución y las que le señala el Reglamento del Congreso.
 
 Artículo 102. Son atribuciones del Congreso:
 
