@@ -696,7 +696,7 @@ Si ninguno de los candidatos obtiene la mayoría absoluta, se procede a una segu
 
 Junto con el Presidente de la República son elegidos, de la misma manera, con los mismos requisitos y por igual término, dos vicepresidentes.
 
-Artículo 112. El mandato presidencial es de cinco años. El Presidente puede ser reelegido de inmediato para un período adicional. Transcurrido otro período constitucional, como mínimo, el ex presidente puede volver a postular, sujeto a las mismas condiciones.
+Artículo 112. El mandato presidencial es de cinco años, no hay reelección inmediata. Transcurrido otro período constitucional, como mínimo, el ex presidente puede volver a postular, sujeto a las mismas condiciones.
 
 Artículo 113. La Presidencia de la República vaca por:
 
@@ -1389,6 +1389,12 @@ Decimocuarta.- La presente Constitución, una vez aprobada por el Congreso Const
 Decimoquinta.- Las disposiciones contenidas en la presente Constitución, referidas a número de congresistas, duración del mandato legislativo, y Comisión Permanente, no se aplican para el Congreso Constituyente Democrático.
 
 Decimosexta.- Promulgada la presente Constitución, sustituye a la del año 1979.
+
+DISPOSICIONES TRANSITORIAS ESPECIALES
+
+Primera.- El Presidente y los Vicepresidentes de la República elegidos en las Elecciones Generales de 2000, concluirán su mandato el 28 de julio de 2001. Los congresistas elegidos en el mismo proceso electoral culminarán su representación el 26 de julio de 2001. No son de aplicación para ellos, por excepción, los plazos establecidos en los Artículos 90 y 112 de la Constitución Política.
+
+Segunda.- Para efectos del proceso electoral que se realice en el 2001, el plazo previsto en el primer párrafo del Artículo 91 de la Constitución será de cuatro meses.
 
 DECLARACION
 
