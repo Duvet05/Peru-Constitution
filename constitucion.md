@@ -572,15 +572,17 @@ El número de congresistas es de ciento veinte. El Congreso se elige por un per�
 
 Para ser elegido congresista se requiere ser peruano de nacimiento, haber cumplido veinticinco años y gozar del derecho de sufragio.
 
-Artículo 91. No pueden ser elegidos congresistas si no han dejado el cargo seis meses antes de la elección:
+Artículo 91. No pueden ser elegidos miembros del Parlamento Nacional si no han renunciado al cargo seis (6) meses antes de la elección:
 
-1. Los ministros y viceministros de Estado, el Contralor General, y las autoridades regionales.
+1. Los ministros y viceministros de Estado, el Contralor General.
 
 2. Los miembros del Tribunal Constitucional, del Consejo Nacional de la Magistratura, del Poder Judicial, del Ministerio Público, del Jurado Nacional de Elecciones, ni el Defensor del Pueblo.
 
-3. El Presidente del Banco Central de Reserva, el Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones y el Superintendente Nacional de Administración Tributaria. Y,
+3. El Presidente del Banco Central de Reserva, el Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, y el Superintendente Nacional de Administración Tributaria.
 
-4. Los miembros de las Fuerzas Armadas y de la Policía Nacional en actividad.
+4. Los miembros de las Fuerzas Armadas y de la Policía Nacional en actividad, y
+
+5. Los demás casos que la Constitución prevé.
 
 Artículo 92. La función de congresista es de tiempo completo; le está prohibido desempeñar cualquier cargo o ejercer cualquier profesión u oficio, durante las horas de funcionamiento del Congreso.
 
@@ -1248,9 +1250,9 @@ Artículo 191. Los gobiernos regionales tienen autonomía política, económica 
 
 La estructura orgánica básica de estos gobiernos la conforman el Consejo Regional como órgano normativo y fiscalizador, el Presidente como órgano ejecutivo, y el Consejo de Coordinación Regional integrado por los alcaldes provinciales y por representantes de la sociedad civil, como órgano consultivo y de coordinación con las municipalidades, con las funciones y atribuciones que les señala la ley. El Consejo Regional tendrá un mínimo de siete (7) miembros y un máximo de veinticinco (25), debiendo haber un mínimo de uno (1) por provincia y el resto, de acuerdo a ley, siguiendo un criterio de población electoral.
 
-El Presidente es elegido conjuntamente con un vicepresidente, por sufragio directo por un período de cuatro (4) años, y puede ser reelegido. Los miembros del Consejo Regional son elegidos en la misma forma y por igual período. El mandato de dichas autoridades es revocable e irrenunciable, conforme a ley.
+El Presidente es elegido conjuntamente con un vicepresidente, por sufragio directo por un período de cuatro (4) años, y puede ser reelegido. Los miembros del Consejo Regional son elegidos en la misma forma y por igual período. El mandato de dichas autoridades es revocable, conforme a ley, e irrenunciable, con excepción de los casos previstos en la Constitución. Para postular a Presidente de la República, Vicepresidente, miembro del Parlamento Nacional o Alcalde; los Presidentes de los Gobiernos Regionales deben renunciar al cargo seis (6) meses antes de la elección respectiva.
 
-La ley establece porcentajes mínimos para hacer accesible la representación de género, comunidades nativas y pueblos originarios en los Consejos Regionales. Igual tratamiento se aplica para los Concejos Municipales.
+La ley establece porcentajes mínimos para hacer accesible la representación de género, comunidades campesinas y nativas, y pueblos originarios en los Consejos Regionales. Igual tratamiento se aplica para los Concejos Municipales.
 
 Artículo 192. Los gobiernos regionales promueven el desarrollo y la economía regional, fomentan las inversiones, actividades y servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y locales de desarrollo.
 
@@ -1298,7 +1300,9 @@ Artículo 194. Las municipalidades provinciales y distritales son los órganos d
 
 La estructura orgánica del gobierno local la conforman el Concejo Municipal como órgano normativo y fiscalizador y la Alcaldía como órgano ejecutivo, con las funciones y atribuciones que les señala la ley.
 
-Los alcaldes y regidores son elegidos por sufragio directo, por un período de cuatro (4) años. Pueden ser reelegidos. Su mandato es revocable e irrenunciable, conforme a ley.
+Los alcaldes y regidores son elegidos por sufragio directo, por un período de cuatro (4) años. Pueden ser reelegidos. Su mandato es revocable, conforme a ley, e irrenunciable, con excepción de los casos previstos en la Constitución.
+
+Para postular a Presidente de la República, Vicepresidente, miembro del Parlamento Nacional o Presidente del Gobierno Regional; los Alcaldes deben renunciar al cargo seis (6) meses antes de la elección respectiva.
 
 Artículo 195. Los gobiernos locales promueven el desarrollo y la economía local, y la prestación de los servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y regionales de desarrollo.
 
