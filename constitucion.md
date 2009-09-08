@@ -498,15 +498,15 @@ En cualquier otro caso, las leyes de índole tributaria referidas a beneficios o
 
 Sólo por ley expresa, aprobada por dos tercios de los congresistas, puede establecerse selectiva y temporalmente un tratamiento tributario especial para una determinada zona del país.
 
-Artículo 80. El Ministro de Economía y Finanzas sustenta, ante el Pleno del Congreso, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector. El Presidente de la Corte Suprema, el Fiscal de la Nación y el Presidente del Jurado Nacional de Elecciones sustentan los pliegos correspondientes a cada institución.
+Artículo 80. Sustentación del Presupuesto Público El Ministro de Economía y Finanzas sustenta, ante el Pleno del Congreso de la República, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector; previamente sustentan los resultados y metas de la ejecución del presupuesto del año anterior y los avances en la ejecución del presupuesto del año fiscal correspondiente. El Presidente de la Corte Suprema, el Fiscal de la Nación y el Presidente del Jurado Nacional de Elecciones sustentan los pliegos correspondientes a cada institución.
 
-Si la autógrafa de la Ley de Presupuesto no es remitida al Poder Ejecutivo hasta el treinta de noviembre, entra en vigencia el Proyecto de éste, que es promulgado por decreto legislativo.
+Si la autógrafa de la Ley de Presupuesto no es remitida al Poder Ejecutivo hasta el treinta de noviembre, entra en vigencia el proyecto de este, que es promulgado por decreto legislativo.
 
-Los créditos suplementarios, habilitaciones y transferencias de partidas se tramitan ante el Congreso tal como la Ley de Presupuesto. Durante el receso parlamentario se tramitan ante la Comisión Permanente. Para aprobarlos, se requiere los votos de los tres quintos del número legal de sus miembros.
+Los créditos suplementarios, habilitaciones y transferencias de partidas se tramitan ante el Congreso de la República tal como la Ley de Presupuesto. Durante el receso parlamentario, se tramitan ante la Comisión Permanente. Para aprobarlos, se requiere los votos de los tres quintos del número legal de sus miembros.
 
-Artículo 81. La Cuenta General de la República, acompañada del informe de auditoría de la Contraloría General, es remitida por el Presidente de la República al Congreso en un plazo que vence el quince de noviembre del año siguiente al de ejecución del presupuesto.
+Artículo 81. La Cuenta General de la República, acompañada del informe de auditoría de la Contraloría General de la República, es remitida por el Presidente de la República al Congreso de la República en un plazo que vence el quince de agosto del año siguiente a la ejecución del presupuesto.
 
-La Cuenta General es examinada y dictaminada por una comisión revisora dentro de los noventa días siguientes a su presentación. El Congreso se pronuncia en un plazo de treinta días. Si no hay pronunciamiento del Congreso en el plazo señalado, se eleva el dictamen de la Comisión Revisora al Poder Ejecutivo para que éste promulgue un decreto legislativo que contiene la Cuenta General.
+La Cuenta General de la República es examinada y dictaminada por una comisión revisora hasta el quince de octubre. El Congreso de la República se pronuncia en un plazo que vence el treinta de octubre. Si no hay pronunciamiento del Congreso de la República en el plazo señalado, se eleva el dictamen de la comisión revisora al Poder Ejecutivo para que este promulgue un decreto legislativo que contiene la Cuenta General de la República.
 
 Artículo 82. La Contraloría General de la República es una entidad descentralizada de Derecho Público que goza de autonomía conforme a su ley orgánica. Es el órgano superior del Sistema Nacional de Control. Supervisa la legalidad de la ejecución del Presupuesto del Estado, de las operaciones de la deuda pública y de los actos de las instituciones sujetas a control.
 
