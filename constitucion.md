@@ -1248,11 +1248,15 @@ Mientras dure el proceso de integración, dos o más gobiernos regionales podrá
 
 Artículo 191. Los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia. Coordinan con las municipalidades sin interferir sus funciones y atribuciones.
 
-La estructura orgánica básica de estos gobiernos la conforman el Consejo Regional como órgano normativo y fiscalizador, el Presidente como órgano ejecutivo, y el Consejo de Coordinación Regional integrado por los alcaldes provinciales y por representantes de la sociedad civil, como órgano consultivo y de coordinación con las municipalidades, con las funciones y atribuciones que les señala la ley. El Consejo Regional tendrá un mínimo de siete (7) miembros y un máximo de veinticinco (25), debiendo haber un mínimo de uno (1) por provincia y el resto, de acuerdo a ley, siguiendo un criterio de población electoral.
+La estructura orgánica básica de estos gobiernos la conforman el Consejo Regional, como órgano normativo y fiscalizador, el Gobernador Regional, como órgano ejecutivo, y el Consejo de Coordinación Regional integrado por los alcaldes provinciales y por representantes de la sociedad civil, como órgano consultivo y de coordinación con las municipalidades, con las funciones y atribuciones que les señala la ley. El Consejo Regional tendrá un mínimo de siete (7) miembros y un máximo de veinticinco (25), debiendo haber un mínimo de uno (1) por provincia y el resto, de acuerdo a ley, siguiendo un criterio de población electoral.
 
-El Presidente es elegido conjuntamente con un vicepresidente, por sufragio directo por un período de cuatro (4) años, y puede ser reelegido. Los miembros del Consejo Regional son elegidos en la misma forma y por igual período. El mandato de dichas autoridades es revocable, conforme a ley, e irrenunciable, con excepción de los casos previstos en la Constitución. Para postular a Presidente de la República, Vicepresidente, miembro del Parlamento Nacional o Alcalde; los Presidentes de los Gobiernos Regionales deben renunciar al cargo seis (6) meses antes de la elección respectiva.
+El Gobernador Regional es elegido conjuntamente con un Vicegobernador Regional, por sufragio directo por un período de cuatro (4) años. El mandato de dichas autoridades es revocable, conforme a ley. No hay reelección inmediata. Transcurrido otro período, como mínimo, los ex Gobernadores Regionales o ex Vicegobernadores Regionales pueden volver a postular, sujetos a las mismas condiciones. Los miembros del Consejo Regional son elegidos en la misma forma y por igual período. El mandato de dichas autoridades es irrenunciable, con excepción de los casos previstos en la Constitución.
+
+Para postular a Presidente de la República, Vicepresidente, Congresista o Alcalde; los Gobernadores y Vicegobernadores Regionales deben renunciar al cargo seis (6) meses antes de la elección respectiva.
 
 La ley establece porcentajes mínimos para hacer accesible la representación de género, comunidades campesinas y nativas, y pueblos originarios en los Consejos Regionales. Igual tratamiento se aplica para los Concejos Municipales.
+
+Los Gobernadores Regionales están obligados a concurrir al Congreso de la República cuando éste lo requiera de acuerdo a ley y al Reglamento del Congreso de la República, y bajo responsabilidad.
 
 Artículo 192. Los gobiernos regionales promueven el desarrollo y la economía regional, fomentan las inversiones, actividades y servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y locales de desarrollo.
 
@@ -1300,9 +1304,9 @@ Artículo 194. Las municipalidades provinciales y distritales son los órganos d
 
 La estructura orgánica del gobierno local la conforman el Concejo Municipal como órgano normativo y fiscalizador y la Alcaldía como órgano ejecutivo, con las funciones y atribuciones que les señala la ley.
 
-Los alcaldes y regidores son elegidos por sufragio directo, por un período de cuatro (4) años. Pueden ser reelegidos. Su mandato es revocable, conforme a ley, e irrenunciable, con excepción de los casos previstos en la Constitución.
+Los alcaldes y regidores son elegidos por sufragio directo, por un período de cuatro (4) años. No hay reelección inmediata para los alcaldes. Transcurrido otro período, como mínimo, pueden volver a postular, sujetos a las mismas condiciones. Su mandato es revocable, conforme a ley. El mandato de alcaldes y regidores es irrenunciable, con excepción de los casos previstos en la Constitución.
 
-Para postular a Presidente de la República, Vicepresidente, miembro del Parlamento Nacional o Presidente del Gobierno Regional; los Alcaldes deben renunciar al cargo seis (6) meses antes de la elección respectiva.
+Para postular a Presidente de la República, Vicepresidente, Congresista, Gobernador o Vicegobernador del Gobierno Regional; los Alcaldes deben renunciar al cargo seis (6) meses antes de la elección respectiva.
 
 Artículo 195. Los gobiernos locales promueven el desarrollo y la economía local, y la prestación de los servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y regionales de desarrollo.
 
@@ -1414,7 +1418,7 @@ Artículo 203. Están facultados para interponer acción de inconstitucionalidad
 
 5. Cinco mil ciudadanos con firmas comprobadas por el Jurado Nacional de Elecciones. Si la norma es una ordenanza municipal, está facultado para impugnarla el uno por ciento de los ciudadanos del respectivo ámbito territorial, siempre que este porcentaje no exceda del número de firmas anteriormente señalado;
 
-6. Los presidentes de Región con acuerdo del Consejo de Coordinación Regional, o los alcaldes provinciales con acuerdo de su Concejo, en materias de su competencia.
+6. Los Gobernadores Regionales con acuerdo del Consejo Regional, o los alcaldes provinciales con acuerdo de su Concejo, en materias de su competencia.
 
 7. Los colegios profesionales, en materias de su especialidad.
 
