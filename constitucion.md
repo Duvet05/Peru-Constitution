@@ -96,11 +96,9 @@ d. Nadie será procesado ni condenado por acto u omisión que al tiempo de comet
 
 e. Toda persona es considerada inocente mientras no se haya declarado judicialmente su responsabilidad.
 
-f. Nadie puede ser detenido sino por mandamiento escrito y motivado del juez o por las autoridades policiales en caso de flagrante delito.
+f. Nadie puede ser detenido sino por mandamiento escrito y motivado del juez o por las autoridades policiales en caso de flagrante delito. La detención no durará más del tiempo estrictamente necesario para la realización de las investigaciones y, en todo caso, el detenido debe ser puesto a disposición del juzgado correspondiente, dentro del plazo máximo de cuarenta y ocho horas o en el término de la distancia.
 
-El detenido debe ser puesto a disposición del juzgado correspondiente, dentro de las veinticuatro horas o en el término de la distancia.
-
-Estos plazos no se aplican a los casos de terrorismo, espionaje y tráfico ilícito de drogas. En tales casos, las autoridades policiales pueden efectuar la detención preventiva de los presuntos implicados por un término no mayor de quince días naturales. Deben dar cuenta al Ministerio Público y al juez, quien puede asumir jurisdicción antes de vencido dicho término.
+Estos plazos no se aplican a los casos de terrorismo, espionaje, tráfico ilícito de drogas y a los delitos cometidos por organizaciones criminales. En tales casos, las autoridades policiales pueden efectuar la detención preventiva de los presuntos implicados por un término no mayor de quince días naturales. Deben dar cuenta al Ministerio Público y al juez, quien puede asumir jurisdicción antes de vencido dicho término.
 
 g. Nadie puede ser incomunicado sino en caso indispensable para el esclarecimiento de un delito, y en la forma y por el tiempo previstos por la ley. La autoridad está obligada bajo responsabilidad a señalar, sin dilación y por escrito, el lugar donde se halla la persona detenida.
 
