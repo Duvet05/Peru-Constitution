@@ -122,6 +122,10 @@ Todos los hijos tienen iguales derechos y deberes. Está prohibida toda mención
 
 Artículo 7. Todos tienen derecho a la protección de su salud, la del medio familiar y la de la comunidad así como el deber de contribuir a su promoción y defensa. La persona incapacitada para velar por sí misma a causa de una deficiencia física o mental tiene derecho al respeto de su dignidad y a un régimen legal de protección, atención, readaptación y seguridad.
 
+Artículo 7-A. El Estado reconoce el derecho de toda persona a acceder de forma progresiva y universal al agua potable. El Estado garantiza este derecho priorizando el consumo humano sobre otros usos.
+
+El Estado promueve el manejo sostenible del agua, el cual se reconoce como un recurso natural esencial y como tal, constituye un bien público y patrimonio de la Nación. Su dominio es inalienable e imprescriptible.
+
 Artículo 8. El Estado combate y sanciona el tráfico ilícito de drogas. Asimismo, regula el uso de los tóxicos sociales.
 
 Artículo 9. El Estado determina la política nacional de salud. El Poder Ejecutivo norma y supervisa su aplicación. Es responsable de diseñarla y conducirla en forma plural y descentralizadora para facilitar a todos el acceso equitativo a los servicios de salud.
