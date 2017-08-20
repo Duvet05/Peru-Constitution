@@ -1410,19 +1410,21 @@ Artículo 202. Corresponde al Tribunal Constitucional:
 
 Artículo 203. Están facultados para interponer acción de inconstitucionalidad:
 
-1. El Presidente de la República;
+1. El Presidente de la República.
 
-2. El Fiscal de la Nación;
+2. El Fiscal de la Nación.
 
-3. El Defensor del Pueblo;
+3. El Presidente del Poder Judicial, con acuerdo de la Sala Plena de la Corte Suprema de Justicia.
 
-4. El veinticinco por ciento del número legal de congresistas;
+4. El Defensor del Pueblo.
 
-5. Cinco mil ciudadanos con firmas comprobadas por el Jurado Nacional de Elecciones. Si la norma es una ordenanza municipal, está facultado para impugnarla el uno por ciento de los ciudadanos del respectivo ámbito territorial, siempre que este porcentaje no exceda del número de firmas anteriormente señalado;
+5. El veinticinco por ciento del número legal de congresistas.
 
-6. Los Gobernadores Regionales con acuerdo del Consejo Regional, o los alcaldes provinciales con acuerdo de su Concejo, en materias de su competencia.
+6. Cinco mil ciudadanos con firmas comprobadas por el Jurado Nacional de Elecciones. Si la norma es una ordenanza municipal, está facultado para impugnarla el uno por ciento de los ciudadanos del respectivo ámbito territorial, siempre que este porcentaje no exceda del número de firmas anteriormente señalado.
 
-7. Los colegios profesionales, en materias de su especialidad.
+7. Los Gobernadores Regionales con acuerdo del Consejo Regional, o los alcaldes provinciales con acuerdo de su Concejo, en materias de su competencia.
+
+8. Los colegios profesionales, en materias de su especialidad.
 
 Artículo 204. La sentencia del Tribunal que declara la inconstitucionalidad de una norma se publica en el diario oficial. Al día siguiente de la publicación, dicha norma queda sin efecto.
 
