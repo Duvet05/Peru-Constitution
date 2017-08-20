@@ -310,7 +310,7 @@ Cuando se presume enriquecimiento ilícito, el Fiscal de la Nación, por denunci
 
 La ley establece la responsabilidad de los funcionarios y servidores públicos, así como el plazo de su inhabilitación para la función pública.
 
-El plazo de prescripción se duplica en caso de delitos cometidos contra el patrimonio del Estado.
+El plazo de prescripción de la acción penal se duplica en caso de los delitos cometidos contra la Administración Pública o el patrimonio del Estado, tanto para los funcionarios o servidores públicos como para los particulares. La acción penal es imprescriptible en los supuestos más graves, conforme al principio de legalidad.
 
 Artículo 42. Se reconocen los derechos de sindicación y huelga de los servidores públicos. No están comprendidos los funcionarios del Estado con poder de decisión y los que desempeñan cargos de confianza o de dirección, así como los miembros de las Fuerzas Armadas y de la Policía Nacional.
 
