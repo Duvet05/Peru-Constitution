@@ -354,7 +354,7 @@ El Estado respeta otras confesiones y puede establecer formas de colaboración c
 
 Artículo 51. La Constitución prevalece sobre toda norma legal; la ley, sobre las normas de inferior jerarquía, y así sucesivamente. La publicidad es esencial para la vigencia de toda norma del Estado.
 
-Artículo 52. Son peruanos por nacimiento los nacidos en el territorio de la República. También lo son los nacidos en el exterior de padre o madre peruanos, inscritos en el registro correspondiente durante su minoría de edad.
+Artículo 52. Son peruanos por nacimiento los nacidos en el territorio de la República. También lo son los nacidos en el exterior de padre o madre peruanos, inscritos en el registro correspondiente, conforme a ley.
 
 Son asimismo peruanos los que adquieren la nacionalidad por naturalización o por opción, siempre que tengan residencia en el Perú.
 
