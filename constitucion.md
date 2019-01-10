@@ -1034,35 +1034,63 @@ La ley puede establecer la elección de los jueces de primera instancia y determ
 
 Artículo 153. Los jueces y fiscales están prohibidos de participar en política, de sindicarse y de declararse en huelga.
 
-Artículo 154. Son funciones del Consejo Nacional de la Magistratura:
+Artículo 154. Son funciones de la Junta Nacional de Justicia:
 
-1. Nombrar, previo concurso público de méritos y evaluación personal, a los jueces y fiscales de todos los niveles. Dichos nombramientos requieren el voto conforme de los dos tercios del número legal de sus miembros.
+1. Nombrar, previo concurso público de méritos y evaluación personal, a los jueces y fiscales de todos los niveles. Dichos nombramientos requieren el voto público y motivado conforme de los dos tercios del número legal de sus miembros.
 
-2. Ratificar a los jueces y fiscales de todos los niveles cada siete años. Los no ratificados no pueden reingresar al Poder Judicial ni al Ministerio Público. El proceso de ratificación es independiente de las medidas disciplinarias.
+2. Ratificar, con voto público y motivado, a los jueces y fiscales de todos los niveles cada siete años; y ejecutar conjuntamente con la Academia de la Magistratura la evaluación parcial de desempeño de los jueces y fiscales de todos los niveles cada tres años seis meses. Los no ratificados o destituidos no pueden reingresar al Poder Judicial ni al Ministerio Público.
 
-3. Aplicar la sanción de destitución a los Vocales de la Corte Suprema y Fiscales Supremos y, a solicitud de la Corte Suprema o de la Junta de Fiscales Supremos, respectivamente, a los jueces y fiscales de todas las instancias. La resolución final, motivada y con previa audiencia del interesado, es inimpugnable.
+3. Aplicar la sanción de destitución a los jueces de la Corte Suprema y fiscales supremos; y, de oficio o a solicitud de la Corte Suprema o de la Junta de Fiscales Supremos, respectivamente, a los jueces y fiscales de todas las instancias. En el caso de los jueces supremos y fiscales supremos también será posible la aplicación de amonestación o suspensión de hasta ciento veinte (120) días calendario, aplicando criterios de razonabilidad y proporcionalidad. La resolución final debe ser motivada y con previa audiencia del interesado. Tiene naturaleza de inimpugnable.
 
-4. Extender a los jueces y fiscales el título oficial que los acredita.
+4. Registrar, custodiar, mantener actualizado y publicar el Registro de Sanciones Disciplinarias de Jueces y Fiscales.
 
-Artículo 155. Son miembros del Consejo Nacional de la Magistratura, conforme a la ley de la materia:
+5. Extender a los jueces y fiscales el título oficial que los acredita.
 
-1. Uno elegido por la Corte Suprema, en votación secreta en Sala Plena.
+6. Presentar un informe anual al Pleno del Congreso.
 
-2. Uno elegido, en votación secreta, por la Junta de Fiscales Supremos.
+Artículo 155. La Junta Nacional de Justicia está conformada por siete miembros titulares seleccionados mediante concurso público de méritos, por un período de cinco años. Está prohibida la reelección. Los suplentes son convocados por estricto orden de mérito obtenido en el concurso.
 
-3. Uno elegido por los miembros de los Colegios de Abogados del país, en votación secreta.
+El concurso público de méritos está a cargo de una Comisión Especial, conformada por:
 
-4. Dos elegidos, en votación secreta, por los miembros de los demás Colegios Profesionales del país, conforme a ley.
+1. El Defensor del Pueblo, quien la preside;
 
-5. Uno elegido en votación secreta, por los rectores de las universidades nacionales.
+2. El Presidente del Poder Judicial;
 
-6. Uno elegido, en votación secreta, por los rectores de las universidades particulares.
+3. El Fiscal de la Nación;
 
-El número de miembros del Consejo Nacional de la Magistratura puede ser ampliado por éste a nueve, con dos miembros adicionales elegidos en votación secreta por el mismo Consejo, entre sendas listas propuestas por las instituciones representativas del sector laboral y del empresarial.
+4. El Presidente del Tribunal Constitucional;
 
-Los miembros titulares del Consejo Nacional de la Magistratura son elegidos, conjuntamente con los suplentes, por un período de cinco años.
+5. El Contralor General de la República;
 
-Artículo 156. Para ser miembro del Consejo Nacional de la Magistratura se requieren los mismos requisitos que para ser Vocal de la Corte Suprema, salvo lo previsto en el inciso 4 del artículo 147. El miembro del Consejo Nacional de la Magistratura goza de los mismos beneficios y derechos y está sujeto a las mismas obligaciones e incompatibilidades.
+6. Un rector elegido en votación por los rectores de las universidades públicas licenciadas con más de cincuenta años de antigüedad; y,
+
+7. Un rector elegido en votación por los rectores de las universidades privadas licenciadas con más de cincuenta años de antigüedad.
+
+La Comisión Especial debe instalarse, a convocatoria del Defensor del Pueblo, seis meses antes del vencimiento del mandato de los miembros de la Junta Nacional de Justicia y cesa con la juramentación de los miembros elegidos.
+
+La selección de los miembros es realizada a través de un procedimiento de acuerdo a ley, para lo cual, la Comisión Especial cuenta con el apoyo de una Secretaría Técnica Especializada. El procedimiento brinda las garantías de probidad, imparcialidad, publicidad y transparencia.
+
+Artículo 156. Para ser miembro de la Junta Nacional de Justicia se requiere:
+
+1. Ser peruano de nacimiento.
+
+2. Ser ciudadano en ejercicio.
+
+3. Ser mayor de cuarenta y cinco (45) años, y menor de setenta y cinco (75) años.
+
+4. Ser abogado:
+
+a. Con experiencia profesional no menor de veinticinco (25) años; o,
+
+b. Haber ejercido la cátedra universitaria por no menos de veinticinco (25) años; o,
+
+c. Haber ejercido la labor de investigador en materia jurídica por lo menos durante quince (15) años.
+
+5. No tener sentencia condenatoria firme por delito doloso.
+
+6. Tener reconocida trayectoria profesional y solvencia e idoneidad moral.
+
+Los miembros de la Junta Nacional de Justicia gozan de los mismos beneficios y derechos y están sujetos a las mismas obligaciones e incompatibilidades que los jueces supremos. Su función no debe incurrir en conflicto de intereses y es incompatible con cualquier otra actividad pública o privada fuera del horario de trabajo. Salvo la docencia universitaria.
 
 Artículo 157. Los miembros del Consejo Nacional de la Magistratura pueden ser removidos por causa grave mediante acuerdo del Congreso adoptado con el voto conforme de los dos tercios del número legal de miembros.
 
