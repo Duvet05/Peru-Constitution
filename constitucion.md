@@ -280,7 +280,11 @@ Artículo 34. Los miembros de las Fuerzas Armadas y de la Policía Nacional tien
 
 Artículo 35. Los ciudadanos pueden ejercer sus derechos individualmente o a través de organizaciones políticas como partidos, movimientos o alianzas, conforme a ley. Tales organizaciones concurren a la formación y manifestación de la voluntad popular. Su inscripción en el registro correspondiente les concede personalidad jurídica.
 
-La ley establece normas orientadas a asegurar el funcionamiento democrático de los partidos políticos, y la transparencia en cuanto al origen de sus recursos económicos y el acceso gratuito a los medios de comunicación social de propiedad del Estado en forma proporcional al último resultado electoral general.
+Mediante ley se establecen disposiciones orientadas a asegurar el funcionamiento democrático de las organizaciones políticas y la transparencia sobre el origen de sus recursos económicos, así como su verificación, fiscalización, control y sanción.
+
+El financiamiento de las organizaciones políticas puede ser público y privado. Se rige por ley conforme a criterios de transparencia y rendición de cuentas. El financiamiento público promueve la participación y fortalecimiento de las organizaciones políticas bajo criterios de igualdad y proporcionalidad. El financiamiento privado se realiza a través del sistema financiero con las excepciones, topes y restricciones correspondientes. El financiamiento ilegal genera la sanción administrativa, civil y penal respectiva.
+
+Solo se autoriza la difusión de propaganda electoral en medios de comunicación radiales y televisivos mediante financiamiento público indirecto.
 
 Artículo 36. El Estado reconoce el asilo político. Acepta la calificación del asilado que otorga el gobierno asilante. En caso de expulsión, no se entrega al asilado al país cuyo gobierno lo persigue.
 
