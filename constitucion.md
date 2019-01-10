@@ -578,6 +578,8 @@ Presidencia de la República no pueden integrar la lista de candidatos a congres
 
 Para ser elegido congresista, se requiere ser peruano de nacimiento, haber cumplido veinticinco años y gozar de derecho de sufragio.
 
+Artículo 90-A. Los parlamentarios no pueden ser reelegidos para un nuevo período, de manera inmediata, en el mismo cargo.
+
 Artículo 91. No pueden ser elegidos miembros del Parlamento Nacional si no han renunciado al cargo seis (6) meses antes de la elección:
 
 1. Los ministros y viceministros de Estado, el Contralor General.
