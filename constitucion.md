@@ -278,6 +278,8 @@ Artículo 33. El ejercicio de la ciudadanía se suspende:
 
 Artículo 34. Los miembros de las Fuerzas Armadas y de la Policía Nacional tienen derecho al voto y a la participación ciudadana, regulados por ley. No pueden postular a cargos de elección popular, participar en actividades partidarias o manifestaciones ni realizar actos de proselitismo, mientras no hayan pasado a la situación de retiro, de acuerdo a ley.
 
+Artículo 34-A. Están impedidas de postular a cargos de elección popular, las personas sobre quienes recaiga una sentencia condenatoria emitida en primera instancia, en calidad de autoras o cómplices, por la comisión de delito doloso.
+
 Artículo 35. Los ciudadanos pueden ejercer sus derechos individualmente o a través de organizaciones políticas como partidos, movimientos o alianzas, conforme a ley. Tales organizaciones concurren a la formación y manifestación de la voluntad popular. Su inscripción en el registro correspondiente les concede personalidad jurídica.
 
 Mediante ley se establecen disposiciones orientadas a asegurar el funcionamiento democrático de las organizaciones políticas y la transparencia sobre el origen de sus recursos económicos, así como su verificación, fiscalización, control y sanción.
@@ -301,6 +303,8 @@ CAPITULO IV
 DE LA FUNCION PUBLICA
 
 Artículo 39. Todos los funcionarios y trabajadores públicos están al servicio de la Nación. El Presidente de la República tiene la más alta jerarquía en el servicio a la Nación y, en ese orden, los representantes al Congreso, ministros de Estado, miembros del Tribunal Constitucional y del Consejo de la Magistratura, los magistrados supremos, el Fiscal de la Nación y el Defensor del Pueblo, en igual categoría; y los representantes de organismos descentralizados y alcaldes, de acuerdo a ley.
+
+Artículo 39-A. Están impedidas de ejercer la función pública, mediante designación en cargos de confianza, las personas sobre quienes recaiga una sentencia condenatoria emitida en primera instancia, en calidad de autoras o cómplices, por la comisión de delito doloso.
 
 Artículo 40. La ley regula el ingreso a la carrera administrativa, y los derechos, deberes y responsabilidades de los servidores públicos. No están comprendidos en dicha carrera los funcionarios que desempeñan cargos políticos o de confianza. Ningún funcionario o servidor público puede desempeñar más de un empleo o cargo público remunerado, con excepción de uno más por función docente.
 
