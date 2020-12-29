@@ -162,7 +162,7 @@ El Estado coordina la política educativa. Formula los lineamientos generales de
 
 Es deber del Estado asegurar que nadie se vea impedido de recibir educación adecuada por razón de su situación económica o de limitaciones mentales o físicas.
 
-Se da prioridad a la educación en la asignación de recursos ordinarios del Presupuesto de la República.
+La educación es un derecho humano fundamental que garantiza el desarrollo de la persona y la sociedad, por lo que el Estado invierte anualmente no menos del 6 % del PBI.
 
 Artículo 17. La educación inicial, primaria y secundaria son obligatorias. En las instituciones del Estado, la educación es gratuita. En las universidades públicas el Estado garantiza el derecho a educarse gratuitamente a los alumnos que mantengan un rendimiento satisfactorio y no cuenten con los recursos económicos necesarios para cubrir los costos de educación.
 
