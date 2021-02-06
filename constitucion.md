@@ -606,9 +606,11 @@ La función de congresista es incompatible con cargos similares en empresas que,
 
 Artículo 93. Los congresistas representan a la Nación. No están sujetos a mandato imperativo ni a interpelación.
 
-No son responsables ante autoridad ni órgano jurisdiccional alguno por las opiniones y votos que emiten en el ejercicio de sus funciones.
+No son responsables ante autoridad ni órgano jurisdiccional alguno por las opiniones y votos que emiten en el ejercicio de sus funciones. Los magistrados del Tribunal Constitucional y el Defensor del Pueblo gozan de las mismas prerrogativas que los congresistas.
 
-No pueden ser procesados ni presos sin previa autorización del Congreso o de la Comisión Permanente, desde que son elegidos hasta un mes después de haber cesado en sus funciones, excepto por delito flagrante, caso en el cual son puestos a disposición del Congreso o de la Comisión Permanente dentro de las veinticuatro horas, a fin de que se autorice o no la privación de la libertad y el enjuiciamiento.
+El procesamiento por la comisión de delitos comunes imputados a congresistas de la República durante el ejercicio de su mandato es de competencia de la Corte Suprema de Justicia.
+
+En caso de comisión de delitos antes de asumir el mandato, es competente el juez penal ordinario.
 
 Artículo 94. El Congreso elabora y aprueba su Reglamento, que tiene fuerza de ley; elige a sus representantes en la Comisión Permanente y en las demás comisiones; establece la organización y las atribuciones de los grupos parlamentarios; gobierna su economía; sanciona su presupuesto; nombra y remueve a sus funcionarios y empleados, y les otorga los beneficios que les corresponden de acuerdo a ley.
 
