@@ -308,6 +308,8 @@ Artículo 39-A. Están impedidas de ejercer la función pública, mediante desig
 
 Artículo 40. La ley regula el ingreso a la carrera administrativa, y los derechos, deberes y responsabilidades de los servidores públicos. No están comprendidos en dicha carrera los funcionarios que desempeñan cargos políticos o de confianza. Ningún funcionario o servidor público puede desempeñar más de un empleo o cargo público remunerado, con excepción de uno más por función docente.
 
+Por ley, con el voto favorable de más de la mitad del número legal de los congresistas, se amplía temporalmente la excepción del párrafo anterior, para el personal médico especialista o asistencial de salud, ante una emergencia sanitaria.
+
 No están comprendidos en la función pública los trabajadores de las empresas del Estado o de sociedades de economía mixta.
 
 Es obligatoria la publicación periódica en el diario oficial de los ingresos que, por todo concepto, perciben los altos funcionarios, y otros servidores públicos que señala la ley, en razón de sus cargos.
