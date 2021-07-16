@@ -732,7 +732,9 @@ Si ninguno de los candidatos obtiene la mayoría absoluta, se procede a una segu
 
 Junto con el Presidente de la República son elegidos, de la misma manera, con los mismos requisitos y por igual término, dos vicepresidentes.
 
-Artículo 112. El mandato presidencial es de cinco años, no hay reelección inmediata. Transcurrido otro período constitucional, como mínimo, el ex presidente puede volver a postular, sujeto a las mismas condiciones.
+Artículo 112. El mandato presidencial es de cinco años, no hay reelección inmediata. Transcurrido otro periodo constitucional, como mínimo, el expresidente puede volver a postular, sujeto a las mismas condiciones.
+
+Culminado el mandato presidencial, el expresidente de la República, o quien hubiese ocupado el cargo, permanece dentro del territorio nacional por el periodo mínimo de un año, salvo autorización de salida aprobada por el Congreso de la República, con más de la mitad del número legal de sus miembros, considerando las razones objetivas que hubiesen motivado la solicitud.
 
 Artículo 113. La Presidencia de la República vaca por:
 
