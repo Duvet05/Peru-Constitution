@@ -30,11 +30,21 @@ Los delitos cometidos por medio del libro, la prensa y demás medios de comunica
 
 Es delito toda acción que suspende o clausura algún órgano de expresión o le impide circular libremente. Los derechos de informar y opinar comprenden los de fundar medios de comunicación.
 
-5. A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. Se exceptúan las informaciones
+5. A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. Se exceptúan las informaciones que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional.
 
-que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional.
+Toda persona tiene derecho al secreto bancario y la reserva tributaria. Su levantamiento solo puede efectuarse a pedido:
 
-El secreto bancario y la reserva tributaria pueden levantarse a pedido del Juez, del Fiscal de la Nación, o de una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado.
+1. Del juez.
+
+2. Del Fiscal de la Nación.
+
+3. De una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado.
+
+4. Del Contralor General de la República respecto de funcionarios y servidores públicos que administren o manejen fondos del Estado o de organismos sostenidos por éste, en los tres niveles de gobierno, en el marco de una acción de control.
+
+5. Del Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones para los fines específicos de la inteligencia financiera.
+
+El levantamiento de estos derechos fundamentales se efectúa de acuerdo a ley, que incluye decisión motivada y bajo responsabilidad de su titular.
 
 6. A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informaciones que afecten la intimidad personal y familiar.
 
