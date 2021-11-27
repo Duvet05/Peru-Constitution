@@ -30,21 +30,11 @@ Los delitos cometidos por medio del libro, la prensa y demás medios de comunica
 
 Es delito toda acción que suspende o clausura algún órgano de expresión o le impide circular libremente. Los derechos de informar y opinar comprenden los de fundar medios de comunicación.
 
-5. A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. Se exceptúan las informaciones que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional.
+5. A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. Se exceptúan las informaciones
 
-Toda persona tiene derecho al secreto bancario y la reserva tributaria. Su levantamiento solo puede efectuarse a pedido:
+que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional.
 
-1. Del juez.
-
-2. Del Fiscal de la Nación.
-
-3. De una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado.
-
-4. Del Contralor General de la República respecto de funcionarios y servidores públicos que administren o manejen fondos del Estado o de organismos sostenidos por éste, en los tres niveles de gobierno, en el marco de una acción de control.
-
-5. Del Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones para los fines específicos de la inteligencia financiera.
-
-El levantamiento de estos derechos fundamentales se efectúa de acuerdo a ley, que incluye decisión motivada y bajo responsabilidad de su titular.
+El secreto bancario y la reserva tributaria pueden levantarse a pedido del Juez, del Fiscal de la Nación, o de una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado.
 
 6. A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informaciones que afecten la intimidad personal y familiar.
 
@@ -200,11 +190,11 @@ Para las instituciones educativas privadas que generen ingresos que por ley sean
 
 Artículo 20. Los colegios profesionales son instituciones autónomas con personalidad de derecho público. La ley señala los casos en que la colegiación es obligatoria.
 
-Artículo 21. Los yacimientos y restos arqueológicos, construcciones monumentos, lugares, documentos bibliográficos y de archivo, objetos artísticos y testimonios de valor histórico, expresamente declarados bienes culturales, y provisionalmente los que se presumen como tales, son patrimonio cultural de la Nación, independientemente de su condición de propiedad privada o pública. Están protegidos por el Estado.
+Artículo 21. Los yacimientos y restos arqueológicos, construcciones, monumentos, lugares, documentos bibliográficos y de archivo, objetos artísticos y testimonios de valor histórico, expresamente declarados bienes culturales, y provisionalmente los que se presumen como tales, son patrimonio cultural de la Nación, independientemente de su condición de propiedad privada o pública. Están protegidos por el Estado.
 
-En el caso de los bienes culturales no descubiertos ubicados en el subsuelo y en zonas subacuáticas del territorio nacional, la propiedad de estos es del Estado, la que es inalienable e imprescriptible.
+La ley garantiza la propiedad de dicho patrimonio.
 
-Todos los bienes integrantes del patrimonio cultural de la Nación ya sean de carácter público o privado, se encuentran subordinados al interés general. El Estado fomenta conforme a ley, la participación privada en la conservación, restauración, exhibición y difusión del mismo, así como la restitución al país cuando hubiere sido ilegalmente trasladado fuera del territorio nacional.
+Fomenta conforme a ley, la participación privada en la conservación, restauración, exhibición y difusión del mismo, así como su restitución al país cuando hubiere sido ilegalmente trasladado fuera del territorio nacional.
 
 Artículo 22. El trabajo es un deber y un derecho. Es base del bienestar social y un medio de realización de la persona.
 
@@ -742,9 +732,7 @@ Si ninguno de los candidatos obtiene la mayoría absoluta, se procede a una segu
 
 Junto con el Presidente de la República son elegidos, de la misma manera, con los mismos requisitos y por igual término, dos vicepresidentes.
 
-Artículo 112. El mandato presidencial es de cinco años, no hay reelección inmediata. Transcurrido otro periodo constitucional, como mínimo, el expresidente puede volver a postular, sujeto a las mismas condiciones.
-
-Culminado el mandato presidencial, el expresidente de la República, o quien hubiese ocupado el cargo, permanece dentro del territorio nacional por el periodo mínimo de un año, salvo autorización de salida aprobada por el Congreso de la República, con más de la mitad del número legal de sus miembros, considerando las razones objetivas que hubiesen motivado la solicitud.
+Artículo 112. El mandato presidencial es de cinco años, no hay reelección inmediata. Transcurrido otro período constitucional, como mínimo, el ex presidente puede volver a postular, sujeto a las mismas condiciones.
 
 Artículo 113. La Presidencia de la República vaca por:
 
