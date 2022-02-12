@@ -192,9 +192,7 @@ Artículo 20. Los colegios profesionales son instituciones autónomas con person
 
 Artículo 21. Los yacimientos y restos arqueológicos, construcciones, monumentos, lugares, documentos bibliográficos y de archivo, objetos artísticos y testimonios de valor histórico, expresamente declarados bienes culturales, y provisionalmente los que se presumen como tales, son patrimonio cultural de la Nación, independientemente de su condición de propiedad privada o pública. Están protegidos por el Estado.
 
-La ley garantiza la propiedad de dicho patrimonio.
-
-Fomenta conforme a ley, la participación privada en la conservación, restauración, exhibición y difusión del mismo, así como su restitución al país cuando hubiere sido ilegalmente trasladado fuera del territorio nacional.
+En el caso de los bienes culturales no descubiertos ubicados en el subsuelo y en zonas subacuáticas del territorio nacional, la propiedad de estos es del Estado, la que es inalienable e imprescriptible. Todos los bienes integrantes del patrimonio cultural de la Nación ya sean de carácter público o privado, se encuentran subordinados al interés general. El Estado fomenta conforme a ley, la participación privada en la conservación, restauración, exhibición y difusión del mismo, así como la restitución al país cuando hubiere sido ilegalmente trasladado fuera del territorio nacional.
 
 Artículo 22. El trabajo es un deber y un derecho. Es base del bienestar social y un medio de realización de la persona.
 
