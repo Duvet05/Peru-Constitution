@@ -26,6 +26,8 @@ Artículo 2. Toda persona tiene derecho:
 
 4. A las libertades de información, opinión, expresión y difusión del pensamiento mediante la palabra oral o escrita o la imagen, por cualquier medio de comunicación social, sin previa autorización ni censura ni impedimento algunos, bajo las responsabilidades de ley.
 
+El Estado promueve el uso de las tecnologías de la información y la comunicación en todo el país.
+
 Los delitos cometidos por medio del libro, la prensa y demás medios de comunicación social se tipifican en el Código Penal y se juzgan en el fuero común.
 
 Es delito toda acción que suspende o clausura algún órgano de expresión o le impide circular libremente. Los derechos de informar y opinar comprenden los de fundar medios de comunicación.
@@ -159,6 +161,8 @@ La formación ética y cívica y la enseñanza de la Constitución y de los dere
 La enseñanza se imparte, en todos sus niveles, con sujeción a los principios constitucionales y a los fines de la correspondiente institución educativa.
 
 Los medios de comunicación social deben colaborar con el Estado en la educación y en la formación moral y cultural.
+
+Artículo 14-A. El Estado garantiza, a través de la inversión pública o privada, el acceso a internet libre en todo el territorio nacional, con especial énfasis en las zonas rurales, comunidades campesinas y nativas.
 
 Artículo 15. El profesorado en la enseñanza oficial es carrera pública. La ley establece los requisitos para desempeñarse como director o profesor de un centro educativo, así como sus derechos y obligaciones. El Estado y la sociedad procuran su evaluación, capacitación, profesionalización y promoción permanentes.
 
