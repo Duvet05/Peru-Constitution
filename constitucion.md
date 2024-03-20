@@ -40,9 +40,13 @@ Toda persona tiene derecho al secreto bancario y la reserva tributaria. Su levan
 
 2. Del Fiscal de la Nación.
 
-3. De una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado.
+3. De una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado(*).
 
-4. Del Contralor General de la República respecto de funcionarios y servidores públicos que administren o manejen fondos del Estado o de organismos sostenidos por este, en los tres niveles de gobierno, en el marco de una acción de control.
+(*) Numeral modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“3. De una comisión investigadora de la Cámara de Diputados con arreglo a ley y siempre que se refieran al caso investigado.”
+
+4. Del Contralor General de la República respecto de funcionarios y servidores públicos que administren o manejen fondos del Estado o de organismos sostenidos por éste, en los tres niveles de gobierno, en el marco de una acción de control.
 
 5. Del Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones para los fines específicos de la inteligencia financiera.
 
@@ -314,7 +318,13 @@ CAPITULO IV
 
 DE LA FUNCION PUBLICA
 
-Artículo 39. Todos los funcionarios y trabajadores públicos están al servicio de la Nación. El Presidente de la República tiene la más alta jerarquía en el servicio a la Nación y, en ese orden, los representantes al Congreso, ministros de Estado, miembros del Tribunal Constitucional y del Consejo de la Magistratura, los magistrados supremos, el Fiscal de la Nación y el Defensor del Pueblo, en igual categoría; y los representantes de organismos descentralizados y alcaldes, de acuerdo a ley.
+Artículo 39. Todos los funcionarios y trabajadores públicos están al servicio de la Nación. El Presidente de la República tiene la más alta jerarquía en el servicio a la Nación y, en ese orden, los representantes al Congreso, ministros de Estado, miembros del Tribunal Constitucional y de la Junta Nacional de Justicia, los magistrados supremos, el Fiscal de la Nación y el Defensor del Pueblo, en igual categoría; y los representantes de organismos descentralizados y alcaldes, de acuerdo a ley(*).
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 39. Todos los funcionarios y trabajadores públicos están al servicio de
+
+la Nación. El presidente de la República tiene la más alta jerarquía en el servicio a la Nación y, en ese orden, los senadores y diputados, ministros de Estado, magistrados del Tribunal Constitucional y de la Junta Nacional de Justicia, los jueces supremos, los fiscales supremos y el defensor del pueblo, en igual categoría; y los representantes de organismos descentralizados y alcaldes, de acuerdo a ley”.
 
 Artículo 39-A. Están impedidas de ejercer la función pública, mediante designación en cargos de confianza, las personas sobre quienes recaiga una sentencia condenatoria emitida en primera instancia, en calidad de autoras o cómplices, por la comisión de delito doloso.
 
@@ -398,7 +408,11 @@ DE LOS TRATADOS
 
 Artículo 55. Los tratados celebrados por el Estado y en vigor forman parte del derecho nacional.
 
-Artículo 56. Los tratados deben ser aprobados por el Congreso antes de su ratificación por el Presidente de la República, siempre que versen sobre las siguientes materias:
+Artículo 56. Los tratados deben ser aprobados por el Congreso antes de su ratificación por el Presidente de la República, siempre que versen sobre las siguientes materias(*):
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 56. Los tratados deben ser aprobados por el Senado, con el voto de la mitad más uno del número legal de sus miembros, antes de su ratificación por el presidente de la República, siempre que versen sobre las siguientes materias:”
 
 1. Derechos Humanos.
 
@@ -408,13 +422,25 @@ Artículo 56. Los tratados deben ser aprobados por el Congreso antes de su ratif
 
 4. Obligaciones financieras del Estado.
 
-También deben ser aprobados por el Congreso los tratados que crean, modifican o suprimen tributos; los que exigen modificación o derogación de alguna ley y los que requieren medidas legislativas para su ejecución.
+También deben ser aprobados por el Congreso los tratados que crean, modifican o suprimen tributos; los que exigen modificación o derogación de alguna ley y los que requieren medidas legislativas para su ejecución(*).
 
-Artículo 57. El Presidente de la República puede celebrar o ratificar tratados o adherir a éstos sin el requisito de la aprobación previa del Congreso en materias no contempladas en el artículo precedente. En todos esos casos, debe dar cuenta al Congreso.
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“También deben ser aprobados con la misma votación, los tratados que crean, modifican o suprimen tributos; los que exigen modificación o derogación de alguna ley y los que requieren medidas legislativas para su ejecución.”
+
+Artículo 57. El Presidente de la República puede celebrar o ratificar tratados o adherir a éstos sin el requisito de la aprobación previa del Congreso en materias no contempladas en el artículo precedente. En todos esos casos, debe dar cuenta al Congreso(*).
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 57. El presidente de la República puede celebrar o ratificar tratados o adherir a éstos sin el requisito de la aprobación previa del Senado en materias no contempladas en el artículo precedente. En todos esos casos, debe dar cuenta al Senado”.
 
 Cuando el tratado afecte disposiciones constitucionales debe ser aprobado por el mismo procedimiento que rige la reforma de la Constitución, antes de ser ratificado por el Presidente de la República.
 
-La denuncia de los tratados es potestad del Presidente de la República, con cargo de dar cuenta al Congreso. En el caso de los tratados sujetos a aprobación del Congreso, la denuncia requiere aprobación previa de éste.
+La denuncia de los tratados es potestad del Presidente de la República, con cargo de dar cuenta al Congreso. En el caso de los tratados sujetos a aprobación del Congreso, la denuncia requiere aprobación previa de éste(*).
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“La denuncia de los tratados es potestad del presidente de la República, con cargo de dar cuenta al Senado. En el caso de los tratados sujetos a aprobación del Senado, la denuncia requiere aprobación previa de éste”.
 
 TITULO III
 
@@ -504,13 +530,21 @@ Artículo 77. La administración económica y financiera del Estado se rige por 
 
 El presupuesto asigna equitativamente los recursos públicos, su programación y ejecución responden a los criterios de eficiencia de necesidades sociales básicas y de descentralización. Corresponden a las respectivas circunscripciones, conforme a ley, recibir una participación adecuada del total de los ingresos y rentas obtenidos por el Estado en la explotación de los recursos naturales en cada zona en calidad de canon.
 
-Artículo 78. El Presidente de la República envía al Congreso el proyecto de Ley de Presupuesto dentro de un plazo que vence el 30 de agosto de cada año.
+Artículo 78. El Presidente de la República envía al Congreso el proyecto de Ley de Presupuesto dentro de un plazo que vence el 30 de agosto de cada año.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 78. El presidente de la República envía al Congreso el proyecto de Ley de Presupuesto dentro de un plazo que vence el 30 de agosto de cada año. Dicho proyecto es estudiado y dictaminado por una comisión bicameral integrada por igual número de
+
+senadores y diputados. El dictamen es debatido y votado por el Congreso, de acuerdo con lo previsto en su reglamento.”
 
 En la misma fecha, envía también los proyectos de ley de endeudamiento y de equilibrio financiero.
 
 El proyecto presupuestal debe estar efectivamente equilibrado.
 
-Los préstamos procedentes del Banco Central de Reserva o del Banco de la Nación no se contabilizan como ingreso fiscal. No pueden cubrirse con empréstitos los gastos de carácter permanente.
+Los préstamos procedentes del Banco Central de Reserva o del Banco de la Nación no se contabilizan como ingreso fiscal.
+
+No pueden cubrirse con empréstitos los gastos de carácter permanente.
 
 No puede aprobarse el presupuesto sin partida destinada al servicio de la deuda pública.
 
@@ -518,11 +552,25 @@ Artículo 79. Los representantes ante el Congreso no tienen iniciativa para crea
 
 El Congreso no puede aprobar tributos con fines predeterminados, salvo por solicitud del Poder Ejecutivo.
 
-En cualquier otro caso, las leyes de índole tributaria referidas a beneficios o exoneraciones requieren previo informe del Ministerio de Economía y Finanzas.
+En cualquier otro caso, las leyes de índole tributaria referidas a beneficios o exoneraciones requieren previo informe del Ministerio de Economía y Finanzas.(*)
 
-Sólo por ley expresa, aprobada por dos tercios de los congresistas, puede establecerse selectiva y temporalmente un tratamiento tributario especial para una determinada zona del país.
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
 
-Artículo 80. Sustentación del Presupuesto Público El Ministro de Economía y Finanzas sustenta, ante el Pleno del Congreso de la República, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector; previamente sustentan los resultados y metas de la ejecución del presupuesto del año anterior y los avances en la ejecución del presupuesto del año fiscal correspondiente. El Presidente de la Corte Suprema, el Fiscal de la Nación y el Presidente del Jurado Nacional de Elecciones sustentan los pliegos correspondientes a cada institución.
+“En cualquier otro caso, las leyes de índole tributaria referidas a beneficios o exoneraciones requieren previo informe del Ministerio de Economía y Finanzas. Su aprobación requiere de la votación de más de la mitad del número legal de miembros de cada cámara.”
+
+Sólo por ley expresa, aprobada por dos tercios de los congresistas, puede establecerse selectiva y temporalmente un tratamiento tributario especial para una determinada zona del país.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Sólo por ley expresa, aprobada en cada cámara por los dos tercios del número legal de sus miembros, puede establecerse selectiva y temporalmente un tratamiento tributario especial para una determinada zona del país.”
+
+Artículo 80. Sustentación del Presupuesto Público El Ministro de Economía y Finanzas sustenta, ante el Pleno del Congreso de la República, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector; previamente sustentan los resultados y metas de la ejecución del presupuesto del año anterior y los avances en la ejecución del presupuesto del año fiscal correspondiente. El Presidente de la Corte Suprema, el Fiscal de la Nación y el Presidente del Jurado Nacional de Elecciones sustentan los pliegos correspondientes a cada institución.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 80. El ministro de Economía y Finanzas sustenta, ante la Cámara de Diputados y el Senado, reunidos en Congreso de la República, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector; previamente sustentan los resultados y metas de la ejecución del presupuesto del año anterior y los avances en la ejecución del presupuesto del año fiscal correspondiente. El presidente de la Corte Suprema, el fiscal de la Nación y el presidente del Jurado Nacional
+
+de Elecciones sustentan los pliegos correspondientes a cada institución”.
 
 Si la autógrafa de la Ley de Presupuesto no es remitida al Poder Ejecutivo hasta el treinta de noviembre, entra en vigencia el proyecto de este, que es promulgado por decreto legislativo.
 
@@ -530,11 +578,21 @@ Los créditos suplementarios, habilitaciones y transferencias de partidas se tra
 
 Artículo 81. La Cuenta General de la República, acompañada del informe de auditoría de la Contraloría General de la República, es remitida por el Presidente de la República al Congreso de la República en un plazo que vence el quince de agosto del año siguiente a la ejecución del presupuesto.
 
-La Cuenta General de la República es examinada y dictaminada por una comisión revisora hasta el quince de octubre. El Congreso de la República se pronuncia en un plazo que vence el treinta de octubre. Si no hay pronunciamiento del Congreso de la República en el plazo señalado, se eleva el dictamen de la comisión revisora al Poder Ejecutivo para que este promulgue un decreto legislativo que contiene la Cuenta General de la República.
+La Cuenta General de la República es examinada y dictaminada por una comisión revisora hasta el quince de octubre. El Congreso de la República se pronuncia en un plazo que vence el treinta de octubre. Si no hay pronunciamiento del Congreso de la República en el plazo señalado, se eleva el dictamen de la comisión revisora al Poder Ejecutivo para que este promulgue un decreto legislativo que contiene la Cuenta General de la República.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 81. La Cuenta General de la República, acompañada del informe de auditoría de la Contraloría General de la República, es remitida por el presidente de la República al Congreso de la República en un plazo que vence el quince de agosto del año siguiente a la ejecución del presupuesto.
+
+La Cuenta General de la República es examinada y dictaminada por una comisión bicameral integrada por igual número de senadores y diputados, conforme lo dispone el Reglamento del Congreso, hasta el quince de octubre. El Senado y la Cámara de Diputados, reunidos en Congreso, se pronuncian en un plazo que vence el treinta de noviembre. Si no hay pronunciamiento del Congreso de la República en el plazo señalado, se eleva el dictamen de la comisión bicameral al Poder Ejecutivo para que este promulgue un decreto legislativo que contenga la Cuenta General de la República.”
 
 Artículo 82. La Contraloría General de la República es una entidad descentralizada de Derecho Público que goza de autonomía conforme a su ley orgánica. Es el órgano superior del Sistema Nacional de Control. Supervisa la legalidad de la ejecución del Presupuesto del Estado, de las operaciones de la deuda pública y de los actos de las instituciones sujetas a control.
 
-El Contralor General es designado por el Congreso, a propuesta del Poder Ejecutivo, por siete años. Puede ser removido por el Congreso por falta grave.
+El Contralor General es designado por el Congreso, a propuesta del Poder Ejecutivo, por siete años. Puede ser removido por el Congreso por falta grave.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“El contralor general es designado por el Senado, a propuesta del Poder Ejecutivo, por siete años. Puede ser removido por la misma cámara por falta grave.”
 
 CAPITULO V
 
@@ -556,15 +614,27 @@ Requiere autorización por ley cuando el monto de tales operaciones o convenios 
 
 Artículo 86. El Banco es gobernado por un Directorio de siete miembros. El Poder Ejecutivo designa a cuatro, entre ellos al Presidente. El Congreso ratifica a éste y elige a los tres restantes, con la mayoría absoluta del número legal de sus miembros.
 
-Todos los directores del Banco son nombrados por el período constitucional que corresponde al Presidente de la República. No representan a entidad ni interés particular algunos. El Congreso puede removerlos por falta grave. En caso de remoción, los nuevos directores completan el correspondiente período constitucional.
+Todos los directores del Banco son nombrados por el período constitucional que corresponde al Presidente de la República. No representan a entidad ni interés particular algunos. El Congreso puede removerlos por falta grave. En caso de remoción, los nuevos directores completan el correspondiente período constitucional.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 86. El Banco Central de Reserva es gobernado por un Directorio de siete miembros. El Poder Ejecutivo designa a cuatro, entre ellos al presidente. El Senado ratifica a éste y elige a los tres restantes con la mayoría absoluta del número legal de sus miembros.
+
+Todos los directores del Banco Central de Reserva son nombrados por el período constitucional que corresponde al presidente de la República. No representan a entidad ni interés particular algunos. El Senado puede removerlos por falta grave con igual votación. En caso de remoción, los nuevos directores completan el correspondiente período constitucional.”
 
 Artículo 87. El Estado fomenta y garantiza el ahorro. La ley establece las obligaciones y los límites de las empresas que reciben ahorros del público, así como el modo y los alcances de dicha garantía.
 
-La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones ejerce el control de las empresas bancarias, de seguros, de administración de fondos de pensiones, de las
+La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones ejerce el control de las empresas bancarias, de seguros, de administración de fondos de pensiones, de las demás que reciben depósitos del público y de aquellas otras que, por realizar operaciones conexas o similares, determine la ley.
 
-demás que reciben depósitos del público y de aquellas otras que, por realizar operaciones conexas o similares, determine la ley. La ley establece la organización y la autonomía funcional de la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
+La ley establece la organización y la autonomía funcional de la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
 
-El Poder Ejecutivo designa al Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones por el plazo correspondiente a su período constitucional. El Congreso lo ratifica.
+El Poder Ejecutivo designa al Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones por el plazo correspondiente a su período constitucional. El Congreso lo ratifica.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las
+
+próximas elecciones generales, cuyo texto es el siguiente:
+
+“El Poder Ejecutivo designa al superintendente de banca, seguros y administradoras privadas de fondos de pensiones por el plazo correspondiente a su período constitucional. El Senado lo ratifica.”
 
 CAPITULO VI
 
@@ -590,25 +660,59 @@ CAPITULO I
 
 PODER LEGISLATIVO
 
-Artículo 90. El Poder Legislativo reside en el Congreso de la República, el cual consta de cámara única. El número de congresistas es de ciento treinta. El Congreso de la República se elige por un período de cinco años mediante un proceso electoral organizado conforme a ley. Los candidatos a la
+Artículo 90. El Poder Legislativo reside en el Congreso de la República, el cual consta de cámara única.
 
-Presidencia de la República no pueden integrar la lista de candidatos a congresistas. Los candidatos a vicepresidentes pueden ser simultáneamente candidatos a una representación en el Congreso.
+El número de congresistas es de ciento treinta. El Congreso de la República se elige por un período de cinco años mediante un proceso electoral organizado conforme a ley. Los candidatos a la Presidencia de la República no pueden integrar la lista de candidatos a congresistas. Los candidatos a vicepresidentes pueden ser simultáneamente candidatos a una representación en el Congreso.
 
-Para ser elegido congresista, se requiere ser peruano de nacimiento, haber cumplido veinticinco años y gozar de derecho de sufragio.
+Para ser elegido congresista, se requiere ser peruano de nacimiento, haber cumplido veinticinco años y gozar de derecho de sufragio.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 90. El Poder Legislativo reside en el Congreso de la República, el cual está conformado por el Senado y la Cámara de Diputados.
+
+El Senado está conformado por un número mínimo de sesenta senadores, elegidos por un período de cinco años mediante un proceso electoral conforme a ley, asegurando que, por lo menos, se elija a un representante por cada circunscripción electoral, mientras que los restantes son elegidos por distrito único electoral nacional. El número de senadores puede ser incrementado mediante ley orgánica.
+
+La Cámara de Diputados cuenta con un número mínimo de ciento treinta diputados, elegidos por un período de cinco años mediante un proceso electoral conforme a ley. El número de diputados puede ser incrementado mediante ley orgánica en relación con el incremento poblacional.
+
+Durante el receso funciona la Comisión Permanente, conforme a lo previsto en el Reglamento del Congreso.
+
+La Presidencia del Congreso de la República recae de manera alternada sobre los presidentes de cada cámara.
+
+Para ser elegido senador se requiere ser peruano de nacimiento, haber cumplido cuarenta y cinco años al momento de la postulación o haber sido congresista o diputado, y gozar del derecho de sufragio.
+
+Para ser elegido diputado se requiere ser peruano de nacimiento, haber cumplido veinticinco años al momento de la postulación y gozar del derecho de sufragio.
+
+Los candidatos a la Presidencia o vicepresidencias de la República pueden ser simultáneamente candidatos a senador o diputado.
+
+Los senadores y diputados pueden ser reelegidos de manera inmediata en el mismo cargo.”
 
 Artículo 90-A. Los parlamentarios no pueden ser reelegidos para un nuevo período, de manera inmediata, en el mismo cargo.
+
+(*)
+
+(*) Artículo derogado por la Única Disposición Complementaria Derogatoria de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales.
 
 Artículo 91. No pueden ser elegidos miembros del Parlamento Nacional si no han renunciado al cargo seis (6) meses antes de la elección:
 
 1. Los ministros y viceministros de Estado, el Contralor General.
 
-2. Los miembros del Tribunal Constitucional, del Consejo Nacional de la Magistratura, del Poder Judicial, del Ministerio Público, del Jurado Nacional de Elecciones, ni el Defensor del Pueblo.
+2. Los miembros del Tribunal Constitucional, del Consejo Nacional de la Magistratura, del Poder Judicial, del Ministerio Público, del Jurado Nacional de Elecciones, ni el Defensor del Pueblo.(*)
+
+(*) El primer párrafo y los numerales 1 y 2 modificados por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entran en vigor a partir de las próximas elecciones generales, cuyos textos son los siguientes:
+
+“Artículo 91. No pueden ser elegidos miembros del Congreso de la República si no han renunciado al cargo seis (6) meses antes de la elección:
+
+1. El presidente de la República, los ministros, viceministros de Estado, ni el contralor general.
+
+2. Los miembros del Tribunal Constitucional, de la Junta Nacional de Justicia, del Poder Judicial, del Ministerio Público, del Jurado Nacional de Elecciones, el defensor del pueblo, el jefe de la Oficina Nacional de Procesos Electorales ni el jefe del Registro Nacional de Identificación y Estado Civil.”
 
 3. El Presidente del Banco Central de Reserva, el Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, y el Superintendente Nacional de Administración Tributaria.
 
-4. Los miembros de las Fuerzas Armadas y de la Policía Nacional en actividad, y
+4. El Presidente del Banco Central de Reserva, el Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, y el Superintendente Nacional de Administración Tributaria.
 
-5. Los demás casos que la Constitución prevé.
+5. Los miembros de las Fuerzas Armadas y de la Policía Nacional en actividad, y
+
+6. Los demás casos que la Constitución prevé.
 
 Artículo 92. La función de congresista es de tiempo completo; le está prohibido desempeñar cualquier cargo o ejercer cualquier profesión u oficio, durante las horas de funcionamiento del Congreso.
 
@@ -616,7 +720,19 @@ El mandato del congresista es incompatible con el ejercicio de cualquiera otra f
 
 La función de congresista es, asimismo, incompatible con la condición de gerente, apoderado, representante, mandatario, abogado, accionista mayoritario o miembro del Directorio de empresas que tienen con el Estado contratos de obras, de suministro o de aprovisionamiento, o que administran rentas públicas o prestan servicios públicos.
 
-La función de congresista es incompatible con cargos similares en empresas que, durante el mandato del congresista, obtengan concesiones del Estado, así como en empresas del sistema crediticio financiero supervisadas por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
+La función de congresista es incompatible con cargos similares en empresas que, durante el mandato del congresista, obtengan concesiones del Estado, así como en empresas del sistema crediticio financiero supervisadas por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 92. La función de senador o diputado es de tiempo completo. Les está prohibido desempeñar cualquier cargo o ejercer cualquier profesión u oficio, durante las horas de funcionamiento del Congreso.
+
+El mandato del senador o diputado es incompatible con el ejercicio de cualquiera otra función pública, excepto la de ministro de Estado, y el desempeño, previa autorización del Congreso, de comisiones extraordinarias de carácter internacional. Igualmente se exceptúa el ejercicio de la docencia universitaria.
+
+La función de senador o diputado es, asimismo incompatible con la condición de gerente, apoderado, representante, mandatario, abogado, accionista mayoritario o miembro del directorio de empresas que tienen con el Estado contratos de obras, de suministro o de aprovisionamiento, o que administran rentas públicas o prestan servicios públicos.
+
+La función de senador o diputado es incompatible con cargos similares en
+
+empresas que, durante la vigencia de su mandato, obtengan concesiones del Estado, así como en empresas del sistema crediticio financiero supervisadas por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.”
 
 Artículo 93. Los congresistas representan a la Nación. No están sujetos a mandato imperativo ni a interpelación.
 
@@ -624,35 +740,93 @@ No son responsables ante autoridad ni órgano jurisdiccional alguno por las opin
 
 El procesamiento por la comisión de delitos comunes imputados a congresistas de la República durante el ejercicio de su mandato es de competencia de la Corte Suprema de Justicia.
 
+(*)
+
+(*) Párrafos 1, 2 y 3 modificados por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entran en vigor a partir de las próximas elecciones generales, cuyo textos son los siguientes:
+
+“Artículo 93. Los senadores y diputados representan a la Nación. No están sujetos a mandato imperativo ni a interpelación.
+
+No son responsables ante autoridad ni órgano jurisdiccional alguno por las opiniones y votos que emiten en el ejercicio de sus funciones. Los magistrados del Tribunal Constitucional y el defensor del pueblo gozan de las mismas prerrogativas que los senadores y diputados.
+
+El procesamiento por la comisión de delitos comunes imputados a los senadores o diputados durante el ejercicio de su mandato es de competencia de la Corte Suprema de Justicia.”
+
 En caso de comisión de delitos antes de asumir el mandato, es competente el juez penal ordinario.
 
-Artículo 94. El Congreso elabora y aprueba su Reglamento, que tiene fuerza de ley; elige a sus representantes en la Comisión Permanente y en las demás comisiones; establece la organización y las atribuciones de los grupos parlamentarios; gobierna su economía; sanciona su presupuesto; nombra y remueve a sus funcionarios y empleados, y les otorga los beneficios que les corresponden de acuerdo a ley.
+Artículo 94. El Congreso elabora y aprueba su Reglamento, que tiene fuerza de ley; elige a sus representantes en la Comisión Permanente y en las demás comisiones; establece la organización y las atribuciones de los grupos parlamentarios; gobierna su economía; sanciona su presupuesto; nombra y remueve a sus funcionarios y empleados, y les otorga los beneficios que les corresponden de acuerdo a ley.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 94. El Congreso de la República, el Senado y la Cámara de Diputados elaboran y aprueban sus respectivos reglamentos, que tienen naturaleza de ley orgánica; eligen a sus representantes en la Comisión Permanente y en las demás comisiones, de acuerdo con los principios de pluralidad y proporcionalidad. Asimismo, establecen su organización y las atribuciones de los grupos parlamentarios; nombran y remueven a sus funcionarios y empleados, y les otorgan los beneficios que les corresponden de acuerdo a ley. El Congreso de la República sanciona su presupuesto y gobierna su economía.”
 
 Artículo 95. El mandato legislativo es irrenunciable.
 
-Las sanciones disciplinarias que impone el Congreso a los representantes y que implican suspensión de funciones no pueden exceder de ciento veinte días de legislatura.
+Las sanciones disciplinarias que impone el Congreso a los representantes y que implican suspensión de funciones no pueden exceder de ciento veinte días de legislatura.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 95. El mandato legislativo de senador o diputado es irrenunciable.
+
+Las sanciones disciplinarias que imponen las cámaras a sus representantes y que implican suspensión de funciones no pueden exceder de ciento veinte días de legislatura.”
 
 Artículo 96. Cualquier representante al Congreso puede pedir a los Ministros de Estado, al Jurado Nacional de Elecciones, al Contralor General, al Banco Central de Reserva, a la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, a los Gobiernos Regionales y Locales y a las instituciones que señala la ley, los informes que estime necesarios.
 
-El pedido se hace por escrito y de acuerdo con el Reglamento del Congreso. La falta de respuesta da lugar a las responsabilidades de ley.
+El pedido se hace por escrito y de acuerdo con el Reglamento del Congreso. La falta de respuesta da lugar a las responsabilidades de ley.(*)
 
-Artículo 97. El Congreso puede iniciar investigaciones sobre cualquier asunto de interés público. Es obligatorio comparecer, por requerimiento, ante las comisiones encargadas de tales investigaciones, bajo los mismos apremios que se observan en el procedimiento judicial.
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 96. Cualquier senador o diputado puede pedir a los ministros de Estado, al Jurado Nacional de Elecciones, al contralor general, al Banco Central de Reserva, a la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos
+
+de Pensiones, a los gobiernos regionales y gobiernos locales y a las instituciones que señala la ley, los informes que estime necesarios.
+
+El pedido se hace por escrito y de acuerdo con el reglamento de cada cámara. La falta de respuesta da lugar a las responsabilidades de ley.”
+
+Artículo 97. El Congreso puede iniciar investigaciones sobre cualquier asunto de interés público. Es obligatorio comparecer, por requerimiento, ante las comisiones encargadas de tales investigaciones, bajo los mismos apremios que se observan en el procedimiento judicial.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 97. La Cámara de Diputados puede iniciar investigaciones sobre cualquier asunto de interés público. Es obligatorio comparecer, por requerimiento, ante las comisiones encargadas de tales investigaciones, bajo los mismos apremios que se observan en el procedimiento judicial.
 
 Para el cumplimiento de sus fines, dichas comisiones pueden acceder a cualquier información, la cual puede implicar el levantamiento del secreto bancario y el de la reserva tributaria; excepto la información que afecte la intimidad personal. Sus conclusiones no obligan a los órganos jurisdiccionales.
 
 Artículo 98. El Presidente de la República está obligado a poner a disposición del Congreso los efectivos de las Fuerzas Armadas y de la Policía Nacional que demande el Presidente del Congreso.
 
-Las Fuerzas Armadas y la Policía Nacional no pueden ingresar en el recinto del Congreso sino con autorización de su propio Presidente.
+Las Fuerzas Armadas y la Policía Nacional no pueden ingresar en el recinto del Congreso sino con autorización de su propio Presidente.(*)
 
-Artículo 99. Corresponde a la Comisión Permanente acusar ante el Congreso: al Presidente de la República; a los representantes a Congreso; a los Ministros de Estado; a los miembros del Tribunal Constitucional; a los miembros del Consejo Nacional de la Magistratura; a los vocales de la Corte Suprema; a los fiscales supremos; al Defensor del Pueblo y al Contralor General por infracción de la Constitución y por todo delito que cometan en el ejercicio de sus funciones y hasta cinco años después de que hayan cesado en éstas.
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
 
-Artículo 100. Corresponde al Congreso, sin participación de la Comisión Permanente, suspender o no al funcionario acusado o inhabilitarlo para el ejercicio de la función pública hasta por diez años, o destituirlo de su función sin perjuicio de cualquiera otra responsabilidad. El acusado tiene derecho, en este trámite, a la defensa por sí mismo y con asistencia de abogado ante la Comisión Permanente y ante el Pleno del Congreso.
+“Artículo 98. El presidente de la República está obligado a poner a disposición del Congreso los efectivos de las Fuerzas Armadas y de la Policía Nacional que demande el presidente de cada cámara.
+
+Las Fuerzas Armadas y la Policía Nacional no pueden ingresar a los recintos del
+
+Congreso sino con autorización de su propio presidente.”
+
+Artículo 99. Corresponde a la Comisión Permanente acusar ante el Congreso: al Presidente de la República; a los representantes a Congreso; a los Ministros de Estado; a los miembros del Tribunal Constitucional; a los miembros del Consejo Nacional de la Magistratura; a los vocales de la Corte Suprema; a los fiscales supremos; al Defensor del Pueblo y al Contralor General por infracción de la Constitución y por todo delito que cometan en el ejercicio de sus funciones y hasta cinco años después de que hayan cesado en éstas.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 99. Corresponde a la Cámara de Diputados, de acuerdo con su reglamento, acusar ante el Senado: al presidente de la República; a los senadores; a los diputados; a los ministros de Estado; a los magistrados del Tribunal Constitucional; a los miembros de la Junta Nacional de Justicia; a los jueces de la Corte Suprema; a los fiscales supremos; al defensor del pueblo y al contralor general por infracción de la Constitución y por todo delito que cometan en el ejercicio de sus
+
+funciones y hasta cinco años después de que hayan cesado en éstas.”
+
+Artículo 100. Corresponde al Congreso, sin participación de la Comisión Permanente, suspender o no al funcionario acusado o inhabilitarlo para el ejercicio de la función pública hasta por diez años, o destituirlo de su función sin perjuicio de cualquiera otra responsabilidad.
+
+El acusado tiene derecho, en este trámite, a la defensa por sí mismo y con asistencia de abogado ante la Comisión Permanente y ante el Pleno del Congreso.
 
 En caso de resolución acusatoria de contenido penal, el Fiscal de la Nación formula denuncia ante la Corte Suprema en el plazo de cinco días. El Vocal Supremo Penal abre la instrucción correspondiente.
 
 La sentencia absolutoria de la Corte Suprema devuelve al acusado sus derechos políticos.
 
-Los términos de la denuncia fiscal y del auto apertorio de instrucción no pueden exceder ni reducir los términos de la acusación del Congreso.
+Los términos de la denuncia fiscal y del auto apertorio de instrucción no pueden exceder ni reducir los términos de la acusación del Congreso.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 100. Corresponde al Senado, de acuerdo con su reglamento, suspender o no al funcionario acusado o inhabilitarlo para el ejercicio de la función pública hasta por diez años, o destituirlo de su función, sin perjuicio de cualquiera otra responsabilidad.
+
+El acusado tiene derecho, en este trámite, a la defensa por sí mismo y con asistencia de abogado ante la Cámara de Diputados y el Senado.
+
+En caso de resolución acusatoria de contenido penal, el Fiscal de la Nación evalúa, conforme a sus atribuciones, el ejercicio de la acción penal correspondiente ante la Corte Suprema.
+
+La sentencia absolutoria de la Corte Suprema devuelve al acusado sus derechos políticos.
 
 Artículo 101. Los miembros de la Comisión Permanente del Congreso son elegidos por éste. Su número tiende a ser proporcional al de los representantes de cada grupo parlamentario y no excede del veinticinco por ciento del número total de congresistas.
 
@@ -668,7 +842,25 @@ Son atribuciones de la Comisión Permanente:
 
 No pueden delegarse a la Comisión Permanente materias relativas a reforma constitucional, ni a la aprobación de tratados internacionales, leyes orgánicas, Ley de Presupuesto y Ley de la Cuenta General de la República.
 
-5. Las demás que le asigna la Constitución y las que le señala el Reglamento del Congreso.
+5. Las demás que le asigna la Constitución y las que le señala el Reglamento del Congreso.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 101. La Comisión Permanente está conformada por igual número de senadores y diputados elegidos por sus respectivas cámaras. Funciona durante el receso del Senado y de la Cámara de Diputados. Es presidida por el presidente del Congreso.
+
+Su número tiende a ser proporcional al de los representantes de cada grupo parlamentario y no excede del veinte por ciento del número total de miembros del Congreso.
+
+Son atribuciones de la Comisión Permanente:
+
+1. Aprobar los créditos suplementarios, las transferencias y habilitaciones del presupuesto, durante el receso parlamentario.
+
+2. Ejercitar la delegación de facultades legislativas que el Congreso le otorgue.
+
+No pueden delegarse a la Comisión Permanente materias relativas a reforma constitucional, ni a la aprobación de tratados internacionales, leyes orgánicas, leyes autoritativas de delegación de facultades al Poder Ejecutivo, Ley de Presupuesto y Ley de la Cuenta General de la República.
+
+3. Autorizar al presidente de la República para salir del país en el receso parlamentario.
+
+4. Las demás que le asigna la Constitución y las que le señala el Reglamento del Congreso.”
 
 Artículo 102. Son atribuciones del Congreso:
 
@@ -686,39 +878,131 @@ Artículo 102. Son atribuciones del Congreso:
 
 7. Aprobar la demarcación territorial que proponga el Poder Ejecutivo.
 
-8. Prestar consentimiento para el ingreso de tropas extranjeras en el territorio de la República, siempre que no afecte, en forma alguna, la soberanía nacional.
+8. Prestar consentimiento para el ingreso de tropas extranjeras en el territorio de la República, siempre
+
+que no afecte, en forma alguna, la soberanía nacional.
 
 9. Autorizar al Presidente de la República para salir del país.
 
-10.Ejercer las demás atribuciones que le señala la Constitución y las que son propias de la función legislativa.
+10. Ejercer las demás atribuciones que le señala la Constitución y las que son propias de la función legislativa.(*)
 
-CAPITULO II
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
 
-DE LA FUNCION LEGISLATIVA
+“Artículo 102. Son atribuciones del Congreso:
+
+1. Dar leyes y resoluciones legislativas, así como interpretar, modificar o derogar las existentes, de acuerdo con el Reglamento del Congreso y el de cada cámara.
+
+2. Velar por el respeto de la Constitución y de las leyes, y disponer lo conveniente para hacer efectiva la responsabilidad de los infractores.
+
+3. Aprobar el Presupuesto y la Cuenta General de la República.
+
+4. Autorizar empréstitos, conforme a la Constitución.
+
+5. Ejercer el derecho de amnistía.
+
+6. Aprobar las leyes de demarcación territorial que proponga el Poder Ejecutivo conforme al proceso legislativo ordinario.
+
+7. Aprobar o modificar su reglamento.
+
+8. Ejercer las demás atribuciones que le señala la Constitución y las que son propias de la función legislativa.”
+
+Los artículos 102-A y 102-B se incorporan en virtud del artículo 2 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entran en vigor a partir de las próximas elecciones generales, cuyos textos son los siguientes:
+
+“Artículo 102-A. Son atribuciones del Senado:
+
+1. Aprobar, modificar o rechazar las propuestas legislativas remitidas por la Cámara de Diputados.
+
+2. Elegir al defensor del pueblo con el voto de los dos tercios del número legal de sus miembros y, de ser el caso, removerlo por falta grave con igual votación.
+
+3. Designar al contralor general de la República y, de ser el caso, removerlo por falta grave.
+
+4. Elegir a los magistrados del Tribunal Constitucional con el voto de los dos tercios del número legal de sus miembros.
+
+5. Elegir a tres directores del Banco Central de Reserva y ratificar la designación de su Presidente con la mayoría absoluta del número legal de sus miembros y removerlos por falta grave con igual votación.
+
+6. Ratificar al superintendente de banca, seguros y administradoras privadas de fondos de pensiones.
+
+7. Autorizar al Presidente de la República para salir del país.
+
+8. Prestar consentimiento para el ingreso de tropas extranjeras en el territorio de la República, siempre que no afecte, en forma alguna, la soberanía nacional.
+
+9. Revisar los decretos de urgencia dictados por el Presidente de la República durante el interregno parlamentario y
+
+proceder a modificación de acuerdo con su reglamento.
+
+10. Ejercer control sobre decretos legislativos, decretos de urgencia, tratados y los decretos de régimen de excepción.
+
+11. Aprobar los tratados señalados en el artículo 56 antes de su ratificación por el Presidente de la República.
+
+12. Ejercer las demás atribuciones que le señala la Constitución y las que son propias de su función.
+
+Artículo 102-B. Son atribuciones de la Cámara de Diputados:
+
+1. Aprobar las propuestas normativas a ser remitidas al Senado, conforme a su reglamento.
+
+2. Interpelar y censurar a los ministros de Estado.
+
+3. Otorgar o rehusar la confianza planteada por iniciativa ministerial.
+
+4. Conformar comisiones investigadoras con la finalidad de iniciar investigaciones
+
+sobre cualquier asunto de interés público.
+
+5. Ejercer las demás atribuciones que le señala la Constitución y las que son propias de su función.”
 
 Artículo 103. Pueden expedirse leyes especiales porque así lo exige la naturaleza de las cosas, pero no por razón de las diferencias de las personas. La ley, desde su entrada en vigencia, se aplica a las consecuencias de las relaciones y situaciones jurídicas existentes y no tiene fuerza ni efectos retroactivos; salvo, en ambos supuestos, en materia penal cuando favorece al reo. La ley se deroga sólo por otra ley. También queda sin efecto por sentencia que declara su inconstitucionalidad.
 
 La Constitución no ampara el abuso del derecho.
 
-Artículo 104. El Congreso puede delegar en el Poder Ejecutivo la facultad de legislar, mediante decretos legislativos, sobre la materia específica y por el plazo determinado establecidos en la ley autoritativa.
+Artículo 104. El Congreso puede delegar en el Poder Ejecutivo la facultad de legislar, mediante decretos legislativos, sobre la materia específica y por el plazo determinado establecidos en la ley autoritativa.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 104. El Congreso puede delegar en el Poder Ejecutivo la facultad de legislar, mediante decretos legislativos, sobre materia específica y por el plazo determinado establecidos en la ley autoritativa.”
 
 No pueden delegarse las materias que son indelegables a la Comisión Permanente.
 
 Los decretos legislativos están sometidos, en cuanto a su promulgación, publicación, vigencia y efectos, a las mismas normas que rigen para la ley.
 
-El Presidente de la República da cuenta al Congreso o a la Comisión Permanente de cada decreto legislativo.
+El Presidente de la República da cuenta al Congreso o a la Comisión Permanente de cada decreto legislativo.(*)
 
-Artículo 105. Ningún proyecto de ley puede sancionarse sin haber sido previamente aprobado por la respectiva Comisión dictaminadora, salvo excepción señalada en el Reglamento del Congreso. Tienen preferencia del Congreso los proyectos enviados por el Poder Ejecutivo con carácter de urgencia.
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“El presidente de la República da cuenta al Senado o a la Comisión Permanente, de cada decreto legislativo emitido, de acuerdo
+
+con el procedimiento establecido por el Reglamento del Senado.”
+
+Artículo 105. Ningún proyecto de ley puede sancionarse sin haber sido previamente aprobado por la respectiva Comisión dictaminadora, salvo excepción señalada en el Reglamento del Congreso. Tienen preferencia del Congreso los proyectos enviados por el Poder Ejecutivo con carácter de urgencia.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 105. Ningún proyecto de ley puede sancionarse sin haber sido previamente aprobado por las respectivas comisiones dictaminadoras, salvo excepción señalada en los reglamentos. Toda ley debe ser votada en su respectiva cámara. Tienen preferencia los proyectos enviados por el Poder Ejecutivo con carácter de urgencia.
+
+Aprobada la propuesta de ley por la Cámara de Diputados, su presidente da cuenta en el plazo establecido en su reglamento, al presidente del Senado, el cual lo somete a revisión. Rechazado el proyecto de ley por la Cámara de Diputados, este se archiva.
+
+Dentro del plazo establecido en su reglamento, el Senado aprueba o modifica la propuesta legislativa remitida por la Cámara de Diputados y remite la autógrafa de ley al presidente de la República para su promulgación.
+
+Vencido el plazo para su revisión en el Senado, el presidente del Congreso remite al presidente de la República, la autógrafa de ley aprobada por la Cámara de Diputados.
+
+Rechazada la propuesta por el Senado, esta se archiva.”
 
 Artículo 106. Mediante leyes orgánicas se regulan la estructura y el funcionamiento de las entidades del Estado previstas en la Constitución, así como también las otras materias cuya regulación por ley orgánica está establecida en la Constitución.
 
-Los proyectos de ley orgánica se tramitan como cualquiera otra ley. Para su aprobación o modificación, se requiere el voto de más de la mitad del número legal de miembros del Congreso.
+Los proyectos de ley orgánica se tramitan como cualquiera otra ley. Para su aprobación o modificación, se requiere el voto de más de la mitad del número legal de miembros del Congreso.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Los proyectos de ley orgánica se tramitan como cualquiera otra ley. Para su aprobación o modificación, se requiere el voto de más de la mitad del número legal de miembros en ambas cámaras.”
 
 CAPITULO III
 
 DE LA FORMACION Y PROMULGACION DE LAS LEYES
 
-Artículo 107. El Presidente de la República y los Congresistas tienen derecho a iniciativa en la formación de leyes.
+Artículo 107. El Presidente de la República y los Congresistas tienen derecho a iniciativa en la formación de leyes.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 107. El presidente de la República y los diputados tienen derecho a iniciativa en la formación de leyes.”
 
 También tienen el mismo derecho en las materias que les son propias los otros poderes del Estado, las instituciones públicas autónomas, los Gobiernos Regionales, los Gobiernos Locales y los colegios profesionales. Asimismo lo tienen los ciudadanos que ejercen el derecho de iniciativa conforme a ley.
 
@@ -726,7 +1010,17 @@ Artículo 108. La ley aprobada según lo previsto por la Constitución, se enví
 
 Si el Presidente de la República tiene observaciones que hacer sobre el todo o una parte de la ley aprobada en el Congreso, las presenta a éste en el mencionado término de quince días.
 
-Reconsiderada la ley por el Congreso, su Presidente la promulga, con el voto de más de la mitad del número legal de miembros del Congreso.
+Reconsiderada la ley por el Congreso, su Presidente la promulga, con el voto de más de la mitad del número legal de miembros del Congreso.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 108. La ley aprobada según lo previsto por la Constitución y en los reglamentos de cada cámara, se envía al presidente de la República para su promulgación dentro de un plazo de quince días. En caso de no promulgación por el presidente de la República, la promulga el presidente del Congreso.
+
+Si el presidente de la República tiene observaciones que hacer sobre el todo o una parte de la ley aprobada en el Congreso, las presenta a éste en el mencionado término de quince días.
+
+Reconsiderada la ley con el voto de la mitad más uno del número legal de miembros de cada cámara, el presidente del Congreso de la República la promulga.
+
+Las leyes que derogan o modifican un decreto legislativo o un decreto de urgencia o dejan sin efecto un decreto supremo como consecuencia del control que ejerce el Senado son promulgadas directamente por el presidente del Congreso.”
 
 Artículo 109. La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte.
 
@@ -770,7 +1064,11 @@ Cuando el Presidente de la República sale del territorio nacional, el Primer Vi
 
 Artículo 116. El Presidente de la República presta juramento de ley y asume el cargo, ante el Congreso, el 28 de julio del año en que se realiza la elección.
 
-Artículo 117. El Presidente de la República sólo puede ser acusado, durante su período, por traición a la Patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el artículo 134 de la Constitución, y por impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral.
+Artículo 117. El Presidente de la República sólo puede ser acusado, durante su período, por traición a la Patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el artículo 134 de la Constitución, y por impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 117. El presidente de la República sólo puede ser acusado, durante su período, por traición a la Patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver la Cámara de Diputados, salvo en los casos previstos en el artículo 134 de la Constitución, y por impedir la reunión o funcionamiento de cualquiera de las cámaras del Congreso, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral.”
 
 Artículo 118. Corresponde al Presidente de la República:
 
@@ -786,7 +1084,9 @@ Artículo 118. Corresponde al Presidente de la República:
 
 6. Convocar al Congreso a legislatura extraordinaria; y firmar, en ese caso, el decreto de convocatoria.
 
-7. Dirigir mensajes al Congreso en cualquier época y obligatoriamente, en forma personal y por escrito, al instalarse la primera legislatura ordinaria anual. Los mensajes anuales contienen la exposición detallada de la situación de la República y las mejoras y reformas que el Presidente juzgue necesarias y convenientes para su consideración por el Congreso. Los mensajes del Presidente de la República, salvo el primero de ellos, son aprobados por el Consejo de Ministros.
+7. Dirigir mensajes al Congreso en cualquier época y obligatoriamente, en forma personal y por escrito, al instalarse la primera legislatura ordinaria anual. Los mensajes anuales contienen la exposición detallada de la situación de la República y las mejoras y reformas que el Presidente juzgue necesarias y convenientes para su consideración por el Congreso. Los mensajes del Presidente
+
+de la República, salvo el primero de ellos, son aprobados por el Consejo de Ministros.
 
 8. Ejercer la potestad de reglamentar las leyes sin transgredirlas ni desnaturalizarlas; y, dentro de tales límites, dictar decretos y resoluciones.
 
@@ -796,7 +1096,11 @@ Artículo 118. Corresponde al Presidente de la República:
 
 11. Dirigir la política exterior y las relaciones internacionales; y celebrar y ratificar tratados.
 
-12. Nombrar embajadores y ministros plenipotenciarios, con aprobación del Consejo de Ministros, con cargo de dar cuenta al Congreso.
+12. Nombrar embajadores y ministros plenipotenciarios, con aprobación del Consejo de Ministros, con cargo de dar cuenta al Congreso.(*)
+
+(*) Numeral modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“12. Nombrar embajadores y ministros plenipotenciarios, con aprobación del Consejo de Ministros, con cargo de dar cuenta al Congreso de la República.
 
 13. Recibir a los agentes diplomáticos extranjeros, y autorizar a los cónsules el ejercicio de sus funciones.
 
@@ -810,7 +1114,11 @@ Artículo 118. Corresponde al Presidente de la República:
 
 18. Negociar los empréstitos.
 
-19. Dictar medidas extraordinarias, mediante decretos de urgencia con fuerza de ley, en materia económica y financiera, cuando así lo requiere el interés nacional y con cargo de dar cuenta al Congreso. El Congreso puede modificar o derogar los referidos decretos de urgencia.
+19. Dictar medidas extraordinarias, mediante decretos de urgencia con fuerza de ley, en materia económica y financiera, cuando así lo requiere el interés nacional y con cargo de dar cuenta al Congreso. El Congreso puede modificar o derogar los referidos decretos de urgencia.(*)
+
+(*) Numeral modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“19. Dictar medidas extraordinarias, mediante decretos de urgencia con fuerza de ley, en materia económica y financiera, cuando así lo requiere el interés nacional y con cargo de dar cuenta al Senado, el cual puede modificarlos o derogarlos siguiendo el procedimiento establecido en su reglamento.”
 
 20. Regular las tarifas arancelarias.
 
@@ -818,7 +1126,7 @@ Artículo 118. Corresponde al Presidente de la República:
 
 22. Conferir condecoraciones en nombre de la Nación, con acuerdo del Consejo de Ministros.
 
-23. Autorizar a los peruanos para servir en un ejército extranjero. Y
+23. Autorizar a los peruanos para servir en un ejército extranjero; y,
 
 24. Ejercer las demás funciones de gobierno y administración que la Constitución y las leyes le encomiendan.
 
@@ -872,7 +1180,15 @@ Artículo 129. El Consejo de Ministros en pleno o los ministros por separado pue
 
 Concurren también cuando son invitados para informar.
 
-El Presidente del Consejo o uno, por lo menos, de los ministros concurre periódicamente a las sesiones plenarias del Congreso para la estación de preguntas.
+El Presidente del Consejo o uno, por lo menos, de los ministros concurre periódicamente a las sesiones plenarias del Congreso para la estación de preguntas.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“El Consejo de Ministros en pleno o los ministros por separado pueden concurrir a las sesiones de cualquiera de las cámaras del Congreso de la República y participar en sus debates, de acuerdo con lo que establecen los reglamentos respectivos.
+
+Concurren también cuando son invitados para informar.
+
+El presidente del Consejo o uno, por lo menos, de los ministros, concurre periódicamente a las sesiones plenarias de la Cámara de Diputados para la estación de preguntas.”
 
 CAPITULO VI
 
@@ -880,17 +1196,41 @@ DE LAS RELACIONES CON EL PODER LEGISLATIVO
 
 Artículo 130. Dentro de los treinta días de haber asumido sus funciones, el Presidente del Consejo concurre al Congreso, en compañía de los demás ministros, para exponer y debatir la política general del gobierno y las principales medidas que requiere su gestión. Plantea al efecto cuestión de confianza.
 
-Si el Congreso no está reunido, el Presidente de la República convoca a legislatura extraordinaria.
+Si el Congreso no está reunido, el Presidente de la República convoca a legislatura extraordinaria.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 130. Dentro de los treinta días de haber asumido sus funciones, el presidente del Consejo concurre a la Cámara de Diputados, en compañía de los demás ministros, para exponer y debatir la política general del gobierno y las principales medidas que requiere su gestión. Esta exposición no da lugar al planteamiento de cuestión de confianza.
+
+Si la Cámara de Diputados no está reunida, el presidente de la República convoca a legislatura extraordinaria.”
 
 Artículo 131. Es obligatoria la concurrencia del Consejo de Ministros, o de cualquiera de los ministros, cuando el Congreso los llama para interpelarlos.
 
 La interpelación se formula por escrito. Debe ser presentada por no menos del quince por ciento del número legal de congresistas. Para su admisión, se requiere el voto del tercio del número de representantes hábiles; la votación se efectúa indefectiblemente en la siguiente sesión.
 
-El Congreso señala día y hora para que los ministros contesten la interpelación. Esta no puede realizarse ni votarse antes del tercer día de su admisión ni después del décimo.
+El Congreso señala día y hora para que los ministros contesten la interpelación. Esta no puede realizarse ni votarse antes del tercer día de su admisión ni después del décimo.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 131. Es obligatoria la concurrencia del Consejo de Ministros, o de cualquiera de los ministros, cuando la Cámara de Diputados los llama para interpelarlos.
+
+La interpelación se formula por escrito. Debe ser presentada por no menos del quince por ciento del número legal de diputados. Para su admisión, se requiere el voto del tercio del número de diputados hábiles; la votación
+
+se efectúa indefectiblemente en la siguiente sesión.
+
+La Cámara de Diputados señala día y hora para que los ministros contesten la interpelación. Esta no puede realizarse ni votarse antes del tercer día de su admisión ni después del décimo.”
 
 Artículo 132. El Congreso hace efectiva la responsabilidad política del Consejo de Ministros, o de los ministros por separado, mediante el voto de censura o el rechazo de la cuestión de confianza. Esta última sólo se plantea por iniciativa ministerial.
 
-Toda moción de censura contra el Consejo de Ministros, o contra cualquiera de los ministros, debe ser presentada por no menos del veinticinco por ciento del número legal de congresistas. Se debate y vota entre el cuarto y el décimo día natural después de su presentación. Su aprobación requiere del voto de más de la mitad del número legal de miembros del Congreso.
+Toda moción de censura contra el Consejo de Ministros, o contra cualquiera de los ministros, debe ser presentada por no menos del veinticinco por ciento del número legal de congresistas. Se debate y vota entre el cuarto y el décimo día natural después de su presentación. Su aprobación requiere del voto de más de la mitad del número legal de miembros del Congreso.(*)
+
+(*) Párrafos 1 y 2 modificados por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entran en vigor a partir de las próximas elecciones generales, cuyos textos son los siguientes:
+
+“Artículo 132. La Cámara de Diputados hace efectiva la responsabilidad política del Consejo de Ministros, o de los ministros
+
+por separado, mediante el voto de censura o el rechazo de la cuestión de confianza. Esta última sólo se plantea por iniciativa ministerial.
+
+Toda moción de censura contra el Consejo de Ministros, o contra cualquiera de los ministros, debe ser presentada por no menos del veinticinco por ciento del número legal de miembros de la Cámara de Diputados. Se debate y vota entre el cuarto y décimo día natural después de su presentación. Su aprobación requiere del voto de más de la mitad del número legal de sus miembros.”
 
 El Consejo de Ministros, o el ministro censurado, debe renunciar.
 
@@ -898,7 +1238,11 @@ El Presidente de la República acepta la dimisión dentro de las setenta y dos h
 
 La desaprobación de una iniciativa ministerial no obliga al ministro a dimitir, salvo que haya hecho cuestión de confianza de la aprobación.
 
-Artículo 133. El Presidente del Consejo de Ministros puede plantear ante el Congreso una cuestión de confianza a nombre del Consejo. Si la confianza le es rehusada, o si es censurado, o si renuncia o es removido por el Presidente de la República, se produce la crisis total del gabinete.
+Artículo 133. El Presidente del Consejo de Ministros puede plantear ante el Congreso una cuestión de confianza a nombre del Consejo. Si la confianza le es rehusada, o si es censurado, o si renuncia o es removido por el Presidente de la República, se produce la crisis total del gabinete.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 133. El presidente del Consejo de Ministros puede plantear ante la Cámara de Diputados una cuestión de confianza a nombre del Consejo. Si la confianza le es rehusada, o si es censurado, o si renuncia o es removido por el presidente de la República, se produce la crisis total del gabinete.”
 
 Artículo 134. El Presidente de la República está facultado para disolver el Congreso si éste ha censurado o negado su confianza a dos Consejos de Ministros.
 
@@ -906,17 +1250,39 @@ El decreto de disolución contiene la convocatoria a elecciones para un nuevo Co
 
 No puede disolverse el Congreso en el último año de su mandato. Disuelto el Congreso, se mantiene en funciones la Comisión Permanente, la cual no puede ser disuelta.
 
-No hay otras formas de revocatoria del mandato parlamentario.
+No hay otras formas de revocatoria del mandato parlamentario. Bajo estado de sitio, el Congreso no puede ser disuelto.(*)
 
-Bajo estado de sitio, el Congreso no puede ser disuelto.
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 134. El presidente de la República está facultado para disolver la Cámara de Diputados si ésta ha censurado o negado su confianza a dos Consejos de Ministros.
+
+El decreto de disolución contiene la convocatoria a elecciones para una nueva Cámara de Diputados. Dichas elecciones se realizan dentro de los cuatro meses de la fecha de disolución, sin que pueda alterarse el sistema electoral preexistente.
+
+La Cámara de Diputados extraordinariamente así elegida sustituye a la anterior y completa el período constitucional de la Cámara de Diputados disuelta.
+
+No puede disolverse la Cámara de Diputados en el último año de su mandato. Disuelta la cámara, se mantiene en funciones el Senado, el cual no puede ser disuelto.
+
+No hay otras formas de revocatoria del mandato parlamentario. Bajo estado de sitio, la Cámara de Diputados no puede ser disuelta.”
 
 Artículo 135. Reunido el nuevo Congreso, puede censurar al Consejo de Ministros, o negarle la cuestión de confianza, después de que el Presidente del Consejo haya expuesto ante el Congreso los actos del Poder Ejecutivo durante el interregno parlamentario.
 
-En ese interregno, el Poder Ejecutivo legisla mediante decretos de urgencia, de los que da cuenta a la Comisión Permanente para que los examine y los eleve al Congreso, una vez que éste se instale.
+En ese interregno, el Poder Ejecutivo legisla mediante decretos de urgencia, de los que da cuenta a la Comisión Permanente para que los examine y los eleve al Congreso, una vez que éste se instale.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 135. Reunida la nueva Cámara de Diputados, puede censurar al Consejo de Ministros después de que el presidente del Consejo de Ministros haya expuesto ante dicha cámara los actos del Poder Ejecutivo durante el interregno parlamentario.
+
+En ese interregno, el Poder Ejecutivo legisla mediante decretos de urgencia, los que necesariamente están vinculados al normal
+
+funcionamiento del Estado o las materias propias de la política general del Gobierno, de los que da cuenta al Senado para que los revise conforme a lo dispuesto en el inciso 9 del artículo 102-A.”
 
 Artículo 136. Si las elecciones no se efectúan dentro del plazo señalado, el Congreso disuelto se reúne de pleno derecho, recobra sus facultades, y destituye al Consejo de Ministros. Ninguno de los miembros de éste puede ser nombrado nuevamente ministro durante el resto del período presidencial.
 
-El Congreso extraordinariamente así elegido sustituye al anterior, incluida la Comisión Permanente, y completa el período constitucional del Congreso disuelto.
+El Congreso extraordinariamente así elegido sustituye al anterior, incluida la Comisión Permanente, y completa el período constitucional del Congreso disuelto.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 136. Si las elecciones no se efectúan dentro del plazo señalado, la Cámara de Diputados disuelta se reúne de pleno derecho, recobra sus facultades, y destituye al Consejo de Ministros. Ninguno de los miembros de éste puede ser nombrado nuevamente ministro durante el resto del período presidencial.”
 
 CAPITULO VII
 
@@ -928,9 +1294,19 @@ Artículo 137. El Presidente de la República, con acuerdo del Consejo de Minist
 
 El plazo del estado de emergencia no excede de sesenta días. Su prórroga requiere nuevo decreto. En estado de emergencia las Fuerzas Armadas asumen el control del orden interno si así lo dispone el Presidente de la República.
 
-2. Estado de sitio, en caso de invasión, guerra exterior, guerra civil, o peligro inminente de que se produzcan, con mención de los derechos fundamentales cuyo ejercicio no se restringe o suspende. El plazo correspondiente no excede de cuarenta y cinco días. Al decretarse el
+2. Estado de sitio, en caso de invasión, guerra exterior, guerra civil, o peligro inminente de que se produzcan, con mención de los derechos fundamentales cuyo ejercicio no se restringe o suspende. El plazo correspondiente no excede de cuarenta y cinco días. Al decretarse el estado de sitio, el Congreso se reúne de pleno derecho. La prórroga requiere aprobación del Congreso.(*)
 
-estado de sitio, el Congreso se reúne de pleno derecho. La prórroga requiere aprobación del Congreso.
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 137. El presidente de la República, con acuerdo del Consejo de Ministros, puede decretar, por plazo determinado, en todo el territorio nacional, o en parte de él, y dando cuenta al Senado o a la Comisión Permanente para su control. Los estados de excepción que en este artículo se contemplan, son:
+
+1. Estado de emergencia, en caso de perturbación de la paz o del orden interno, de catástrofe o de graves circunstancias que afecten la vida de la Nación. En esta eventualidad, puede restringirse o suspenderse el ejercicio de los derechos constitucionales relativos a la libertad y
+
+la seguridad personales, la inviolabilidad del domicilio, y la libertad de reunión y de tránsito en el territorio comprendidos en los incisos 9, 11 y 12 del artículo 2 y en el inciso 24, apartado f del mismo artículo. En ninguna circunstancia se puede desterrar a nadie.
+
+El plazo del estado de emergencia no excede de sesenta días. Su prórroga requiere aprobación del Senado. En estado de emergencia las Fuerzas Armadas asumen el control del orden interno si así lo dispone el presidente de la República.
+
+2. Estado de sitio, en caso de invasión, guerra exterior, guerra civil, o peligro inminente de que se produzcan, con mención de los derechos fundamentales cuyo ejercicio no se restringe o suspende. El plazo correspondiente no excede de cuarenta y cinco días. Al decretarse el estado de sitio, ambas cámaras se reúnen de pleno derecho; el estado de sitio decretado no afecta el funcionamiento del Congreso. La prórroga requiere aprobación del Senado.”
 
 CAPITULO VIII
 
@@ -950,7 +1326,13 @@ No hay proceso judicial por comisión o delegación.
 
 2. La independencia en el ejercicio de la función jurisdiccional.
 
-Ninguna autoridad puede avocarse a causas pendientes ante el órgano jurisdiccional ni interferir en el ejercicio de sus funciones. Tampoco puede dejar sin efecto resoluciones que han pasado en autoridad de cosa juzgada, ni cortar procedimientos en trámite, ni modificar sentencias ni retardar su ejecución. Estas disposiciones no afectan el derecho de gracia ni la facultad de investigación del Congreso, cuyo ejercicio no debe, sin embargo, interferir en el procedimiento jurisdiccional ni surte efecto jurisdiccional alguno.
+Ninguna autoridad puede avocarse a causas pendientes ante el órgano jurisdiccional ni interferir en el ejercicio de sus funciones. Tampoco puede dejar sin efecto resoluciones que han pasado en
+
+autoridad de cosa juzgada, ni cortar procedimientos en trámite, ni modificar sentencias ni retardar su ejecución. Estas disposiciones no afectan el derecho de gracia ni la facultad de investigación del Congreso, cuyo ejercicio no debe, sin embargo, interferir en el procedimiento jurisdiccional ni surte efecto jurisdiccional alguno.(*) (*) Numeral modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“2. La independencia en el ejercicio de la función jurisdiccional.
+
+Ninguna autoridad puede avocarse a causas pendientes ante el órgano jurisdiccional ni interferir en el ejercicio de sus funciones. Tampoco puede dejar sin efecto resoluciones que han pasado en autoridad de cosa juzgada, ni cortar procedimientos en trámite, ni modificar sentencias ni retardar su ejecución. Estas disposiciones no afectan el derecho de gracia ni la facultad de investigación de la Cámara de Diputados, cuyo ejercicio no debe, sin embargo, interferir en el procedimiento jurisdiccional ni surte efecto jurisdiccional alguno.”
 
 3. La observancia del debido proceso y la tutela jurisdiccional.
 
@@ -974,35 +1356,39 @@ En tal caso, deben aplicarse los principios generales del derecho y el derecho c
 
 10. El principio de no ser penado sin proceso judicial.
 
-11.La aplicación de la ley más favorable al procesado en caso de duda o de conflicto entre leyes penales.
+11. La aplicación de la ley más favorable al procesado en caso de duda o de conflicto entre leyes penales.
 
 12. El principio de no ser condenado en ausencia.
 
 13. La prohibición de revivir procesos fenecidos con resolución ejecutoriada. La amnistía, el indulto, el sobreseimiento definitivo y la prescripción producen los efectos de cosa juzgada.
 
-14.El principio de no ser privado del derecho de defensa en ningún estado del proceso. Toda persona será informada inmediatamente y por escrito de la causa o las razones de su detención. Tiene derecho a comunicarse personalmente con un defensor de su elección y a ser asesorada por éste desde que es citada o detenida por cualquier autoridad.
+14. El principio de no ser privado del derecho de defensa en ningún estado del proceso. Toda persona será informada inmediatamente y por escrito de la causa o las razones de su detención. Tiene derecho a comunicarse personalmente con un defensor de su elección y a ser asesorada por éste desde que es citada o detenida por cualquier autoridad.
 
-15.El principio de que toda persona debe ser informada, inmediatamente y por escrito, de las causas o razones de su detención.
+15. El principio de que toda persona debe ser informada, inmediatamente y por escrito, de las causas o razones de su detención.
 
-16.El principio de la gratuidad de la administración de justicia y de la defensa gratuita para las personas de escasos recursos; y, para todos, en los casos que la ley señala.
+16. El principio de la gratuidad de la administración de justicia y de la defensa gratuita para las personas de escasos recursos; y, para todos, en los casos que la ley señala.
 
 17. La participación popular en el nombramiento y en la revocación de magistrados, conforme a ley.
 
-18.La obligación del Poder Ejecutivo de prestar la colaboración que en los procesos le sea requerida.
+18. La obligación del Poder Ejecutivo de prestar la colaboración que en los procesos le sea requerida.
 
 19. La prohibición de ejercer función judicial por quien no ha sido nombrado en la forma prevista por la Constitución o la ley. Los órganos jurisdiccionales no pueden darle posesión del cargo, bajo responsabilidad.
 
-20.El principio del derecho de toda persona de formular análisis y críticas de las resoluciones y sentencias judiciales, con las limitaciones de ley.
+20. El principio del derecho de toda persona de formular análisis y críticas de las resoluciones y sentencias judiciales, con las limitaciones de ley.
 
 21. El derecho de los reclusos y sentenciados de ocupar establecimientos adecuados.
 
-22.El principio de que el régimen penitenciario tiene por objeto la reeducación, rehabilitación y reincorporación del penado a la sociedad.
+22. El principio de que el régimen penitenciario tiene por objeto la reeducación, rehabilitación y reincorporación del penado a la sociedad.
 
 Artículo 140. La pena de muerte sólo puede aplicarse por el delito de traición a la Patria en caso de guerra, y el de terrorismo, conforme a las leyes y a los tratados de los que el Perú es parte obligada.
 
 Artículo 141. Corresponde a la Corte Suprema fallar en casación, o en última instancia, cuando la acción se inicia en una Corte Superior o ante la propia Corte Suprema conforme a ley. Asimismo, conoce en casación las resoluciones del Fuero Militar, con las limitaciones que establece el artículo 173.
 
-Artículo 142. No son revisables en sede judicial las resoluciones del Jurado Nacional de Elecciones en materia electoral, ni las del Consejo Nacional de la Magistratura en materia de evaluación y ratificación de jueces.
+Artículo 142. No son revisables en sede judicial las resoluciones del Jurado Nacional de Elecciones en materia electoral, ni las del Consejo Nacional de la Magistratura en materia de evaluación y ratificación de jueces.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 142. No son revisables en sede judicial las resoluciones del Jurado Nacional de Elecciones en materia electoral, ni las de la Junta Nacional de Justicia en materia de evaluación y ratificación de jueces.”
 
 Artículo 143. El Poder Judicial está integrado por órganos jurisdiccionales que administran justicia en nombre de la Nación, y por órganos que ejercen su gobierno y administración.
 
@@ -1046,7 +1432,15 @@ DEL CONSEJO NACIONAL DE LA MAGISTRATURA
 
 Artículo 150. El Consejo Nacional de la Magistratura se encarga de la selección y el nombramiento de los jueces y fiscales, salvo cuando éstos provengan de elección popular.
 
-El Consejo Nacional de la Magistratura es independiente y se rige por su Ley Orgánica.
+El Consejo Nacional de la Magistratura es independiente y se rige por su Ley Orgánica.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 150. La Junta Nacional de Justicia se encarga de la selección y el nombramiento de los jueces y fiscales, salvo cuando éstos provengan de elección popular.
+
+1 De conformidad con la Única Disposición Complementaria Final de la Ley 30904, Ley de reforma constitucional sobre la conformación y funciones de la Junta Nacional de Justicia, publicada el 10 de enero de 2019, se modifica en todas las disposiciones correspondientes del ordenamiento jurídico nacional la denominación de “Consejo Nacional de la Magistratura” por el de “Junta Nacional de Justicia”.
+
+La Junta Nacional de Justicia es independiente y se rige por su Ley Orgánica.”
 
 Artículo 151. La Academia de la Magistratura, que forma parte del Poder Judicial, se encarga de la formación y capacitación de jueces y fiscales en todos sus niveles, para los efectos de su selección.
 
@@ -1118,7 +1512,13 @@ c. Haber ejercido la labor de investigador en materia jurídica por lo menos dur
 
 Los miembros de la Junta Nacional de Justicia gozan de los mismos beneficios y derechos y están sujetos a las mismas obligaciones e incompatibilidades que los jueces supremos. Su función no debe incurrir en conflicto de intereses y es incompatible con cualquier otra actividad pública o privada fuera del horario de trabajo. Salvo la docencia universitaria.
 
-Artículo 157. Los miembros del Consejo Nacional de la Magistratura pueden ser removidos por causa grave mediante acuerdo del Congreso adoptado con el voto conforme de los dos tercios del número legal de miembros.
+Artículo 157. Los miembros del Consejo Nacional de la Magistratura pueden ser removidos por causa grave mediante acuerdo del Congreso adoptado con el voto conforme de los dos tercios del número legal de miembros.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 157. Los miembros de la Junta Nacional de Justicia pueden ser removidos
+
+por causa grave mediante acuerdo del Senado adoptado con el voto conforme de los dos tercios del número legal de sus miembros.
 
 CAPITULO X
 
@@ -1152,15 +1552,29 @@ Artículo 161. La Defensoría del Pueblo es autónoma. Los órganos públicos es
 
 Su estructura, en el ámbito nacional, se establece por ley orgánica.
 
-El Defensor del Pueblo es elegido y removido por el Congreso con el voto de los dos tercios de su número legal. Goza de la misma inmunidad y de las mismas prerrogativas de los congresistas.
+El Defensor del Pueblo es elegido y removido por el Congreso con el voto de los dos tercios de su número legal. Goza de la misma inmunidad y de las mismas prerrogativas de los congresistas.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“El defensor del pueblo es elegido y removido por falta grave prevista en su ley orgánica por el Senado con el voto de los dos tercios del número legal de sus miembros. Goza de la misma inmunidad y de las mismas prerrogativas de los senadores y diputados.”
 
 Para ser elegido Defensor del Pueblo se requiere haber cumplido treinta y cinco años de edad y ser abogado.
 
-El cargo dura cinco años y no está sujeto a mandato imperativo. Tiene las mismas incompatibilidades que los vocales supremos.
+El cargo dura cinco años y no está sujeto a mandato imperativo. Tiene las mismas incompatibilidades que los vocales supremos.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las
+
+próximas elecciones generales, cuyo texto es el siguiente:
+
+“El cargo dura cinco años y no está sujeto a mandato imperativo. Tiene las mismas incompatibilidades que los jueces supremos.”
 
 Artículo 162. Corresponde a la Defensoría del Pueblo defender los derechos constitucionales y fundamentales de la persona y de la comunidad; y supervisar el cumplimiento de los deberes de la administración estatal y la prestación de los servicios públicos a la ciudadanía.
 
-El Defensor del Pueblo presenta informe al Congreso una vez al año, y cada vez que éste lo solicita. Tiene iniciativa en la formación de las leyes. Puede proponer las medidas que faciliten el mejor cumplimiento de sus funciones.
+El Defensor del Pueblo presenta informe al Congreso una vez al año, y cada vez que éste lo solicita. Tiene iniciativa en la formación de las leyes. Puede proponer las medidas que faciliten el mejor cumplimiento de sus funciones.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“El defensor del pueblo presenta informe ante la Cámara de Diputados una vez al año, y cada vez que esta lo solicite. Tiene iniciativa en la formación de las leyes. Puede proponer las medidas que faciliten el mejor cumplimiento de sus funciones.
 
 El proyecto de presupuesto de la Defensoría del Pueblo es presentado ante el Poder Ejecutivo y sustentado por su titular en esa instancia y en el Congreso.
 
@@ -1258,13 +1672,31 @@ Artículo 181. El Pleno del Jurado Nacional de Elecciones aprecia los hechos con
 
 Artículo 182. El Jefe de la Oficina Nacional de Procesos Electorales es nombrado por el Consejo Nacional de la Magistratura por un período renovable de cuatro años. Puede ser removido por el propio Consejo por falta grave. Está afecto a las mismas incompatibilidades previstas para los integrantes del Pleno del Jurado Nacional de Elecciones.
 
+Le corresponde organizar todos los procesos electorales, de referéndum y los de otros tipos de consulta popular, incluido su presupuesto, así como la elaboración y el diseño de la cédula de sufragio. Le corresponde asimismo la entrega de actas y demás material necesario para los escrutinios y la difusión de sus resultados. Brinda información permanente sobre el cómputo desde el inicio del escrutinio en las mesas de sufragio. Ejerce las demás funciones que la ley le señala.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 182. El jefe de la Oficina Nacional de Procesos Electorales es nombrado por la Junta Nacional de Justicia por un período renovable de cuatro años. Puede ser
+
+removido por la propia Junta por falta grave. Está afecto a las mismas incompatibilidades previstas para los integrantes del Pleno del Jurado Nacional de Elecciones.
+
 Le corresponde organizar todos los procesos electorales, de referéndum y los de otros tipos de consulta popular, incluido su presupuesto, así como la elaboración y el diseño de la cédula de sufragio. Le corresponde asimismo la entrega de actas y demás material necesario para los escrutinios y la difusión de sus resultados. Brinda información permanente sobre el cómputo desde el inicio del escrutinio en las mesas de sufragio. Ejerce las demás funciones que la ley le señala.
 
-Artículo 183. El Jefe del Registro Nacional de Identificación y Estado Civil es nombrado por el Consejo Nacional de la Magistratura por un período renovable de cuatro años. Puede ser removido
+Artículo 183. El Jefe del Registro Nacional de Identificación y Estado Civil es nombrado por el Consejo Nacional de la Magistratura por un período renovable de cuatro años. Puede ser removido por dicho Consejo por falta grave. Está afecto a las mismas incompatibilidades previstas para los integrantes del Pleno del Jurado Nacional de Elecciones.
 
-por dicho Consejo por falta grave. Está afecto a las mismas incompatibilidades previstas para los integrantes del Pleno del Jurado Nacional de Elecciones.
+El Registro Nacional de Identificación y Estado Civil tiene a su cargo la inscripción de los nacimientos, matrimonios, divorcios, defunciones, y otros actos que modifican el estado civil. Emite las constancias correspondientes. Prepara y mantiene actualizado
 
-El Registro Nacional de Identificación y Estado Civil tiene a su cargo la inscripción de los nacimientos, matrimonios, divorcios, defunciones, y otros actos que modifican el estado civil. Emite las constancias correspondientes. Prepara y mantiene actualizado el padrón electoral. Proporciona al Jurado Nacional de Elecciones y a la Oficina Nacional de Procesos Electorales la información necesaria para el cumplimiento de sus funciones. Mantiene el registro de identificación de los ciudadanos y emite los documentos que acreditan su identidad.
+el padrón electoral. Proporciona al Jurado Nacional de Elecciones y a la Oficina Nacional de Procesos Electorales la información necesaria para el cumplimiento de sus funciones. Mantiene el registro de identificación de los ciudadanos y emite los documentos que acreditan su identidad.
+
+Ejerce las demás funciones que la ley señala.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 183. El jefe del Registro Nacional de Identificación y Estado Civil es nombrado por la Junta Nacional de Justicia por un período renovable de cuatro años. Puede ser removido por dicha Junta por falta grave. Está afecto a las mismas incompatibilidades previstas para los integrantes del Pleno del Jurado Nacional de Elecciones.
+
+El Registro Nacional de Identificación y Estado Civil tiene a su cargo la inscripción de los nacimientos, matrimonios, divorcios, defunciones, y otros actos que modifican el estado civil. Emite las constancias correspondientes. Prepara y mantiene actualizado el padrón electoral. Proporciona al Jurado Nacional de Elecciones y a la
+
+Oficina Nacional de Procesos Electorales la información necesaria para el cumplimiento de sus funciones. Mantiene el registro de identificación de los ciudadanos y emite los documentos que acreditan su identidad.
 
 Ejerce las demás funciones que la ley señala.
 
@@ -1308,11 +1740,21 @@ La estructura orgánica básica de estos gobiernos la conforman el Consejo Regio
 
 El Gobernador Regional es elegido conjuntamente con un Vicegobernador Regional, por sufragio directo por un período de cuatro (4) años. El mandato de dichas autoridades es revocable, conforme a ley. No hay reelección inmediata. Transcurrido otro período, como mínimo, los ex Gobernadores Regionales o ex Vicegobernadores Regionales pueden volver a postular, sujetos a las mismas condiciones. Los miembros del Consejo Regional son elegidos en la misma forma y por igual período. El mandato de dichas autoridades es irrenunciable, con excepción de los casos previstos en la Constitución.
 
-Para postular a Presidente de la República, Vicepresidente, Congresista o Alcalde; los Gobernadores y Vicegobernadores Regionales deben renunciar al cargo seis (6) meses antes de la elección respectiva.
+Para postular a Presidente de la República, Vicepresidente, Congresista o Alcalde; los Gobernadores y Vicegobernadores Regionales deben renunciar al cargo seis (6) meses antes de la elección respectiva.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Para postular a presidente de la República, vicepresidente, senador, diputado o alcalde; los gobernadores y vicegobernadores regionales deben renunciar al cargo seis meses antes de la elección respectiva.”
 
 La ley establece porcentajes mínimos para hacer accesible la representación de género, comunidades campesinas y nativas, y pueblos originarios en los Consejos Regionales. Igual tratamiento se aplica para los Concejos Municipales.
 
-Los Gobernadores Regionales están obligados a concurrir al Congreso de la República cuando éste lo requiera de acuerdo a ley y al Reglamento del Congreso de la República, y bajo responsabilidad.
+Los Gobernadores Regionales están obligados a concurrir al Congreso de la República cuando éste lo requiera de acuerdo a ley y al Reglamento del Congreso de la República, y bajo responsabilidad.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la
+
+República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Los gobernadores regionales están obligados a concurrir a la Cámara de Diputados cuando esta lo requiera de acuerdo con la ley y el Reglamento de la Cámara de Diputados, y bajo responsabilidad.”
 
 Artículo 192. Los gobiernos regionales promueven el desarrollo y la economía regional, fomentan las inversiones, actividades y servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y locales de desarrollo.
 
@@ -1362,7 +1804,11 @@ La estructura orgánica del gobierno local la conforman el Concejo Municipal com
 
 Los alcaldes y regidores son elegidos por sufragio directo, por un período de cuatro (4) años. No hay reelección inmediata para los alcaldes. Transcurrido otro período, como mínimo, pueden volver a postular, sujetos a las mismas condiciones. Su mandato es revocable, conforme a ley. El mandato de alcaldes y regidores es irrenunciable, con excepción de los casos previstos en la Constitución.
 
-Para postular a Presidente de la República, Vicepresidente, Congresista, Gobernador o Vicegobernador del Gobierno Regional; los Alcaldes deben renunciar al cargo seis (6) meses antes de la elección respectiva.
+Para postular a Presidente de la República, Vicepresidente, Congresista, Gobernador o Vicegobernador del Gobierno Regional; los Alcaldes deben renunciar al cargo seis (6) meses antes de la elección respectiva.(*)
+
+(*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Para postular a presidente de la República, vicepresidente, senador, diputado, gobernador o vicegobernador del gobierno regional; los alcaldes deben renunciar al cargo seis meses antes de la elección respectiva.
 
 Artículo 195. Los gobiernos locales promueven el desarrollo y la economía local, y la prestación de los servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y regionales de desarrollo.
 
@@ -1452,7 +1898,15 @@ Artículo 201. El Tribunal Constitucional es el órgano de control de la Constit
 
 Para ser miembro del Tribunal Constitucional, se exigen los mismos requisitos que para ser vocal de la Corte Suprema. Los miembros del Tribunal Constitucional gozan de la misma inmunidad y de las mismas prerrogativas que los congresistas. Les alcanzan las mismas incompatibilidades. No hay reelección inmediata.
 
-Los miembros del Tribunal Constitucional son elegidos por el Congreso de la República con el voto favorable de los dos tercios del número legal de sus miembros. No pueden ser elegidos magistrados del Tribunal Constitucional los jueces o fiscales que no han dejado el cargo con un año de anticipación.
+Los miembros del Tribunal Constitucional son elegidos por el Congreso de la República con el voto favorable de los dos tercios del número legal de sus miembros. No pueden ser elegidos magistrados del Tribunal Constitucional los jueces o fiscales que no han dejado el cargo con un año de anticipación.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 201. El Tribunal Constitucional es el órgano de control de la Constitución. Es autónomo e independiente. Se compone de siete magistrados elegidos por cinco años.
+
+Para ser magistrado del Tribunal Constitucional se exigen los mismos requisitos que para ser juez de la Corte Suprema. Los magistrados del Tribunal Constitucional gozan de la misma inmunidad y de las mismas prerrogativas que los senadores y diputados. Les alcanzan las mismas incompatibilidades. No hay reelección inmediata.
+
+Los magistrados del Tribunal Constitucional son elegidos por el Senado con el voto favorable de los dos tercios del número legal de sus miembros. No pueden ser elegidos magistrados del Tribunal Constitucional los jueces o fiscales que no han dejado el cargo con un año de anticipación.”
 
 Artículo 202. Corresponde al Tribunal Constitucional:
 
@@ -1472,7 +1926,11 @@ Artículo 203. Están facultados para interponer acción de inconstitucionalidad
 
 4. El Defensor del Pueblo.
 
-5. El veinticinco por ciento del número legal de congresistas.
+5. El veinticinco por ciento del número legal de congresistas.(*)
+
+(*) Numeral modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“5. El veinticinco por ciento del número legal de miembros de la Cámara de Diputados o del Senado.”
 
 6. Cinco mil ciudadanos con firmas comprobadas por el Jurado Nacional de Elecciones. Si la norma es una ordenanza municipal, está facultado para impugnarla el uno por ciento de los ciudadanos del respectivo ámbito territorial, siempre que este porcentaje no exceda del número de firmas anteriormente señalado.
 
@@ -1492,13 +1950,21 @@ DE LA REFORMA DE LA CONSTITUCION
 
 Artículo 206. Toda reforma constitucional debe ser aprobada por el Congreso con mayoría absoluta del número legal de sus miembros, y ratificada mediante referéndum. Puede omitirse el referéndum cuando el acuerdo del Congreso se obtiene en dos legislaturas ordinarias sucesivas con una votación favorable, en cada caso, superior a los dos tercios del número legal de congresistas. La ley de reforma constitucional no puede ser observada por el Presidente de la República.
 
-La iniciativa de reforma constitucional corresponde al Presidente de la República, con aprobación del Consejo de Ministros; a los congresistas; y a un número de ciudadanos equivalente al cero punto tres por ciento (0.3%) de la población electoral, con firmas comprobadas por la autoridad electoral.
+La iniciativa de reforma constitucional corresponde al Presidente de la República, con aprobación del Consejo de Ministros; a los congresistas; y a un número de ciudadanos equivalente al cero punto tres por ciento (0.3%) de la población electoral, con firmas comprobadas por la autoridad electoral.(*)
+
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+
+“Artículo 206. Toda reforma constitucional debe ser aprobada con mayoría absoluta del número legal de miembros de cada cámara, y ratificada mediante referéndum. Puede omitirse el referéndum cuando el acuerdo de
+
+cada cámara se obtiene en dos legislaturas ordinarias sucesivas con una votación favorable, en cada caso, superior a los dos tercios del número legal de miembros de cada cámara. La ley de reforma constitucional no puede ser observada por el presidente de la República.
+
+La iniciativa de reforma constitucional corresponde al presidente de la República, con aprobación del Consejo de Ministros; a los diputados; y a un número de ciudadanos equivalente al cero punto tres por ciento (0.3%) de la población electoral, con firmas comprobadas por la autoridad electoral”.
 
 DISPOSICIONES FINALES Y TRANSITORIAS
 
-Primera.- Declárase cerrado definitivamente el régimen pensionario del Decreto Ley Nº 20530. En consecuencia a partir de la entrada en vigencia de esta Reforma Constitucional:
+Primera. Declárase cerrado definitivamente el régimen pensionario del Decreto Ley 20530. En consecuencia a partir de la entrada en vigencia de esta Reforma Constitucional:
 
-1. No están permitidas las nuevas incorporaciones o reincorporaciones al régimen pensionario del Decreto Ley Nº 20530.
+1. No están permitidas las nuevas incorporaciones o reincorporaciones al régimen pensionario del Decreto Ley 20530.
 
 2. Los trabajadores que, perteneciendo a dicho régimen, no hayan cumplido con los requisitos para obtener la pensión correspondiente, deberán optar entre el Sistema Nacional de Pensiones o el Sistema Privado de Administradoras de Fondos de Pensiones.
 
@@ -1508,54 +1974,58 @@ La ley dispondrá la aplicación progresiva de topes a las pensiones que excedan
 
 El ahorro presupuestal que provenga de la aplicación de nuevas reglas pensionarias será destinado a incrementar las pensiones más bajas, conforme a ley. Las modificaciones que se introduzcan en los regímenes pensionarios actuales, así como los nuevos regímenes pensionarios que se establezcan en el futuro, deberán regirse por los criterios de sostenibilidad financiera y no nivelación.
 
-Autorízase a la entidad competente del Gobierno Nacional a iniciar las acciones legales correspondientes para que se declare la nulidad de las pensiones obtenidas ilegalmente, salvo los casos definidos por sentencias con carácter de cosa juzgada que se hayan pronunciado expresamente sobre el fondo del asunto o que las respectivas acciones hubieran prescrito.
+Autorizase a la entidad competente del Gobierno Nacional a iniciar las acciones legales correspondientes para que se declare la nulidad de las pensiones obtenidas ilegalmente, salvo los casos definidos por sentencias con carácter de cosa juzgada que se hayan pronunciado expresamente sobre el fondo del asunto o que las respectivas acciones hubieran prescrito.
 
-Segunda.- El Estado garantiza el pago oportuno y el reajuste periódico de las pensiones que administra, con arreglo a las previsiones presupuestarias que éste destine para tales efectos, y a las posibilidades de la economía nacional.
+Segunda. El Estado garantiza el pago oportuno y el reajuste periódico de las pensiones que administra, con arreglo a las previsiones presupuestarias que éste destine para tales efectos, y a las posibilidades de la economía nacional.
 
-Tercera.- En tanto subsistan regímenes diferenciados de trabajo entre la actividad privada y la pública, en ningún caso y por ningún concepto pueden acumularse servicios prestados bajo ambos regímenes. Es nulo todo acto o resolución en contrario.
+No son acumulables servicios prestados a la actividad pública y privada.
 
-Cuarta.- Las normas relativas a los derechos y a las libertades que la Constitución reconoce se interpretan de conformidad con la Declaración Universal de Derechos Humanos y con los tratados y acuerdos internacionales sobre las mismas materias ratificados por el Perú.
+Tercera. En tanto subsistan regímenes diferenciados de trabajo entre la actividad privada y la pública, en ningún caso y por ningún concepto pueden acumularse servicios prestados bajo ambos regímenes. Es nulo todo acto o resolución en contrario.
 
-Quinta.- Las elecciones municipales se alternan con las generales de modo que aquéllas se realizan a mitad del período presidencial, conforme a ley. Para el efecto, el mandato de los alcaldes y regidores que sean elegidos en las dos próximas elecciones municipales durará tres y cuatro años respectivamente.
+Cuarta. Las normas relativas a los derechos y a las libertades que la Constitución reconoce se interpretan de conformidad con la Declaración Universal de Derechos Humanos y con los tratados y acuerdos internacionales sobre las mismas materias ratificados por el Perú.
 
-Sexta.- Los alcaldes y regidores elegidos en el proceso electoral de 1993 y sus elecciones complementarias concluyen su mandato el 31 de diciembre de 1995.
+Quinta. Las elecciones municipales se alternan con las generales de modo que aquéllas se realizan a mitad del período presidencial, conforme a ley. Para el efecto, el mandato de los alcaldes y regidores que sean elegidos en las dos próximas elecciones municipales durará tres y cuatro años respectivamente.
 
-Sétima.- El primer proceso de elecciones generales que se realice a partir de la vigencia de la presente Constitución, en tanto se desarrolla el proceso de descentralización, se efectúa por distrito único.
+Sexta. Los alcaldes y regidores elegidos en el proceso electoral de 1993 y sus elecciones complementarias concluyen su mandato el 31 de diciembre de 1995.
 
-Octava.- Las disposiciones de la Constitución que lo requieran son materia de leyes de desarrollo constitucional.
+Sétima. El primer proceso de elecciones generales que se realice a partir de la vigencia de la presente Constitución, en tanto se desarrolla el proceso de descentralización, se efectúa por distrito único.
 
-Tienen prioridad :
+Octava. Las disposiciones de la Constitución que lo requieran son materia de leyes de desarrollo constitucional.
+
+Tienen prioridad:
 
 1. Las normas de descentralización y, entre ellas, las que permitan tener nuevas autoridades elegidas a más tardar en 1995. Y
 
 2. Las relativas a los mecanismos y al proceso para eliminar progresivamente los monopolios legales otorgados en las concesiones y licencias de servicios públicos.
 
-Novena.- La renovación de los miembros del Jurado Nacional de Elecciones, instalado conforme a esta Constitución, se inicia con los elegidos por el Colegio de Abogados de Lima y por las Facultades de Derecho de las universidades públicas.
+Novena. La renovación de los miembros del Jurado Nacional de Elecciones, instalado conforme a esta Constitución, se inicia con los elegidos por el Colegio de Abogados de Lima y por las Facultades de Derecho de las universidades públicas.
 
-Décima.- La ley establece el modo como las oficinas, los funcionarios y servidores del Registro Civil de los gobiernos locales y los del Registro Electoral se integran al Registro Nacional de Identificación y Estado Civil.
+Décima. La ley establece el modo como las oficinas, los funcionarios y servidores del Registro Civil de los gobiernos locales y los del Registro Electoral se integran al Registro Nacional de Identificación y Estado Civil.
 
-Undécima.- Las disposiciones de la Constitución que exijan nuevos o mayores gastos públicos se aplican progresivamente.
+Undécima. Las disposiciones de la Constitución que exijan nuevos o mayores gastos públicos se aplican progresivamente.
 
-Duodécima.- La organización política departamental de la República comprende los departamentos siguientes: Amazonas, Ancash, Apurímac, Arequipa, Ayacucho, Cajamarca, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali; y la Provincia Constitucional del Callao.
+Duodécima. La organización política departamental de la República comprende los departamentos siguientes: Amazonas, Ancash, Apurímac, Arequipa, Ayacucho, Cajamarca, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali; y la Provincia Constitucional del Callao.
 
-Decimotercera.- Mientras no se constituyan las Regiones y hasta que se elija a sus presidentes de acuerdo con esta Constitución, el Poder Ejecutivo determina la jurisdicción de los Consejos Transitorios de Administración Regional actualmente en funciones, según el área de cada uno de los departamentos establecidos en el país.
+Decimotercera. Mientras no se constituyan las Regiones y hasta que se elija a sus presidentes de acuerdo con esta Constitución, el Poder Ejecutivo determina la jurisdicción de los Consejos Transitorios de Administración Regional actualmente en funciones, según el área de cada uno de los departamentos establecidos en el país.
 
-Decimocuarta.- La presente Constitución, una vez aprobada por el Congreso Constituyente Democrático, entra en vigencia, conforme al resultado del referéndum regulado mediante ley constitucional.
+Decimocuarta. La presente Constitución, una vez aprobada por el Congreso Constituyente Democrático, entra en vigencia, conforme al resultado del referéndum regulado mediante ley constitucional.
 
-Decimoquinta.- Las disposiciones contenidas en la presente Constitución, referidas a número de congresistas, duración del mandato legislativo, y Comisión Permanente, no se aplican para el Congreso Constituyente Democrático.
+Decimoquinta. Las disposiciones contenidas en la presente Constitución, referidas a número de congresistas, duración del mandato legislativo, y Comisión Permanente, no se aplican para el Congreso Constituyente Democrático.
 
-Decimosexta.- Promulgada la presente Constitución, sustituye a la del año 1979.
+Decimosexta. Promulgada la presente Constitución, sustituye a la del año 1979.
 
-DISPOSICIONES TRANSITORIAS ESPECIALES
+DISPOSICIONES TRANSITORIAS
 
-Primera.- El Presidente y los Vicepresidentes de la República elegidos en las Elecciones Generales de 2000, concluirán su mandato el 28 de julio de 2001. Los congresistas elegidos en el mismo proceso electoral culminarán su representación el 26 de julio de 2001. No son de aplicación para ellos, por excepción, los plazos establecidos en los Artículos 90 y 112 de la Constitución Política.
+ESPECIALES
 
-Segunda.- Para efectos del proceso electoral que se realice en el 2001, el plazo previsto en el primer párrafo del Artículo 91 de la Constitución será de cuatro meses.
+PRIMERA. El Presidente y los Vicepresidentes de la República elegidos en las Elecciones Generales de 2000, concluirán su mandato el 28 de julio de 2001. Los congresistas elegidos en el mismo proceso electoral culminarán su representación el 26 de julio de 2001. No son de aplicación para ellos, por excepción, los plazos establecidos en los artículos 90 y 112 de la Constitución Política.
 
-TERCERA.- El Jurado Nacional de Elecciones (JNE) distribuye los escaños en cantidad de cuatro para Lima Provincias sin afectar la distribución nacional existente y los seis escaños restantes conforme a ley.
+SEGUNDA. Para efectos del proceso electoral que se realice en el 2001, el plazo previsto en el primer párrafo del artículo 91 de la Constitución será de cuatro meses.
 
-DECLARACION
+TERCERA. El Jurado Nacional de Elecciones (JNE) distribuye los escaños en cantidad de cuatro para Lima Provincias sin afectar la distribución nacional existente y los seis escaños restantes conforme a ley.
 
-EL CONGRESO CONSTITUYENTE DEMOCRATICO
+DECLARACIÓN
+
+EL CONGRESO CONSTITUYENTE DEMOCRÁTICO
 
 DECLARA que el Perú, país del hemisferio austral, vinculado a la Antártida por costas que se proyectan hacia ella, así como por factores ecológicos y antecedentes históricos, y conforme con los derechos y obligaciones que tiene como parte consultiva del Tratado Antártico, propicia la conservación de la Antártida como una Zona de Paz dedicada a la investigación científica, y la vigencia de un régimen internacional que, sin desmedro de los derechos que corresponden a la Nación, promueva en beneficio de toda la humanidad la racional y equitativa explotación de los recursos de la Antártida, y asegure la protección y conservación del ecosistema de dicho Continente.
