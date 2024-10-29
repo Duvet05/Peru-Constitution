@@ -328,9 +328,7 @@ la Nación. El presidente de la República tiene la más alta jerarquía en el s
 
 Artículo 39-A. Están impedidas de ejercer la función pública, mediante designación en cargos de confianza, las personas sobre quienes recaiga una sentencia condenatoria emitida en primera instancia, en calidad de autoras o cómplices, por la comisión de delito doloso.
 
-Artículo 40. La ley regula el ingreso a la carrera administrativa, y los derechos, deberes y responsabilidades de los servidores públicos. No están comprendidos en dicha carrera los funcionarios que desempeñan cargos políticos o de confianza. Ningún funcionario o servidor público puede desempeñar más de un empleo o cargo público remunerado, con excepción de uno más por función docente.
-
-Por ley, con el voto favorable de más de la mitad del número legal de los congresistas, se amplía temporalmente la excepción del párrafo anterior, para el personal médico especialista o asistencial de salud, ante una emergencia sanitaria.
+Artículo 40. La ley regula el ingreso a la carrera administrativa, y los derechos, deberes y responsabilidades de los servidores públicos. No están comprendidos en dicha carrera los funcionarios que desempeñan cargos políticos o de confianza. Ningún funcionario o servidor público puede desempeñar más de un empleo o cargo público remunerado, con excepción de uno más por función docente o en servicios de salud como personal médico y profesionales de la salud con especialidad, conforme a ley.
 
 No están comprendidos en la función pública los trabajadores de las empresas del Estado o de sociedades de economía mixta.
 
