@@ -1,18 +1,12 @@
-PREAMBULO
+CONSTITUCIÓN POLÍTICA
 
-EL CONGRESO CONSTITUYENTE DEMOCRÁTICO, INVOCANDO A DIOS TODOPODEROSO, OBEDECIENDO EL
+DEL PERÚ
 
-MANDATO DEL PUEBLO PERUANO Y RECORDANDO EL SACRIFICIO DE TODAS LAS GENERACIONES QUE NOS HAN PRECEDIDO EN NUESTRA PATRIA, HA RESUELTO DAR LA SIGUIENTE CONSTITUCIÓN:
-
-CONSTITUCION POLITICA DEL PERU
-
-TITULO I
+TÍTULO I
 
 DE LA PERSONA Y DE LA SOCIEDAD
 
-CAPITULO I
-
-DERECHOS FUNDAMENTALES DE LA PERSONA
+Capítulo I Derechos fundamentales de la persona
 
 Artículo 1. La defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y del Estado.
 
@@ -68,7 +62,9 @@ Las comunicaciones, telecomunicaciones o sus instrumentos sólo pueden ser abier
 
 Los documentos privados obtenidos con violación de este precepto no tienen efecto legal.
 
-Los libros, comprobantes y documentos contables y administrativos están sujetos a inspección o fiscalización de la autoridad competente, de conformidad con la ley. Las acciones que al respecto se tomen no pueden incluir su sustracción o incautación, salvo por orden judicial.
+Los libros, comprobantes y documentos contables y administrativos están sujetos a inspección o fiscalización de la autoridad competente, de
+
+conformidad con la ley. Las acciones que al respecto se tomen no pueden incluir su sustracción o incautación, salvo por orden judicial.
 
 11. A elegir su lugar de residencia, a transitar por el territorio nacional y a salir de él y entrar en él, salvo limitaciones por razones de sanidad o por mandato judicial o por aplicación de la ley de extranjería.
 
@@ -82,7 +78,9 @@ Los libros, comprobantes y documentos contables y administrativos están sujetos
 
 16. A la propiedad y a la herencia.
 
-17. A participar, en forma individual o asociada, en la vida política, económica, social y cultural de la Nación. Los ciudadanos tienen, conforme a ley, los derechos de elección, de remoción o revocación de autoridades, de iniciativa legislativa y de referéndum.
+17. A participar, en forma individual o asociada, en la vida política, económica, social y cultural de la Nación. Los ciudadanos tienen, conforme a ley, los
+
+derechos de elección, de remoción o revocación de autoridades, de iniciativa legislativa y de referéndum.
 
 18. A mantener reserva sobre sus convicciones políticas, filosóficas, religiosas o de cualquiera otra índole, así como a guardar el secreto profesional.
 
@@ -116,17 +114,21 @@ f. Nadie puede ser detenido sino por mandamiento escrito y motivado del juez o p
 
 Estos plazos no se aplican a los casos de terrorismo, espionaje, tráfico ilícito de drogas y a los delitos cometidos por organizaciones criminales. En tales casos, las autoridades policiales pueden efectuar la detención preventiva de los presuntos implicados por un término no mayor de quince días naturales. Deben dar cuenta al Ministerio Público y al juez, quien puede asumir jurisdicción antes de vencido dicho término.
 
-g. Nadie puede ser incomunicado sino en caso indispensable para el esclarecimiento de un delito, y en la forma y por el tiempo previstos por la ley. La autoridad está obligada bajo responsabilidad a señalar, sin dilación y por escrito, el lugar donde se halla la persona detenida.
+g. Nadie puede ser incomunicado sino en caso indispensable para el esclarecimiento de un delito, y en la forma y por el tiempo previstos por la ley. La autoridad está obligada bajo
+
+responsabilidad a señalar, sin dilación y por escrito, el lugar donde se halla la persona detenida.
 
 h. Nadie debe ser víctima de violencia moral, psíquica o física, ni sometido a tortura o a tratos inhumanos o humillantes. Cualquiera puede pedir de inmediato el examen médico de la persona agraviada o de aquélla imposibilitada de recurrir por sí misma a la autoridad. Carecen de valor las declaraciones obtenidas por la violencia. Quien la emplea incurre en responsabilidad.
 
 Artículo 3. La enumeración de los derechos establecidos en este capítulo no excluye los demás que la Constitución garantiza, ni otros de naturaleza análoga o que se fundan en la dignidad del hombre, o en los principios de soberanía del pueblo, del Estado democrático de derecho y de la forma republicana de gobierno.
 
-CAPITULO II
+Capítulo II De los derechos sociales y económicos
 
-DE LOS DERECHOS SOCIALES Y ECONOMICOS
+Artículo 4. La comunidad y el Estado protegen especialmente al niño, al adolescente, a la madre y al anciano en situación de abandono. También protegen a la familia y promueven el matrimonio. Reconocen a
 
-Artículo 4. La comunidad y el Estado protegen especialmente al niño, al adolescente, a la madre y al anciano en situación de abandono. También protegen a la familia y promueven el matrimonio. Reconocen a estos últimos como institutos naturales y fundamentales de la sociedad. La forma del matrimonio y las causas de separación y de disolución son reguladas por la ley.
+estos últimos como institutos naturales y fundamentales de la sociedad.
+
+La forma del matrimonio y las causas de separación y de disolución son reguladas por la ley.
 
 Artículo 5. La unión estable de un varón y una mujer, libres de impedimento matrimonial, que forman un hogar de hecho, da lugar a una comunidad de bienes sujeta al régimen de la sociedad de gananciales en cuanto sea aplicable.
 
@@ -146,7 +148,9 @@ Artículo 8. El Estado combate y sanciona el tráfico ilícito de drogas. Asimis
 
 Artículo 9. El Estado determina la política nacional de salud. El Poder Ejecutivo norma y supervisa su aplicación. Es responsable de diseñarla y conducirla en forma plural y descentralizadora para facilitar a todos el acceso equitativo a los servicios de salud.
 
-Artículo 10. El Estado reconoce el derecho universal y progresivo de toda persona a la seguridad social, para su protección frente a las contingencias que precise la ley y para la elevación de su calidad de vida.
+Artículo 10. El Estado reconoce el derecho universal y progresivo de toda persona a la seguridad social, para
+
+su protección frente a las contingencias que precise la ley y para la elevación de su calidad de vida.
 
 Artículo 11. El Estado garantiza el libre acceso a prestaciones de salud y a pensiones, a través de entidades públicas, privadas o mixtas. Supervisa asimismo su eficaz funcionamiento.
 
@@ -196,7 +200,9 @@ Las universidades son promovidas por entidades privadas o públicas. La ley fija
 
 La universidad es la comunidad de profesores, alumnos y graduados. Participan en ella los representantes de los promotores, de acuerdo a ley.
 
-Cada universidad es autónoma en su régimen normativo, de gobierno, académico, administrativo y económico. Las universidades se rigen por sus propios estatutos en el marco de la Constitución y de las leyes.
+Cada universidad es autónoma en su régimen normativo, de gobierno, académico, administrativo y
+
+económico. Las universidades se rigen por sus propios estatutos en el marco de la Constitución y de las leyes.
 
 Artículo 19. Las universidades, institutos superiores y demás centros educativos constituidos conforme a la legislación en la materia gozan de inafectación de todo impuesto directo e indirecto que afecte los bienes, actividades y servicios propios de su finalidad educativa y cultural. En materia de aranceles de importación, puede establecerse un régimen especial de afectación para determinados bienes.
 
@@ -210,7 +216,9 @@ Artículo 20. Los colegios profesionales son instituciones autónomas con person
 
 Artículo 21. Los yacimientos y restos arqueológicos, construcciones, monumentos, lugares, documentos bibliográficos y de archivo, objetos artísticos y testimonios de valor histórico, expresamente declarados bienes culturales, y provisionalmente los que se presumen como tales, son patrimonio cultural de la Nación, independientemente de su condición de propiedad privada o pública. Están protegidos por el Estado.
 
-En el caso de los bienes culturales no descubiertos ubicados en el subsuelo y en zonas subacuáticas del territorio nacional, la propiedad de estos es del Estado, la que es inalienable e imprescriptible. Todos los bienes integrantes del patrimonio cultural de la Nación ya sean de carácter público o privado, se encuentran subordinados al interés general. El Estado fomenta conforme a ley, la participación privada en la conservación, restauración, exhibición y difusión del mismo, así como la restitución al país cuando hubiere sido ilegalmente trasladado fuera del territorio nacional.
+En el caso de los bienes culturales no descubiertos ubicados en el subsuelo y en zonas subacuáticas del territorio nacional, la propiedad de estos es del Estado, la que es inalienable e imprescriptible.
+
+Todos los bienes integrantes del patrimonio cultural de la Nación ya sean de carácter público o privado, se encuentran subordinados al interés general. El Estado fomenta conforme a ley, la participación privada en la conservación, restauración, exhibición y difusión del mismo, así como la restitución al país cuando hubiere sido ilegalmente trasladado fuera del territorio nacional.
 
 Artículo 22. El trabajo es un deber y un derecho. Es base del bienestar social y un medio de realización de la persona.
 
@@ -254,17 +262,13 @@ La convención colectiva tiene fuerza vinculante en el ámbito de lo concertado.
 
 Artículo 29. El Estado reconoce el derecho de los trabajadores a participar en las utilidades de la empresa y promueve otras formas de participación.
 
-CAPITULO III
-
-DE LOS DERECHOS POLITICOS Y DE LOS DEBERES
+Capítulo III De los derechos políticos y de los deberes
 
 Artículo 30. Son ciudadanos los peruanos mayores de dieciocho años. Para el ejercicio de la ciudadanía se requiere la inscripción electoral.
 
 Artículo 31. Los ciudadanos tienen derecho a participar en los asuntos públicos mediante referéndum; iniciativa legislativa; remoción o revocación de autoridades y demanda de rendición de cuentas. Tienen también el derecho de ser elegidos y de elegir libremente a sus representantes, de acuerdo con las condiciones y procedimientos determinados por ley orgánica.
 
-Es derecho y deber de los vecinos participar en el gobierno municipal de su jurisdicción. La ley norma y promueve los mecanismos directos e indirectos de su participación.
-
-Tienen derecho al voto los ciudadanos en goce de su capacidad civil. Para el ejercicio de este derecho se requiere estar inscrito en el registro correspondiente.
+Es derecho y deber de los vecinos participar en el gobierno municipal de su jurisdicción. La ley norma y promueve los mecanismos directos e indirectos de su participación. Tienen derecho al voto los ciudadanos en goce de su capacidad civil. Para el ejercicio de este derecho se requiere estar inscrito en el registro correspondiente.
 
 El voto es personal, igual, libre, secreto y obligatorio hasta los setenta años. Es facultativo después de esa edad.
 
@@ -310,13 +314,13 @@ Artículo 37. La extradición sólo se concede por el Poder Ejecutivo previo inf
 
 No se concede extradición si se considera que ha sido solicitada con el fin de perseguir o castigar por motivo de religión, nacionalidad, opinión o raza.
 
-Quedan excluidos de la extradición los perseguidos por delitos políticos o por hechos conexos con ellos. No se consideran tales el genocidio ni el magnicidio ni el terrorismo.
+Quedan excluidos de la extradición los perseguidos por delitos políticos o por hechos conexos con ellos. No
+
+se consideran tales el genocidio ni el magnicidio ni el terrorismo.
 
 Artículo 38. Todos los peruanos tienen el deber de honrar al Perú y de proteger los intereses nacionales, así como de respetar, cumplir y defender la Constitución y el ordenamiento jurídico de la Nación.
 
-CAPITULO IV
-
-DE LA FUNCION PUBLICA
+Capítulo IV De la función pública
 
 Artículo 39. Todos los funcionarios y trabajadores públicos están al servicio de la Nación. El Presidente de la República tiene la más alta jerarquía en el servicio a la Nación y, en ese orden, los representantes al Congreso, ministros de Estado, miembros del Tribunal Constitucional y de la Junta Nacional de Justicia, los magistrados supremos, el Fiscal de la Nación y el Defensor del Pueblo, en igual categoría; y los representantes de organismos descentralizados y alcaldes, de acuerdo a ley(*).
 
@@ -344,11 +348,11 @@ El plazo de prescripción de la acción penal se duplica en caso de los delitos 
 
 Artículo 42. Se reconocen los derechos de sindicación y huelga de los servidores públicos. No están comprendidos los funcionarios del Estado con poder de decisión y los que desempeñan cargos de confianza o de dirección, así como los miembros de las Fuerzas Armadas y de la Policía Nacional.
 
-TITULO II
+TÍTULO II
 
-DEL ESTADO Y LA NACION
+DEL ESTADO Y LA NACIÓN
 
-CAPITULO I DEL ESTADO, LA NACION Y EL TERRITORIO
+Capítulo I Del Estado, la Nación y el Territorio
 
 Artículo 43. La República del Perú es democrática, social, independiente y soberana.
 
@@ -356,7 +360,9 @@ El Estado es uno e indivisible.
 
 Su gobierno es unitario, representativo y descentralizado, y se organiza según el principio de la separación de poderes.
 
-Artículo 44. Son deberes primordiales del Estado: defender la soberanía nacional; garantizar la plena vigencia de los derechos humanos; proteger a la población de las amenazas contra su seguridad; y promover el bienestar general que se fundamenta en la justicia y en el desarrollo integral y equilibrado de la Nación.
+Artículo 44. Son deberes primordiales del Estado: defender la soberanía nacional; garantizar la plena vigencia de los derechos humanos; proteger a la población de las amenazas contra su seguridad; y promover el bienestar general que se fundamenta en
+
+la justicia y en el desarrollo integral y equilibrado de la Nación.
 
 Asimismo, es deber del Estado establecer y ejecutar la política de fronteras y promover la integración, particularmente latinoamericana, así como el desarrollo y la cohesión de las zonas fronterizas, en concordancia con la política exterior.
 
@@ -366,9 +372,7 @@ Ninguna persona, organización, Fuerza Armada, Policía Nacional o sector de la 
 
 Artículo 46. Nadie debe obediencia a un gobierno usurpador, ni a quienes asumen funciones públicas en violación de la Constitución y de las leyes.
 
-La población civil tiene el derecho de insurgencia en defensa del orden constitucional.
-
-Son nulos los actos de quienes usurpan funciones públicas.
+La población civil tiene el derecho de insurgencia en defensa del orden constitucional. Son nulos los actos de quienes usurpan funciones públicas.
 
 Artículo 47. La defensa de los intereses del Estado está a cargo de los Procuradores Públicos conforme a ley. El Estado está exonerado del pago de gastos judiciales.
 
@@ -400,9 +404,7 @@ En su dominio marítimo, el Estado ejerce soberanía y jurisdicción, sin perjui
 
 El Estado ejerce soberanía y jurisdicción sobre el espacio aéreo que cubre su territorio y el mar adyacente hasta el límite de las doscientas millas, sin perjuicio de las libertades de comunicación internacional, de conformidad con la ley y con los tratados ratificados por el Estado.
 
-CAPITULO II
-
-DE LOS TRATADOS
+Capítulo II De los Tratados
 
 Artículo 55. Los tratados celebrados por el Estado y en vigor forman parte del derecho nacional.
 
@@ -440,13 +442,11 @@ La denuncia de los tratados es potestad del Presidente de la República, con car
 
 “La denuncia de los tratados es potestad del presidente de la República, con cargo de dar cuenta al Senado. En el caso de los tratados sujetos a aprobación del Senado, la denuncia requiere aprobación previa de éste”.
 
-TITULO III
+TÍTULO III
 
-DEL REGIMEN ECONOMICO
+DEL RÉGIMEN ECONÓMICO
 
-CAPITULO I
-
-PRINCIPIOS GENERALES
+Capítulo I Principios generales
 
 Artículo 58. La iniciativa privada es libre. Se ejerce en una economía social de mercado. Bajo este régimen, el Estado orienta el desarrollo del país, y actúa principalmente en las áreas de promoción de empleo, salud, educación, seguridad, servicios públicos e infraestructura.
 
@@ -454,7 +454,9 @@ Artículo 59. El Estado estimula la creación de riqueza y garantiza la libertad
 
 Artículo 60. El Estado reconoce el pluralismo económico. La economía nacional se sustenta en la coexistencia de diversas formas de propiedad y de empresa.
 
-Sólo autorizado por ley expresa, el Estado puede realizar subsidiariamente actividad empresarial, directa o indirecta, por razón de alto interés público o de manifiesta conveniencia nacional.
+Sólo autorizado por ley expresa, el Estado puede realizar subsidiariamente actividad empresarial, directa
+
+o indirecta, por razón de alto interés público o de manifiesta conveniencia nacional.
 
 La actividad empresarial, pública o no pública, recibe el mismo tratamiento legal.
 
@@ -464,7 +466,9 @@ La prensa, la radio, la televisión y los demás medios de expresión y comunica
 
 Artículo 62. La libertad de contratar garantiza que las partes pueden pactar válidamente según las normas vigentes al tiempo del contrato. Los términos contractuales no pueden ser modificados por leyes u otras disposiciones de cualquier clase. Los conflictos derivados de la relación contractual sólo se solucionan en la vía arbitral o en la judicial, según los mecanismos de protección previstos en el contrato o contemplados en la ley.
 
-Mediante contratos-ley, el Estado puede establecer garantías y otorgar seguridades. No pueden ser modificados legislativamente, sin perjuicio de la protección a que se refiere el párrafo precedente.
+Mediante contratos-ley, el Estado puede establecer garantías y otorgar seguridades. No pueden ser
+
+modificados legislativamente, sin perjuicio de la protección a que se refiere el párrafo precedente.
 
 Artículo 63. La inversión nacional y la extranjera se sujetan a las mismas condiciones. La producción de bienes y servicios y el comercio exterior son libres. Si otro país o países adoptan medidas proteccionistas o discriminatorias que perjudiquen el interés nacional, el Estado puede, en defensa de éste, adoptar medidas análogas.
 
@@ -474,13 +478,15 @@ El Estado y las demás personas de derecho público pueden someter las controver
 
 Artículo 64. El Estado garantiza la libre tenencia y disposición de moneda extranjera.
 
-Artículo 65. El Estado defiende el interés de los consumidores y usuarios. Para tal efecto garantiza el derecho a la información sobre los bienes y servicios que se encuentran a su disposición en el mercado. Asimismo vela, en particular, por la salud y la seguridad de la población.
+Artículo 65. El Estado defiende el interés de los consumidores y usuarios. Para tal efecto garantiza el
 
-CAPITULO II
+derecho a la información sobre los bienes y servicios que se encuentran a su disposición en el mercado. Asimismo vela, en particular, por la salud y la seguridad de la población.
 
-DEL AMBIENTE Y LOS RECURSOS NATURALES
+Capítulo II Del ambiente y los recursos naturales
 
-Artículo 66. Los recursos naturales, renovables y no renovables, son patrimonio de la Nación. El Estado es soberano en su aprovechamiento. Por ley orgánica se fijan las condiciones de su utilización y de su otorgamiento a particulares. La concesión otorga a su titular un derecho real, sujeto a dicha norma legal.
+Artículo 66. Los recursos naturales, renovables y no renovables, son patrimonio de la Nación. El Estado es soberano en su aprovechamiento.
+
+Por ley orgánica se fijan las condiciones de su utilización y de su otorgamiento a particulares. La concesión otorga a su titular un derecho real, sujeto a dicha norma legal.
 
 Artículo 67. El Estado determina la política nacional del ambiente. Promueve el uso sostenible de sus recursos naturales.
 
@@ -488,9 +494,7 @@ Artículo 68. El Estado está obligado a promover la conservación de la diversi
 
 Artículo 69. El Estado promueve el desarrollo sostenible de la Amazonía con una legislación adecuada.
 
-CAPITULO III
-
-DE LA PROPIEDAD
+Capítulo III De la propiedad
 
 Artículo 70. El derecho de propiedad es inviolable. El Estado lo garantiza. Se ejerce en armonía con el bien común y dentro de los límites de ley. A nadie puede privarse de su propiedad sino, exclusivamente, por causa de seguridad nacional o necesidad pública, declarada por ley, y previo pago en efectivo de indemnización justipreciada que incluya compensación por el eventual perjuicio. Hay acción ante el Poder Judicial para contestar el valor de la propiedad que el Estado haya señalado en el procedimiento expropiatorio.
 
@@ -502,13 +506,11 @@ Artículo 72. La ley puede, sólo por razón de seguridad nacional, establecer t
 
 Artículo 73. Los bienes de dominio público son inalienables e imprescriptibles. Los bienes de uso público pueden ser concedidos a particulares conforme a ley, para su aprovechamiento económico.
 
-CAPITULO IV
+Capítulo IV Del régimen tributario y presupuestal
 
-DEL REGIMEN TRIBUTARIO Y PRESUPUESTAL
+Artículo 74. Los tributos se crean, modifican o derogan, o se establece una exoneración, exclusivamente por ley o decreto legislativo en caso de delegación de facultades, salvo los aranceles y tasas, los cuales se regulan mediante decreto supremo.
 
-Artículo 74. Los tributos se crean, modifican o derogan, o se establece una exoneración, exclusivamente por ley o decreto legislativo en caso de delegación de facultades, salvo los aranceles y tasas, los cuales se regulan mediante decreto supremo. Los Gobiernos Regionales y los Gobiernos Locales pueden crear, modificar y suprimir contribuciones y tasas, o exonerar de éstas, dentro de su jurisdicción, y con los límites que señala la ley. El Estado,
-
-al ejercer la potestad tributaria, debe respetar los principios de reserva de la ley, y los de igualdad y respeto de los derechos fundamentales de la persona. Ningún tributo puede tener carácter confiscatorio.
+Los Gobiernos Regionales y los Gobiernos Locales pueden crear, modificar y suprimir contribuciones y tasas, o exonerar de éstas, dentro de su jurisdicción, y con los límites que señala la ley. El Estado, al ejercer la potestad tributaria, debe respetar los principios de reserva de la ley, y los de igualdad y respeto de los derechos fundamentales de la persona. Ningún tributo puede tener carácter confiscatorio.
 
 Las leyes de presupuesto y los decretos de urgencia no pueden contener normas sobre materia tributaria. Las leyes relativas a tributos de periodicidad anual rigen a partir del primero de enero del año siguiente a su promulgación.
 
@@ -524,7 +526,7 @@ Artículo 76. Las obras y la adquisición de suministros con utilización de fon
 
 La contratación de servicios y proyectos cuya importancia y cuyo monto señala la Ley de Presupuesto se hace por concurso público. La ley establece el procedimiento, las excepciones y las respectivas responsabilidades.
 
-Artículo 77. La administración económica y financiera del Estado se rige por el presupuesto que anualmente aprueba el Congreso. La estructura del presupuesto del sector público contiene dos secciones: Gobierno Central e instancias descentralizadas.
+Artículo 77. La administración económica y financiera del Estado se rige por el presupuesto que anualmente aprueba el Congreso. La estructura del presupuesto del sector público contiene dos secciones: gobierno central e instancias descentralizadas.
 
 El presupuesto asigna equitativamente los recursos públicos, su programación y ejecución responden a los criterios de eficiencia de necesidades sociales básicas y de descentralización. Corresponden a las respectivas circunscripciones, conforme a ley, recibir una participación adecuada del total de los ingresos y rentas obtenidos por el Estado en la explotación de los recursos naturales en cada zona en calidad de canon.
 
@@ -562,7 +564,7 @@ Sólo por ley expresa, aprobada por dos tercios de los congresistas, puede estab
 
 “Sólo por ley expresa, aprobada en cada cámara por los dos tercios del número legal de sus miembros, puede establecerse selectiva y temporalmente un tratamiento tributario especial para una determinada zona del país.”
 
-Artículo 80. Sustentación del Presupuesto Público El Ministro de Economía y Finanzas sustenta, ante el Pleno del Congreso de la República, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector; previamente sustentan los resultados y metas de la ejecución del presupuesto del año anterior y los avances en la ejecución del presupuesto del año fiscal correspondiente. El Presidente de la Corte Suprema, el Fiscal de la Nación y el Presidente del Jurado Nacional de Elecciones sustentan los pliegos correspondientes a cada institución.(*)
+Artículo 80. El Ministro de Economía y Finanzas sustenta, ante el Pleno del Congreso de la República, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector; previamente sustentan los resultados y metas de la ejecución del presupuesto del año anterior y los avances en la ejecución del presupuesto del año fiscal correspondiente. El Presidente de la Corte Suprema, el Fiscal de la Nación y el Presidente del Jurado Nacional de Elecciones sustentan los pliegos correspondientes a cada institución.(*)
 
 (*) Párrafo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
 
@@ -592,9 +594,7 @@ El Contralor General es designado por el Congreso, a propuesta del Poder Ejecuti
 
 “El contralor general es designado por el Senado, a propuesta del Poder Ejecutivo, por siete años. Puede ser removido por la misma cámara por falta grave.”
 
-CAPITULO V
-
-DE LA MONEDA Y LA BANCA
+Capítulo V De la moneda y la banca
 
 Artículo 83. La ley determina el sistema monetario de la República. La emisión de billetes y monedas es facultad exclusiva del Estado. La ejerce por intermedio del Banco Central de Reserva del Perú.
 
@@ -618,7 +618,9 @@ Todos los directores del Banco son nombrados por el período constitucional que 
 
 “Artículo 86. El Banco Central de Reserva es gobernado por un Directorio de siete miembros. El Poder Ejecutivo designa a cuatro, entre ellos al presidente. El Senado ratifica a éste y elige a los tres restantes con la mayoría absoluta del número legal de sus miembros.
 
-Todos los directores del Banco Central de Reserva son nombrados por el período constitucional que corresponde al presidente de la República. No representan a entidad ni interés particular algunos. El Senado puede removerlos por falta grave con igual votación. En caso de remoción, los nuevos directores completan el correspondiente período constitucional.”
+Todos los directores del Banco Central de Reserva son nombrados por el período constitucional que corresponde al presidente de la República. No representan a entidad ni interés particular algunos. El Senado
+
+puede removerlos por falta grave con igual votación. En caso de remoción, los nuevos directores completan el correspondiente período constitucional.”
 
 Artículo 87. El Estado fomenta y garantiza el ahorro. La ley establece las obligaciones y los límites de las empresas que reciben ahorros del público, así como el modo y los alcances de dicha garantía.
 
@@ -634,28 +636,23 @@ próximas elecciones generales, cuyo texto es el siguiente:
 
 “El Poder Ejecutivo designa al superintendente de banca, seguros y administradoras privadas de fondos de pensiones por el plazo correspondiente a su período constitucional. El Senado lo ratifica.”
 
-Capítulo VI
-
-Del régimen agrario y de las comunidades campesinas, nativas y del pueblo afroperuano
-
+Capítulo VI Del régimen agrario y de las comunidades campesinas, nativas y del pueblo afroperuano
 
 Artículo 88. El Estado apoya preferentemente el desarrollo agrario. Garantiza el derecho de propiedad sobre la tierra, en forma privada o comunal o en cualquiera otra forma asociativa. La ley puede fijar los límites y la extensión de la tierra según las peculiaridades de cada zona.
 
 Las tierras abandonadas, según previsión legal, pasan al dominio del Estado para su adjudicación en venta.
 
-Artículo 89. Las Comunidades Campesinas y las Nativas tienen existencia legal y son personas jurídicas.
+Artículo 89. Las Comunidades Campesinas y las Nativas tienen existencia legal y son personas jurídicas. Son autónomas en su organización, en el trabajo comunal y en el uso y la libre disposición de sus tierras, así como en lo económico y administrativo, dentro del marco que la ley establece. La propiedad de sus
 
-Son autónomas en su organización, en el trabajo comunal y en el uso y la libre disposición de sus tierras, así como en lo económico y administrativo, dentro del marco que la ley establece. La propiedad de sus tierras es imprescriptible, salvo en el caso de abandono previsto en el artículo anterior.
+tierras es imprescriptible, salvo en el caso de abandono previsto en el artículo anterior.
 
 El Estado respeta la identidad cultural de las Comunidades Campesinas, Nativas y del Pueblo Afroperuano.
 
-TITULO IV
+TÍTULO IV
 
 DE LA ESTRUCTURA DEL ESTADO
 
-CAPITULO I
-
-PODER LEGISLATIVO
+Capítulo I Poder Legislativo
 
 Artículo 90. El Poder Legislativo reside en el Congreso de la República, el cual consta de cámara única.
 
@@ -697,7 +694,9 @@ Artículo 91. No pueden ser elegidos miembros del Parlamento Nacional si no han 
 
 (*) El primer párrafo y los numerales 1 y 2 modificados por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entran en vigor a partir de las próximas elecciones generales, cuyos textos son los siguientes:
 
-“Artículo 91. No pueden ser elegidos miembros del Congreso de la República si no han renunciado al cargo seis (6) meses antes de la elección:
+“Artículo 91. No pueden ser elegidos miembros del Congreso de la República si
+
+no han renunciado al cargo seis (6) meses antes de la elección:
 
 1. El presidente de la República, los ministros, viceministros de Estado, ni el contralor general.
 
@@ -719,7 +718,9 @@ La función de congresista es, asimismo, incompatible con la condición de geren
 
 La función de congresista es incompatible con cargos similares en empresas que, durante el mandato del congresista, obtengan concesiones del Estado, así como en empresas del sistema crediticio financiero supervisadas por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.(*)
 
-(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
+(*) Artículo modificado por el artículo 1 de la Ley Nº 31988, Ley de Reforma Constitucional que restablece la Bicameralidad en el Congreso de la
+
+República del Perú. Entra en vigor a partir de las próximas elecciones generales, cuyo texto es el siguiente:
 
 “Artículo 92. La función de senador o diputado es de tiempo completo. Les está prohibido desempeñar cualquier cargo o ejercer cualquier profesión u oficio, durante las horas de funcionamiento del Congreso.
 
@@ -927,11 +928,11 @@ Los artículos 102-A y 102-B se incorporan en virtud del artículo 2 de la Ley N
 
 proceder a modificación de acuerdo con su reglamento.
 
-10. Ejercer control sobre decretos legislativos, decretos de urgencia, tratados y los decretos de régimen de excepción.
+10.Ejercer control sobre decretos legislativos, decretos de urgencia, tratados y los decretos de régimen de excepción.
 
 11. Aprobar los tratados señalados en el artículo 56 antes de su ratificación por el Presidente de la República.
 
-12. Ejercer las demás atribuciones que le señala la Constitución y las que son propias de su función.
+12.Ejercer las demás atribuciones que le señala la Constitución y las que son propias de su función.
 
 Artículo 102-B. Son atribuciones de la Cámara de Diputados:
 
@@ -946,6 +947,8 @@ Artículo 102-B. Son atribuciones de la Cámara de Diputados:
 sobre cualquier asunto de interés público.
 
 5. Ejercer las demás atribuciones que le señala la Constitución y las que son propias de su función.”
+
+Capítulo II De la función legislativa
 
 Artículo 103. Pueden expedirse leyes especiales porque así lo exige la naturaleza de las cosas, pero no por razón de las diferencias de las personas. La ley, desde su entrada en vigencia, se aplica a las consecuencias de las relaciones y situaciones jurídicas existentes y no tiene fuerza ni efectos retroactivos; salvo, en ambos supuestos, en materia penal cuando favorece al reo. La ley se deroga sólo por otra ley. También queda sin efecto por sentencia que declara su inconstitucionalidad.
 
@@ -991,9 +994,7 @@ Los proyectos de ley orgánica se tramitan como cualquiera otra ley. Para su apr
 
 “Los proyectos de ley orgánica se tramitan como cualquiera otra ley. Para su aprobación o modificación, se requiere el voto de más de la mitad del número legal de miembros en ambas cámaras.”
 
-CAPITULO III
-
-DE LA FORMACION Y PROMULGACION DE LAS LEYES
+Capítulo III De la formación y promulgación de las leyes
 
 Artículo 107. El Presidente de la República y los Congresistas tienen derecho a iniciativa en la formación de leyes.(*)
 
@@ -1021,9 +1022,7 @@ Las leyes que derogan o modifican un decreto legislativo o un decreto de urgenci
 
 Artículo 109. La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte.
 
-CAPITULO IV
-
-PODER EJECUTIVO
+Capítulo IV Poder Ejecutivo
 
 Artículo 110. El Presidente de la República es el Jefe del Estado y personifica a la Nación.
 
@@ -1045,7 +1044,7 @@ Artículo 113. La Presidencia de la República vaca por:
 
 3. Aceptación de su renuncia por el Congreso.
 
-4. Salir del territorio nacional sin permiso del Congreso o no regresar a él dentro del plazo fijado. Y
+4. Salir del territorio nacional sin permiso del Congreso o no regresar a él dentro del plazo fijado; y,
 
 5. Destitución, tras haber sido sancionado por alguna de las infracciones mencionadas en el artículo 117 de la Constitución.
 
@@ -1127,9 +1126,7 @@ de la República, salvo el primero de ellos, son aprobados por el Consejo de Min
 
 24. Ejercer las demás funciones de gobierno y administración que la Constitución y las leyes le encomiendan.
 
-CAPITULO V
-
-DEL CONSEJO DE MINISTROS
+Capítulo V Del Consejo de Ministros
 
 Artículo 119. La dirección y la gestión de los servicios públicos están confiadas al Consejo de Ministros; y a cada ministro en los asuntos que competen a la cartera a su cargo.
 
@@ -1187,9 +1184,7 @@ Concurren también cuando son invitados para informar.
 
 El presidente del Consejo o uno, por lo menos, de los ministros, concurre periódicamente a las sesiones plenarias de la Cámara de Diputados para la estación de preguntas.”
 
-CAPITULO VI
-
-DE LAS RELACIONES CON EL PODER LEGISLATIVO
+Capítulo VI De las relaciones con el Poder Legislativo
 
 Artículo 130. Dentro de los treinta días de haber asumido sus funciones, el Presidente del Consejo concurre al Congreso, en compañía de los demás ministros, para exponer y debatir la política general del gobierno y las principales medidas que requiere su gestión. Plantea al efecto cuestión de confianza.
 
@@ -1281,9 +1276,7 @@ El Congreso extraordinariamente así elegido sustituye al anterior, incluida la 
 
 “Artículo 136. Si las elecciones no se efectúan dentro del plazo señalado, la Cámara de Diputados disuelta se reúne de pleno derecho, recobra sus facultades, y destituye al Consejo de Ministros. Ninguno de los miembros de éste puede ser nombrado nuevamente ministro durante el resto del período presidencial.”
 
-CAPITULO VII
-
-REGIMEN DE EXCEPCION
+Capítulo VII Régimen de excepción
 
 Artículo 137. El Presidente de la República, con acuerdo del Consejo de Ministros, puede decretar, por plazo determinado, en todo el territorio nacional, o en parte de él, y dando cuenta al Congreso o a la Comisión Permanente, los estados de excepción que en este artículo se contemplan:
 
@@ -1305,9 +1298,7 @@ El plazo del estado de emergencia no excede de sesenta días. Su prórroga requi
 
 2. Estado de sitio, en caso de invasión, guerra exterior, guerra civil, o peligro inminente de que se produzcan, con mención de los derechos fundamentales cuyo ejercicio no se restringe o suspende. El plazo correspondiente no excede de cuarenta y cinco días. Al decretarse el estado de sitio, ambas cámaras se reúnen de pleno derecho; el estado de sitio decretado no afecta el funcionamiento del Congreso. La prórroga requiere aprobación del Senado.”
 
-CAPITULO VIII
-
-PODER JUDICIAL
+Capítulo VIII Poder Judicial
 
 Artículo 138. La potestad de administrar justicia emana del pueblo y se ejerce por el Poder Judicial a través de sus órganos jerárquicos con arreglo a la Constitución y a las leyes.
 
@@ -1377,7 +1368,9 @@ En tal caso, deben aplicarse los principios generales del derecho y el derecho c
 
 22. El principio de que el régimen penitenciario tiene por objeto la reeducación, rehabilitación y reincorporación del penado a la sociedad.
 
-Artículo 140. La pena de muerte sólo puede aplicarse por el delito de traición a la Patria en caso de guerra, y el de terrorismo, conforme a las leyes y a los tratados de los que el Perú es parte obligada.
+Artículo 140. La pena de muerte sólo puede aplicarse por el delito de traición a la Patria en caso de guerra, y
+
+el de terrorismo, conforme a las leyes y a los tratados de los que el Perú es parte obligada.
 
 Artículo 141. Corresponde a la Corte Suprema fallar en casación, o en última instancia, cuando la acción se inicia en una Corte Superior o ante la propia Corte Suprema conforme a ley. Asimismo, conoce en casación las resoluciones del Fuero Militar, con las limitaciones que establece el artículo 173.
 
@@ -1401,7 +1394,7 @@ Los jueces sólo perciben las remuneraciones que les asigna el Presupuesto y las
 
 El Estado garantiza a los magistrados judiciales:
 
-1. Su independencia. Sólo están sometidos a la Constitución y la ley.
+1. Su independencia. Sólo están sometidos a la Constitución y la ley
 
 2. La inamovilidad en sus cargos. No pueden ser trasladados sin su consentimiento.
 
@@ -1421,11 +1414,11 @@ Artículo 147. Para ser Magistrado de la Corte Suprema se requiere:
 
 Artículo 148. Las resoluciones administrativas que causan estado son susceptibles de impugnación mediante la acción contencioso-administrativa.
 
-Artículo 149. Las autoridades de las Comunidades Campesinas y Nativas, con el apoyo de las Rondas Campesinas, pueden ejercer las funciones jurisdiccionales dentro de su ámbito territorial de conformidad con el derecho consuetudinario, siempre que no violen los derechos fundamentales de la persona. La ley establece las formas de coordinación de dicha jurisdicción especial con los Juzgados de Paz y con las demás instancias del Poder Judicial.
+Artículo 149. Las autoridades de las Comunidades Campesinas y Nativas, con el apoyo de las Rondas Campesinas, pueden ejercer las funciones jurisdiccionales dentro de su ámbito territorial de conformidad con el derecho consuetudinario, siempre que no violen los derechos fundamentales de la persona. La ley establece las formas de coordinación
 
-CAPITULO IX
+de dicha jurisdicción especial con los Juzgados de Paz y con las demás instancias del Poder Judicial.
 
-DEL CONSEJO NACIONAL DE LA MAGISTRATURA
+Capítulo IX Consejo Nacional de la Magistratura1
 
 Artículo 150. El Consejo Nacional de la Magistratura se encarga de la selección y el nombramiento de los jueces y fiscales, salvo cuando éstos provengan de elección popular.
 
@@ -1517,9 +1510,7 @@ Artículo 157. Los miembros del Consejo Nacional de la Magistratura pueden ser r
 
 por causa grave mediante acuerdo del Senado adoptado con el voto conforme de los dos tercios del número legal de sus miembros.
 
-CAPITULO X
-
-DEL MINISTERIO PUBLICO
+Capítulo X Del Ministerio Público
 
 Artículo 158. El Ministerio Público es autónomo. El Fiscal de la Nación lo preside. Es elegido por la Junta de Fiscales Supremos. El cargo de Fiscal de la Nación dura tres años, y es prorrogable, por reelección, sólo por otros dos. Los miembros del Ministerio Público tienen los mismos derechos y prerrogativas y están sujetos a las mismas obligaciones que los del Poder Judicial en la categoría respectiva. Les afectan las mismas incompatibilidades. Su nombramiento está sujeto a requisitos y procedimientos idénticos a los de los miembros del Poder Judicial en su respectiva categoría.
 
@@ -1541,9 +1532,7 @@ Artículo 159. Corresponde al Ministerio Público:
 
 Artículo 160. El proyecto de presupuesto del Ministerio Público se aprueba por la Junta de Fiscales Supremos. Se presenta ante el Poder Ejecutivo y se sustenta en esa instancia y en el Congreso.
 
-CAPITULO XI
-
-DE LA DEFENSORIA DEL PUEBLO
+Capítulo XI De la Defensoría del Pueblo
 
 Artículo 161. La Defensoría del Pueblo es autónoma. Los órganos públicos están obligados a colaborar con la Defensoría del Pueblo cuando ésta lo requiere.
 
@@ -1575,9 +1564,7 @@ El Defensor del Pueblo presenta informe al Congreso una vez al año, y cada vez 
 
 El proyecto de presupuesto de la Defensoría del Pueblo es presentado ante el Poder Ejecutivo y sustentado por su titular en esa instancia y en el Congreso.
 
-CAPITULO XII
-
-DE LA SEGURIDAD Y DE LA DEFENSA NACIONAL
+Capítulo XII De la seguridad y defensa nacional
 
 Artículo 163. El Estado garantiza la seguridad de la Nación mediante el Sistema de Defensa Nacional.
 
@@ -1611,7 +1598,9 @@ Artículo 173. En caso de delito de función, los miembros de las Fuerzas Armada
 
 Quienes infringen las normas del Servicio Militar Obligatorio están asimismo sometidos al Código de Justicia Militar.
 
-Artículo 174. Los grados y honores, las remuneraciones y las pensiones inherentes a la jerarquía de oficiales de las Fuerzas Armadas y de la Policía Nacional son equivalentes. La ley establece las equivalencias correspondientes al personal militar o policial de carrera que no tiene grado o jerarquía de oficial.
+Artículo 174. Los grados y honores, las remuneraciones y las pensiones inherentes a la jerarquía de oficiales de las Fuerzas Armadas y de la Policía Nacional
+
+son equivalentes. La ley establece las equivalencias correspondientes al personal militar o policial de carrera que no tiene grado o jerarquía de oficial.
 
 En ambos casos, los derechos indicados sólo pueden retirarse a sus titulares por sentencia judicial.
 
@@ -1621,9 +1610,7 @@ Se exceptúa la fabricación de armas de guerra por la industria privada en los 
 
 La ley reglamenta la fabricación, el comercio, la posesión y el uso, por los particulares, de armas distintas de las de guerra.
 
-CAPITULO XIII
-
-DEL SISTEMA ELECTORAL
+Capítulo XIII Del sistema electoral
 
 Artículo 176. El sistema electoral tiene por finalidad asegurar que las votaciones traduzcan la expresión auténtica, libre y espontánea de los ciudadanos; y que los escrutinios sean reflejo exacto y oportuno de la voluntad del elector expresada en las urnas por votación directa.
 
@@ -1643,7 +1630,9 @@ Artículo 178. Compete al Jurado Nacional de Elecciones:
 
 5. Proclamar a los candidatos elegidos; el resultado del referéndum o el de otros tipos de consulta popular y expedir las credenciales correspondientes.
 
-6. Las demás que la ley señala. En materia electoral, el Jurado Nacional de Elecciones tiene iniciativa en la formación de las leyes.
+6. Las demás que la ley señala.
+
+En materia electoral, el Jurado Nacional de Elecciones tiene iniciativa en la formación de las leyes.
 
 Presenta al Poder Ejecutivo el proyecto de Presupuesto del Sistema Electoral que incluye por separado las partidas propuestas por cada entidad del sistema. Lo sustenta en esa instancia y ante el Congreso.
 
@@ -1665,7 +1654,9 @@ El cargo es remunerado y de tiempo completo. Es incompatible con cualquiera otra
 
 No pueden ser miembros del Pleno del Jurado los candidatos a cargos de elección popular, ni los ciudadanos que desempeñan cargos directivos con carácter nacional en las organizaciones políticas, o que los han desempeñado en los cuatro años anteriores a su postulación.
 
-Artículo 181. El Pleno del Jurado Nacional de Elecciones aprecia los hechos con criterio de conciencia. Resuelve con arreglo a ley y a los principios generales de derecho. En materias electorales, de referéndum o de otro tipo de consultas populares, sus resoluciones son dictadas en instancia final, definitiva, y no son revisables. Contra ellas no procede recurso alguno.
+Artículo 181. El Pleno del Jurado Nacional de Elecciones aprecia los hechos con criterio de conciencia. Resuelve con arreglo a ley y a los principios generales de derecho. En materias electorales, de referéndum o de otro tipo de consultas populares, sus resoluciones son dictadas
+
+en instancia final, definitiva, y no son revisables. Contra ellas no procede recurso alguno.
 
 Artículo 182. El Jefe de la Oficina Nacional de Procesos Electorales es nombrado por el Consejo Nacional de la Magistratura por un período renovable de cuatro años. Puede ser removido por el propio Consejo por falta grave. Está afecto a las mismas incompatibilidades previstas para los integrantes del Pleno del Jurado Nacional de Elecciones.
 
@@ -1709,15 +1700,15 @@ Artículo 187. En las elecciones pluripersonales hay representación proporciona
 
 La ley contiene disposiciones especiales para facilitar el voto de los peruanos residentes en el extranjero.
 
-CAPITULO XIV
-
-DE LA DESCENTRALIZACION
+Capítulo XIV De la descentralización
 
 Artículo 188. La descentralización es una forma de organización democrática y constituye una política permanente de Estado, de carácter obligatorio, que tiene como objetivo fundamental el desarrollo integral del país. El proceso de descentralización se realiza por etapas, en forma progresiva y ordenada conforme a criterios que permitan una adecuada asignación de competencias y transferencia de recursos del gobierno nacional hacia los gobiernos regionales y locales.
 
 Los Poderes del Estado y los Organismos Autónomos así como el Presupuesto de la República se descentralizan de acuerdo a ley.
 
-Artículo 189. El territorio de la República está integrado por regiones, departamentos, provincias y distritos, en cuyas circunscripciones se constituye y organiza el gobierno a nivel nacional, regional y local, en los términos que establece la Constitución y la ley, preservando la unidad e integridad del Estado y de la Nación.
+Artículo 189. El territorio de la República está integrado por regiones, departamentos, provincias y distritos, en cuyas circunscripciones se constituye y organiza el gobierno a nivel nacional, regional y local, en los términos que establece la Constitución y la ley,
+
+preservando la unidad e integridad del Estado y de la Nación.
 
 El ámbito del nivel regional de gobierno son las regiones y departamentos. El ámbito del nivel local de gobierno son las provincias, distritos y los centros poblados.
 
@@ -1825,9 +1816,7 @@ Son competentes para:
 
 7. Fomentar la competitividad, las inversiones y el financiamiento para la ejecución de proyectos y obras de infraestructura local.
 
-8. Desarrollar y regular actividades y/o servicios en materia de educación, salud, vivienda, saneamiento, medio ambiente, sustentabilidad de los recursos naturales, transporte colectivo,
-
-circulación y tránsito, turismo, conservación de monumentos arqueológicos e históricos, cultura, recreación y deporte, conforme a ley.
+8. Desarrollar y regular actividades y/o servicios en materia de educación, salud, vivienda, saneamiento, medio ambiente, sustentabilidad de los recursos naturales, transporte colectivo, circulación y tránsito, turismo, conservación de monumentos arqueológicos e históricos, cultura, recreación y deporte, conforme a ley.
 
 9. Presentar iniciativas legislativas en materias y asuntos de su competencia.
 
@@ -1853,19 +1842,19 @@ Artículo 196. Son bienes y rentas de las municipalidades:
 
 9. Los demás que determine la ley.
 
-Artículo 197. Las municipalidades promueven, apoyan y reglamentan la participación vecinal en el desarrollo local. Asimismo brindan servicios de seguridad ciudadana, con la cooperación de la Policía Nacional del Perú, conforme a ley.
+Artículo 197. Las municipalidades promueven, apoyan y reglamentan la participación vecinal en el desarrollo
+
+local. Asimismo brindan servicios de seguridad ciudadana, con la cooperación de la Policía Nacional del Perú, conforme a ley.
 
 Artículo 198. La Capital de la República no integra ninguna región. Tiene régimen especial en las leyes de descentralización y en la Ley Orgánica de Municipalidades. La Municipalidad Metropolitana de Lima ejerce sus competencias dentro del ámbito de la provincia de Lima.
 
 Las municipalidades de frontera tienen, asimismo, régimen especial en la Ley Orgánica de Municipalidades.
 
-Artículo 199. Los gobiernos regionales y locales son fiscalizados por sus propios órganos de fiscalización y por los organismos que tengan tal atribución por mandato constitucional o legal, y están sujetos al control y supervisión de la Contraloría General de la República, la que organiza un sistema de control descentralizado y permanente. Los mencionados gobiernos formulan sus
+Artículo 199. Los gobiernos regionales y locales son fiscalizados por sus propios órganos de fiscalización y por los organismos que tengan tal atribución por mandato constitucional o legal, y están sujetos al control y supervisión de la Contraloría General de la República, la que organiza un sistema de control descentralizado y permanente. Los mencionados gobiernos formulan sus presupuestos con la participación de la población y rinden cuenta de su ejecución, anualmente, bajo responsabilidad, conforme a ley.
 
-presupuestos con la participación de la población y rinden cuenta de su ejecución, anualmente, bajo responsabilidad, conforme a ley.
+TÍTULO V
 
-TITULO V
-
-DE LAS GARANTIAS CONSTITUCIONALES
+DE LAS GARANTÍAS CONSTITUCIONALES
 
 Artículo 200. Son garantías constitucionales:
 
@@ -1877,7 +1866,9 @@ No procede contra normas legales ni contra Resoluciones Judiciales emanadas de p
 
 3. La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2, incisos 5 y 6 de la Constitución.
 
-4. La Acción de Inconstitucionalidad, que procede contra las normas que tienen rango de ley: leyes, decretos legislativos, decretos de urgencia, tratados, reglamentos del Congreso, normas regionales de carácter general y ordenanzas municipales que contravengan la Constitución en la forma o en el fondo.
+4. La Acción de Inconstitucionalidad, que procede contra las normas que tienen rango de ley: leyes,
+
+decretos legislativos, decretos de urgencia, tratados, reglamentos del Congreso, normas regionales de carácter general y ordenanzas municipales que contravengan la Constitución en la forma o en el fondo.
 
 5. La Acción Popular, que procede, por infracción de la Constitución y de la ley, contra los reglamentos, normas administrativas y resoluciones y decretos de carácter general, cualquiera sea la autoridad de la que emanen.
 
@@ -1887,9 +1878,9 @@ Una ley orgánica regula el ejercicio de estas garantías y los efectos de la de
 
 El ejercicio de las acciones de hábeas corpus y de amparo no se suspende durante la vigencia de los regímenes de excepción a que se refiere el artículo 137 de la Constitución.
 
-Cuando se interponen acciones de esta naturaleza en relación con derechos restringidos o suspendidos, el órgano jurisdiccional competente examina la razonabilidad y la proporcionalidad del
+Cuando se interponen acciones de esta naturaleza en relación con derechos restringidos o suspendidos, el órgano jurisdiccional competente examina la razonabilidad y la proporcionalidad del acto restrictivo.
 
-acto restrictivo. No corresponde al juez cuestionar la declaración del estado de emergencia ni de sitio.
+No corresponde al juez cuestionar la declaración del estado de emergencia ni de sitio.
 
 Artículo 201. El Tribunal Constitucional es el órgano de control de la Constitución. Es autónomo e independiente. Se compone de siete miembros elegidos por cinco años.
 
@@ -1941,9 +1932,9 @@ No tiene efecto retroactivo la sentencia del Tribunal que declara inconstitucion
 
 Artículo 205. Agotada la jurisdicción interna, quien se considere lesionado en los derechos que la Constitución reconoce puede recurrir a los tribunales u organismos internacionales constituidos según tratados o convenios de los que el Perú es parte.
 
-TITULO VI
+TÍTULO VI
 
-DE LA REFORMA DE LA CONSTITUCION
+DE LA REFORMA DE LA CONSTITUCIÓN
 
 Artículo 206. Toda reforma constitucional debe ser aprobada por el Congreso con mayoría absoluta del número legal de sus miembros, y ratificada mediante referéndum. Puede omitirse el referéndum cuando el acuerdo del Congreso se obtiene en dos legislaturas ordinarias sucesivas con una votación favorable, en cada caso, superior a los dos tercios del número legal de congresistas. La ley de reforma constitucional no puede ser observada por el Presidente de la República.
 
@@ -2003,7 +1994,9 @@ Undécima. Las disposiciones de la Constitución que exijan nuevos o mayores gas
 
 Duodécima. La organización política departamental de la República comprende los departamentos siguientes: Amazonas, Ancash, Apurímac, Arequipa, Ayacucho, Cajamarca, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali; y la Provincia Constitucional del Callao.
 
-Decimotercera. Mientras no se constituyan las Regiones y hasta que se elija a sus presidentes de acuerdo con esta Constitución, el Poder Ejecutivo determina la jurisdicción de los Consejos Transitorios de Administración Regional actualmente en funciones, según el área de cada uno de los departamentos establecidos en el país.
+Decimotercera. Mientras no se constituyan las Regiones y hasta que se elija a sus presidentes de
+
+acuerdo con esta Constitución, el Poder Ejecutivo determina la jurisdicción de los Consejos Transitorios de Administración Regional actualmente en funciones, según el área de cada uno de los departamentos establecidos en el país.
 
 Decimocuarta. La presente Constitución, una vez aprobada por el Congreso Constituyente Democrático, entra en vigencia, conforme al resultado del referéndum regulado mediante ley constitucional.
 
@@ -2019,7 +2012,9 @@ PRIMERA. El Presidente y los Vicepresidentes de la República elegidos en las El
 
 SEGUNDA. Para efectos del proceso electoral que se realice en el 2001, el plazo previsto en el primer párrafo del artículo 91 de la Constitución será de cuatro meses.
 
-CUARTA. Se autoriza, excepcionalmente, al Congreso de la República del Periodo Parlamentario 2021-2026 la elaboración y aprobación del Reglamento del Congreso de la República, del Reglamento del Senado y del Reglamento de la Cámara de Diputados que se implementarán en el marco de lo dispuesto por la Ley 31988, Ley de Reforma Constitucional que Restablece la Bicameralidad en el Congreso de la República del Perú.
+TERCERA. El Jurado Nacional de Elecciones (JNE) distribuye los escaños en cantidad de cuatro para Lima Provincias sin afectar la distribución nacional existente y los seis escaños restantes conforme a ley.
+
+CUARTA. Se autoriza, excepcionalmente, al Congreso de la República del Periodo Parlamentario 2021- 2026 la elaboración y aprobación del Reglamento del Congreso de la República, del Reglamento del Senado y del Reglamento de la Cámara de Diputados que se implementarán en el marco de lo dispuesto por la Ley 31988, Ley de Reforma Constitucional que Restablece la Bicameralidad en el Congreso de la República del Perú.
 
 Lo dispuesto en el párrafo primero no impide que el Senado, la Cámara de Diputados y el Congreso de la República aprueben reformas parciales o totales a sus respectivos reglamentos, conforme a sus atribuciones constitucionales.
 
