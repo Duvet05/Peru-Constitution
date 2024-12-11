@@ -634,11 +634,10 @@ próximas elecciones generales, cuyo texto es el siguiente:
 
 “El Poder Ejecutivo designa al superintendente de banca, seguros y administradoras privadas de fondos de pensiones por el plazo correspondiente a su período constitucional. El Senado lo ratifica.”
 
-CAPITULO VI
+Capítulo VI
 
-DEL REGIMEN AGRARIO Y DE LAS
+Del régimen agrario y de las comunidades campesinas, nativas y del pueblo afroperuano
 
-COMUNIDADES CAMPESINAS Y NATIVAS
 
 Artículo 88. El Estado apoya preferentemente el desarrollo agrario. Garantiza el derecho de propiedad sobre la tierra, en forma privada o comunal o en cualquiera otra forma asociativa. La ley puede fijar los límites y la extensión de la tierra según las peculiaridades de cada zona.
 
@@ -648,7 +647,7 @@ Artículo 89. Las Comunidades Campesinas y las Nativas tienen existencia legal y
 
 Son autónomas en su organización, en el trabajo comunal y en el uso y la libre disposición de sus tierras, así como en lo económico y administrativo, dentro del marco que la ley establece. La propiedad de sus tierras es imprescriptible, salvo en el caso de abandono previsto en el artículo anterior.
 
-El Estado respeta la identidad cultural de las Comunidades Campesinas y Nativas.
+El Estado respeta la identidad cultural de las Comunidades Campesinas, Nativas y del Pueblo Afroperuano.
 
 TITULO IV
 
