@@ -11,7 +11,7 @@ Proyecto inicial. Incluye:
 - un manifest editable de reformas constitucionales;
 - una herramienta para reconstruir un repo historico desde snapshots.
 
-La fuente oficial vigente usada como referencia inicial es la edicion del Congreso de la Republica de diciembre de 2024. El repo todavia no incluye un texto constitucional validado; primero se debe extraer y revisar el texto para no publicar OCR o HTML defectuoso como si fuera fuente legal.
+La fuente oficial vigente usada como referencia inicial es la edicion del Congreso de la Republica de diciembre de 2024. El primer snapshot completo proviene de ese PDF oficial y requiere revision humana antes de reconstruir el historial articulo por articulo.
 
 ## Fuentes oficiales
 
@@ -42,6 +42,18 @@ Normalizar un HTML oficial:
 
 ```sh
 ./scripts/html_to_text.py sources/archivo-oficial.html snapshots/YYYY-MM-DD.md
+```
+
+Extraer un snapshot desde el PDF oficial del Congreso:
+
+```sh
+./scripts/pdf_to_snapshot.py sources/constitucion-12-2024.pdf snapshots/2024-12-11.md
+```
+
+Validar que el snapshot contenga los articulos esperados:
+
+```sh
+./scripts/validate_snapshot.py snapshots/2024-12-11.md
 ```
 
 Reconstruir el historial en un repo nuevo:
@@ -75,6 +87,8 @@ git blame -w constitucion.md
 ```
 
 La opcion `-w` ignora cambios de espacios y ayuda cuando hubo normalizacion de formato.
+
+El snapshot inicial completo permite usar blame desde ya, pero todo el texto aparece atribuido a la edicion oficial de 2024. El siguiente trabajo es dividir la historia en commits por Ley de Reforma Constitucional.
 
 ## Criterio editorial
 
