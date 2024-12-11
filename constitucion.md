@@ -136,7 +136,7 @@ Es deber y derecho de los padres alimentar, educar y dar seguridad a sus hijos. 
 
 Todos los hijos tienen iguales derechos y deberes. Está prohibida toda mención sobre el estado civil de los padres y sobre la naturaleza de la filiación en los registros civiles y en cualquier otro documento de identidad.
 
-Artículo 7. Todos tienen derecho a la protección de su salud, la del medio familiar y la de la comunidad así como el deber de contribuir a su promoción y defensa. La persona incapacitada para velar por sí misma a causa de una deficiencia física o mental tiene derecho al respeto de su dignidad y a un régimen legal de protección, atención, readaptación y seguridad.
+Artículo 7. Todos tienen derecho a la protección de su salud, la del medio familiar y la de la comunidad, así como el deber de contribuir a su promoción y defensa. La persona con discapacidad tiene derecho al respeto de su dignidad y a un régimen legal de protección, atención, readaptación y seguridad.
 
 Artículo 7-A. El Estado reconoce el derecho de toda persona a acceder de forma progresiva y universal al agua potable. El Estado garantiza este derecho priorizando el consumo humano sobre otros usos.
 
@@ -214,7 +214,7 @@ En el caso de los bienes culturales no descubiertos ubicados en el subsuelo y en
 
 Artículo 22. El trabajo es un deber y un derecho. Es base del bienestar social y un medio de realización de la persona.
 
-Artículo 23. El trabajo, en sus diversas modalidades, es objeto de atención prioritaria del Estado, el cual protege especialmente a la madre, al menor de edad y al impedido que trabajan.
+Artículo 23. El trabajo, en sus diversas modalidades, es objeto de atención prioritaria del Estado, el cual protege especialmente a la madre, al menor de edad y a la persona con discapacidad que trabajan.
 
 El Estado promueve condiciones para el progreso social y económico, en especial mediante políticas de fomento del empleo productivo y de educación para el trabajo.
 
