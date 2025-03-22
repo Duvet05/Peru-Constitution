@@ -1,3 +1,7 @@
+Alberto Fujimori Fujimori
+
+Presidente Constitucional de la República
+
 CONSTITUCIÓN POLÍTICA
 
 DEL PERÚ
