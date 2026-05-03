@@ -6,11 +6,12 @@ El historial reconstruido se puede generar con:
 ./scripts/build_history.py reformas.csv build/Peru-Constitution-history
 ```
 
-En el estado actual, el historial generado tiene cuatro hitos:
+En el estado actual, el historial generado tiene cinco hitos:
 
 - 2013-05-01: texto actualizado del Archivo Digital de la Legislacion del Peru.
 - 2015-03-10: Ley 30305, sobre denominacion y no reeleccion inmediata de autoridades regionales y alcaldes.
 - 2017-05-09: Ley 30558, sobre detencion policial en el literal f del inciso 24 del articulo 2.
+- 2017-06-22: Ley 30588, que incorpora el articulo 7-A sobre acceso al agua.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -29,3 +30,11 @@ git blame -L 109,116 constitucion.md
 ```
 
 Ese rango muestra el literal f del inciso 24 del articulo 2 atribuido a la Ley 30558.
+
+Para ver un articulo completo nacido por reforma:
+
+```sh
+git blame -L 140,146 constitucion.md
+```
+
+Ese rango muestra el articulo 7-A atribuido a la Ley 30588.
