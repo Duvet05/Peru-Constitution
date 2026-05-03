@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="370" viewBox="0 0 1180 370" role="img" aria-label="Constitucion del Peru en Git">
+  <rect width="100%" height="100%" rx="14" fill="#0f172a"/>
+  <rect x="18" y="18" width="1144" height="46" rx="10" fill="#111827"/>
+  <circle cx="42" cy="41" r="7" fill="#ef4444"/>
+  <circle cx="64" cy="41" r="7" fill="#f59e0b"/>
+  <circle cx="86" cy="41" r="7" fill="#22c55e"/>
+  <text x="112" y="47" fill="#e5e7eb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">Constitucion del Peru en Git</text>
+  <text x="24" y="84" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">$ git log --oneline --reverse</text>
+  <text x="24" y="112" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">6259f52  Constitucion Politica del Peru - texto original reconstruido</text>
+  <text x="24" y="140" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">0db55f3  Ley 26470</text>
+  <text x="24" y="168" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">6fd8daf  Ley 26472</text>
+  <text x="24" y="196" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">2b75ebc  Ley 27680</text>
+  <text x="24" y="224" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">...</text>
+  <text x="24" y="252" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">5da361c  Ley 31988</text>
+  <text x="24" y="280" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">69ed965  Ley 32135</text>
+  <text x="24" y="308" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">029d027  Edicion oficial del Congreso - diciembre 2024</text>
+  <text x="24" y="336" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">251b79b  Ley 32265</text>
+</svg>

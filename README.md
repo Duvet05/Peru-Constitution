@@ -10,6 +10,12 @@ La meta es que `git blame constitucion.md` muestre que ley introdujo o modifico 
 
 ## Demo rapida
 
+![Historial reconstruido con 40 hitos](assets/history-40-commits.svg)
+
+![Blame del articulo 7-A atribuido a la Ley 30588](assets/blame-articulo-7a.svg)
+
+![Blame de la firma restituida por la Ley 32265](assets/blame-firma-32265.svg)
+
 Ver el historial publico con blame:
 
 ```sh

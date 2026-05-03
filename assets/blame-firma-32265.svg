@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="260" viewBox="0 0 1180 260" role="img" aria-label="git blame firma restituida">
+  <rect width="100%" height="100%" rx="14" fill="#0f172a"/>
+  <rect x="18" y="18" width="1144" height="46" rx="10" fill="#111827"/>
+  <circle cx="42" cy="41" r="7" fill="#ef4444"/>
+  <circle cx="64" cy="41" r="7" fill="#f59e0b"/>
+  <circle cx="86" cy="41" r="7" fill="#22c55e"/>
+  <text x="112" y="47" fill="#e5e7eb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">git blame: firma restituida</text>
+  <text x="24" y="84" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">$ git blame -L 1,4 constitucion.md</text>
+  <text x="24" y="116" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">251b79b1 (Constitucion Peru Bot 2025-03-22) Alberto Fujimori Fujimori</text>
+  <text x="24" y="144" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">251b79b1 (Constitucion Peru Bot 2025-03-22)</text>
+  <text x="24" y="172" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">251b79b1 (Constitucion Peru Bot 2025-03-22) Presidente Constitucional de la República</text>
+  <text x="24" y="220" fill="#e5e7eb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">La Ley 32265 aparece como commit: el cambio queda visible, fechable y discutible.</text>
+</svg>
