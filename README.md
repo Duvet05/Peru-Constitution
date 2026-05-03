@@ -1,6 +1,10 @@
-# Constitucion Politica del Peru en Git
+# Historical Edits of the Peru Constitution
 
-Este repo busca representar la Constitucion Politica del Peru como texto versionado, con commits fechados por promulgacion y reforma constitucional para que `git blame` muestre que ley introdujo o modifico cada linea.
+La Constitucion Politica del Peru ha sido modificada muchas veces desde 1993. Esas reformas normalmente aparecen como leyes, notas editoriales y textos actualizados en PDF.
+
+Este repositorio intenta responder una pregunta simple: como se ve la Constitucion vigente si tratamos cada reforma constitucional como un commit?
+
+La meta es que `git blame constitucion.md` muestre que ley introdujo o modifico cada linea.
 
 ## Estado
 
@@ -8,10 +12,11 @@ Proyecto inicial. Incluye:
 
 - fuentes oficiales conocidas;
 - scripts para descargar y normalizar texto;
-- un manifest editable de reformas constitucionales;
+- un inventario completo de reformas constitucionales;
+- un manifest editable para reconstruir commits historicos;
 - una herramienta para reconstruir un repo historico desde snapshots.
 
-La fuente oficial vigente usada como referencia inicial es la edicion del Congreso de la Republica de diciembre de 2024. El primer snapshot completo proviene de ese PDF oficial y requiere revision humana antes de reconstruir el historial articulo por articulo.
+La fuente oficial vigente usada como referencia inicial es la edicion del Congreso de la Republica de diciembre de 2024. El primer snapshot completo proviene de ese PDF oficial y conserva las anotaciones editoriales del Congreso, porque el objetivo es publicar una Constitucion vigente y anotada.
 
 ## Fuentes oficiales
 
@@ -26,6 +31,7 @@ La fuente oficial vigente usada como referencia inicial es la edicion del Congre
 sources/              fuentes descargadas, no editadas
 snapshots/            textos normalizados por fecha
 reformas.csv          manifest de reformas y snapshots
+metadata/             inventario historico y fuentes
 constitucion.md       texto vigente que queda versionado por Git
 scripts/              utilidades de descarga, normalizacion e historial
 ```
@@ -78,10 +84,11 @@ git blame constitucion.md
 
 ## Como completar el proyecto
 
-1. Coloca en `snapshots/` un archivo por cada reforma constitucional relevante.
-2. Registra cada snapshot en `reformas.csv` con fecha, norma, fuente y descripcion.
-3. Ejecuta `scripts/build_history.py` para crear un repo historico limpio.
-4. Revisa `git diff` entre commits para detectar errores de OCR, saltos de linea o notas editoriales.
+1. Usa `metadata/reformas-constitucionales.csv` como checklist de reformas.
+2. Coloca en `snapshots/` un archivo por cada reforma constitucional relevante.
+3. Registra cada snapshot listo para reconstruccion en `reformas.csv` con fecha, norma, fuente y descripcion.
+4. Ejecuta `scripts/build_history.py` para crear un repo historico limpio.
+5. Revisa `git diff` entre commits para detectar errores de OCR, saltos de linea o notas editoriales.
 
 ## Blame
 
@@ -98,7 +105,8 @@ El snapshot inicial completo permite usar blame desde ya, pero todo el texto apa
 
 ## Criterio editorial
 
-- Mantener solo texto constitucional en `constitucion.md`.
-- Mover notas editoriales, llamadas y fuentes a `metadata/` o al commit message.
+- Mantener la Constitucion vigente y anotada en `constitucion.md`.
+- Conservar notas editoriales del Congreso cuando aclaran reformas, vigencia o textos futuros.
 - Usar fechas de publicacion/promulgacion de la norma reformadora.
 - No mezclar cambios de formato con reformas de contenido si se quiere un `blame` util.
+- Corregir extracciones PDF solo en commits separados y auditables.
