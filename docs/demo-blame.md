@@ -22,6 +22,7 @@ En el estado actual, el historial generado tiene doce hitos:
 - 2020-12-29: Ley 31097, sobre inversion publica en educacion.
 - 2021-02-06: Ley 31118, sobre eliminacion de la inmunidad parlamentaria.
 - 2021-02-10: Ley 31122, sobre doble empleo publico remunerado de personal medico en emergencia sanitaria.
+- 2021-07-16: Ley 31280, sobre residencia temporal del expresidente; declarada inconstitucional por la sentencia 918/2021 del Tribunal Constitucional.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -128,3 +129,11 @@ git blame HEAD~1 -L '/Artículo 40/',+10 constitucion.md
 ```
 
 Ese rango muestra el parrafo incorporado por la Ley 31122 antes de que el hito 2024 refleje reformas posteriores sobre el articulo 40.
+
+Para ver una reforma historica luego expulsada del ordenamiento:
+
+```sh
+git blame HEAD~1 -L '/Artículo 112/',+8 constitucion.md
+```
+
+Ese rango muestra el articulo 112 atribuido a la Ley 31280 antes de su posterior declaracion de inconstitucionalidad.
