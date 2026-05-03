@@ -18,7 +18,7 @@ La salida principal debe ser una Constitucion vigente y anotada, parecida a la e
 
 ## Historia
 
-La reconstruccion historica debe cubrir todas las reformas constitucionales listadas por el Congreso.
+La reconstruccion historica debe cubrir todas las reformas constitucionales listadas por el Congreso, incluyendo reformas posteriores a la ultima edicion PDF disponible.
 
 Cada reforma debe ser un commit separado con:
 
@@ -32,4 +32,3 @@ Cada reforma debe ser un commit separado con:
 Las correcciones de extraccion PDF, espacios, guiones de corte o puntuacion deben ir en commits separados. No deben mezclarse con commits de reforma constitucional.
 
 Mientras el proyecto este en construccion, se permite reescribir historia para corregir commits historicos. Cuando haya una version publica estable, se debe preferir un commit correctivo nuevo salvo errores graves.
-

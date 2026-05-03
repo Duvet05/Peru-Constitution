@@ -2,6 +2,8 @@
 
 Fuente: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
+Nota de vigencia: este snapshot no incluye la Ley 32265, publicada el 22 de marzo de 2025, listada en el portal oficial de Leyes de Reforma Constitucional del Congreso.
+
 Comandos ejecutados:
 
 ```sh
