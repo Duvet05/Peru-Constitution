@@ -6,7 +6,7 @@ El historial reconstruido se puede generar con:
 ./scripts/build_history.py reformas.csv build/Peru-Constitution-history
 ```
 
-En el estado actual, el historial generado tiene veintidos hitos:
+En el estado actual, el historial generado tiene veintitres hitos:
 
 - 2013-05-01: texto actualizado del Archivo Digital de la Legislacion del Peru.
 - 2015-03-10: Ley 30305, sobre denominacion y no reeleccion inmediata de autoridades regionales y alcaldes.
@@ -29,6 +29,7 @@ En el estado actual, el historial generado tiene veintidos hitos:
 - 2022-02-12: Ley 31414, sobre patrimonio cultural de la Nacion.
 - 2022-07-03: Ley 31507, sobre secreto bancario y reserva tributaria.
 - 2023-09-23: Ley 31878, sobre TIC e internet libre.
+- 2024-03-20: Ley 31988, sobre bicameralidad con vigencia diferida.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -139,7 +140,7 @@ Ese rango muestra el parrafo incorporado por la Ley 31122 antes de que el hito 2
 Para ver una reforma historica luego expulsada del ordenamiento:
 
 ```sh
-git blame HEAD~5 -L '/Artículo 21/',+8 constitucion.md
+git blame HEAD~6 -L '/Artículo 21/',+8 constitucion.md
 ```
 
 Ese rango muestra el articulo 21 atribuido a la Ley 31304 antes de su posterior declaracion de inconstitucionalidad.
@@ -147,7 +148,7 @@ Ese rango muestra el articulo 21 atribuido a la Ley 31304 antes de su posterior 
 Para ver el levantamiento del secreto bancario y reserva tributaria incorporado historicamente:
 
 ```sh
-git blame HEAD~5 -L 31,49 constitucion.md
+git blame HEAD~6 -L 31,49 constitucion.md
 ```
 
 Ese rango muestra el inciso 5 del articulo 2 atribuido a la Ley 31305 antes de su posterior declaracion de inconstitucionalidad.
@@ -155,7 +156,7 @@ Ese rango muestra el inciso 5 del articulo 2 atribuido a la Ley 31305 antes de s
 Para ver la reversion por sentencia constitucional:
 
 ```sh
-git show --stat HEAD~4
+git show --stat HEAD~5
 ```
 
 Ese commit muestra la STC 918/2021 retirando del texto historico los cambios de las Leyes 31280, 31304 y 31305 antes del hito 2024.
@@ -163,7 +164,7 @@ Ese commit muestra la STC 918/2021 retirando del texto historico los cambios de 
 Para ver la reforma posterior sobre patrimonio cultural:
 
 ```sh
-git blame HEAD~3 -L '/Artículo 21/',+6 constitucion.md
+git blame HEAD~4 -L '/Artículo 21/',+6 constitucion.md
 ```
 
 Ese rango muestra el articulo 21 despues de la Ley 31414.
@@ -171,7 +172,7 @@ Ese rango muestra el articulo 21 despues de la Ley 31414.
 Para ver la reforma vigente sobre secreto bancario y reserva tributaria:
 
 ```sh
-git blame HEAD~2 -L 31,49 constitucion.md
+git blame HEAD~3 -L 31,49 constitucion.md
 ```
 
 Ese rango muestra el inciso 5 del articulo 2 despues de la Ley 31507.
@@ -179,7 +180,15 @@ Ese rango muestra el inciso 5 del articulo 2 despues de la Ley 31507.
 Para ver el nuevo derecho de acceso a internet libre:
 
 ```sh
-git blame HEAD~1 -L '/Artículo 14-A/',+4 constitucion.md
+git blame HEAD~2 -L '/Artículo 14-A/',+4 constitucion.md
 ```
 
 Ese rango muestra el articulo 14-A incorporado por la Ley 31878.
+
+Para ver la bicameralidad de vigencia diferida:
+
+```sh
+git blame HEAD~1 -L '/Artículo 102-A/',+34 constitucion.md
+```
+
+Ese rango muestra los articulos 102-A y 102-B incorporados como texto diferido por la Ley 31988.
