@@ -56,6 +56,12 @@ Validar que el snapshot contenga los articulos esperados:
 ./scripts/validate_snapshot.py snapshots/2024-12-11.md
 ```
 
+Auditar detalles de extraccion del PDF:
+
+```sh
+./scripts/audit_snapshot.py constitucion.md
+```
+
 Reconstruir el historial en un repo nuevo:
 
 ```sh
