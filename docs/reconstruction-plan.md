@@ -6,22 +6,26 @@ Reconstruir la Constitucion Politica del Peru desde 1993 hasta la edicion oficia
 
 ## Fuentes base
 
-- 1993: edicion oficial historica de la Biblioteca del Congreso. Pendiente de OCR/revision manual.
+- 1993: texto original reconstruido desde el checkpoint oficial 2013, leyes oficiales pre-2013 y fuentes anotadas de contraste.
+- Contraste 1993-2011: copias anotadas de referencia usadas solo para verificar texto cuando los PDF oficiales escaneados no producen OCR confiable: OAS/TC y Justia Peru.
 - 2013-05-01: Archivo Digital de la Legislacion del Peru, texto actualizado al 1 de mayo de 2013.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 - Reformas: portal oficial de Leyes de Reforma Constitucional del Congreso, registrado en `metadata/reform-source-pages.csv`.
 
 ## Estrategia
 
-1. Usar `snapshots/2013-05-01.md` como hito oficial intermedio.
-2. Reconstruir hacia atras las reformas 1 a 11 hasta llegar al texto de 1993.
-3. Reconstruir hacia adelante las reformas 12 a 36 hasta llegar al texto vigente.
-4. Reescribir historia generada cuando haya correcciones de extraccion o de fuente.
+1. Usar `snapshots/1993-12-30.md` como texto original reconstruido.
+2. Reconstruir las reformas 1 a 11 hasta llegar al hito oficial `snapshots/2013-05-01.md`.
+3. Usar `snapshots/2013-05-01.md` como checkpoint oficial intermedio.
+4. Reconstruir hacia adelante las reformas 12 a 36 hasta llegar al texto vigente.
+5. Reescribir historia generada cuando haya correcciones de extraccion o de fuente.
 
 ## Estado
 
+- Snapshot 1993-12-30: texto original reconstruido y validado como base historica.
+- Snapshots 1995-2009: Leyes 26470, 26472, 27365, 27680, 28389, 28390, 28480, 28484, 28607, 29401 y 29402 reconstruidas y validadas.
+- Snapshot 2013: completo, canonico y auditado; coincide con el resultado reconstruido tras Ley 29402.
 - Snapshot 2024: completo, canonico y auditado; no incluye la Ley 32265 de 2025.
-- Snapshot 2013: completo, canonico y auditado.
 - Snapshot 2015-03-10: Ley 30305 reconstruida y auditada como primer paso individual posterior a 2013.
 - Snapshot 2017-05-09: Ley 30558 reconstruida y auditada.
 - Snapshot 2017-06-22: Ley 30588 reconstruida y auditada.
@@ -43,7 +47,7 @@ Reconstruir la Constitucion Politica del Peru desde 1993 hasta la edicion oficia
 - Snapshot 2022-07-03: Ley 31507 reconstruida y auditada.
 - Snapshot 2023-09-23: Ley 31878 reconstruida y auditada.
 - Snapshot 2024-03-20: Ley 31988 reconstruida como reforma de vigencia diferida; pendiente revision fina de atribucion de normalizaciones oficiales.
-- Snapshot 2024-10-15: Ley 32135 reconstruida; pendiente contrastar la derogacion de la tercera disposicion transitoria especial con la edicion oficial de diciembre de 2024.
+- Snapshot 2024-10-15: Ley 32135 reconstruida; la discrepancia con la edicion oficial de diciembre de 2024 sobre la tercera disposicion transitoria especial queda documentada en `reformas/32135/README.md`.
 - Snapshot 2024-10-29: Ley 32145 reconstruida y auditada.
 - Snapshot 2024-12-11-32188: Ley 32188 reconstruida y auditada.
 - Snapshot 2024-12-11-32189: Ley 32189 reconstruida y auditada.

@@ -43,7 +43,7 @@ def main():
         env = os.environ.copy()
         env["GIT_AUTHOR_DATE"] = f"{row['date']}T12:00:00-05:00"
         env["GIT_COMMITTER_DATE"] = env["GIT_AUTHOR_DATE"]
-        run(["git", "commit", "-m", message], output, env=env)
+        run(["git", "commit", "--allow-empty", "-m", message], output, env=env)
 
     print(output)
     return 0
@@ -51,4 +51,3 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

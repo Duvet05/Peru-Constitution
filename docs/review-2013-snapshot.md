@@ -21,4 +21,4 @@ Resultado:
 - Lineas con corte por guion: 0.
 - Lineas canonicas: 1497.
 
-Este snapshot no es el texto original puro de 1993. Es un hito oficial intermedio actualizado al 1 de mayo de 2013. Se usara para partir la reconstruccion historica en dos tramos: 1993-2013 y 2013-2024.
+Este snapshot no es el texto original puro de 1993. Es un hito oficial intermedio actualizado al 1 de mayo de 2013. En la reconstruccion actual funciona como checkpoint: el historial reconstruido desde `snapshots/1993-12-30.md` hasta `snapshots/2009-09-08-29402.md` coincide con este texto.

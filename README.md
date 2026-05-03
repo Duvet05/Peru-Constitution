@@ -41,7 +41,7 @@ Proyecto inicial. Incluye:
 - scripts para descargar y normalizar texto;
 - un inventario completo de reformas constitucionales;
 - un manifest editable para reconstruir commits historicos;
-- snapshots reconstruidos por reforma individual desde 2015 hasta 2025, incluyendo Ley 32265;
+- snapshots reconstruidos por reforma individual desde 1993 hasta 2025, incluyendo Ley 32265;
 - una rama publica `history` con el historial Git reconstruido para inspeccionar `git blame`;
 - una herramienta para reconstruir un repo historico desde snapshots.
 
@@ -162,7 +162,7 @@ Early-stage project. It currently includes:
 - scripts to download and normalize text;
 - a full inventory of constitutional reforms;
 - an editable manifest for rebuilding historical commits;
-- individually reconstructed reform snapshots from 2015 through 2025, including Law 32265;
+- individually reconstructed reform snapshots from 1993 through 2025, including Law 32265;
 - a public `history` branch with the reconstructed Git history for `git blame`;
 - a tool to rebuild a clean historical Git repository from snapshots.
 
