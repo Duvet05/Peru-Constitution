@@ -32,4 +32,5 @@ Reconstruir la Constitucion Politica del Peru desde 1993 hasta la edicion oficia
 - Snapshot 2019-01-10-30905: Ley 30905 reconstruida y auditada.
 - Snapshot 2019-01-10-30906: Ley 30906 reconstruida y auditada.
 - Snapshot 2020-09-15: Ley 31042 reconstruida y auditada.
+- Snapshot 2020-12-29: Ley 31097 reconstruida y auditada.
 - Inventario de 36 reformas: completo segun el portal oficial de Leyes de Reforma Constitucional del Congreso revisado en mayo de 2026.

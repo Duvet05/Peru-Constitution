@@ -19,6 +19,7 @@ En el estado actual, el historial generado tiene doce hitos:
 - 2019-01-10: Ley 30905, sobre financiamiento de organizaciones politicas.
 - 2019-01-10: Ley 30906, sobre prohibicion de reeleccion inmediata de parlamentarios.
 - 2020-09-15: Ley 31042, sobre impedimentos para postular o ejercer funcion publica.
+- 2020-12-29: Ley 31097, sobre inversion publica en educacion.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -101,3 +102,11 @@ git blame -L 299,336 constitucion.md
 ```
 
 Ese rango muestra los articulos 34-A y 39-A atribuidos a la Ley 31042.
+
+Para ver una reforma presupuestal educativa:
+
+```sh
+git blame -L 179,189 constitucion.md
+```
+
+Ese rango muestra el ultimo parrafo del articulo 16 atribuido a la Ley 31097.
