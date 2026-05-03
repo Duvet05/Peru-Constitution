@@ -6,7 +6,7 @@ El historial reconstruido se puede generar con:
 ./scripts/build_history.py reformas.csv build/Peru-Constitution-history
 ```
 
-En el estado actual, el historial generado tiene diecisiete hitos:
+En el estado actual, el historial generado tiene dieciocho hitos:
 
 - 2013-05-01: texto actualizado del Archivo Digital de la Legislacion del Peru.
 - 2015-03-10: Ley 30305, sobre denominacion y no reeleccion inmediata de autoridades regionales y alcaldes.
@@ -24,6 +24,7 @@ En el estado actual, el historial generado tiene diecisiete hitos:
 - 2021-02-10: Ley 31122, sobre doble empleo publico remunerado de personal medico en emergencia sanitaria.
 - 2021-07-16: Ley 31280, sobre residencia temporal del expresidente; declarada inconstitucional por la sentencia 918/2021 del Tribunal Constitucional.
 - 2021-07-23: Ley 31304, sobre patrimonio cultural de la Nacion; declarada inconstitucional por la sentencia 918/2021 del Tribunal Constitucional.
+- 2021-07-23: Ley 31305, sobre secreto bancario y reserva tributaria; declarada inconstitucional por la sentencia 918/2021 del Tribunal Constitucional.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -138,3 +139,11 @@ git blame HEAD~1 -L '/Artículo 21/',+8 constitucion.md
 ```
 
 Ese rango muestra el articulo 21 atribuido a la Ley 31304 antes de su posterior declaracion de inconstitucionalidad.
+
+Para ver el levantamiento del secreto bancario y reserva tributaria incorporado historicamente:
+
+```sh
+git blame HEAD~1 -L 31,49 constitucion.md
+```
+
+Ese rango muestra el inciso 5 del articulo 2 atribuido a la Ley 31305 antes de su posterior declaracion de inconstitucionalidad.
