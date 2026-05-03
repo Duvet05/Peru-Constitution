@@ -35,7 +35,7 @@ git blame -w constitucion.md
 
 ## Estado
 
-Proyecto inicial. Incluye:
+MVP auditable. Incluye:
 
 - fuentes oficiales conocidas;
 - scripts para descargar y normalizar texto;
@@ -46,6 +46,11 @@ Proyecto inicial. Incluye:
 - una herramienta para reconstruir un repo historico desde snapshots.
 
 La fuente oficial vigente usada como referencia principal es la edicion del Congreso de la Republica de diciembre de 2024, actualizada con la Ley 32265 de 2025. El texto conserva anotaciones editoriales cuando aclaran reformas, vigencia diferida, derogaciones o sentencias relevantes, porque el objetivo es publicar una Constitucion vigente y anotada.
+
+Limitaciones conocidas:
+
+- El texto original de 1993 esta reconstruido desde el checkpoint oficial de 2013, leyes oficiales pre-2013 y fuentes anotadas de contraste; no debe leerse como una transcripcion directa desde un OCR oficial perfecto de 1993.
+- La Ley 31988, por su tamano y vigencia diferida, conserva una revision fina pendiente sobre atribucion de algunas normalizaciones oficiales; el texto y el cambio principal estan modelados, pero algunos `blame` puntuales pueden mejorar.
 
 ## Fuentes oficiales
 
@@ -156,7 +161,7 @@ git blame -w constitucion.md
 
 ## Status
 
-Early-stage project. It currently includes:
+Auditable MVP. It currently includes:
 
 - known official sources;
 - scripts to download and normalize text;
@@ -167,6 +172,11 @@ Early-stage project. It currently includes:
 - a tool to rebuild a clean historical Git repository from snapshots.
 
 The current official reference text comes mainly from the Congress of the Republic's December 2024 edition, updated with Law 32265 of 2025. The text keeps editorial notes when they clarify amendments, future effect, repeals, or relevant rulings because the goal is to publish a current, annotated Constitution with an auditable history.
+
+Known limitations:
+
+- The original 1993 text is reconstructed from the official 2013 checkpoint, pre-2013 official laws, and annotated comparison sources; it should not be read as a direct transcription from a perfect official 1993 OCR.
+- Law 31988, because of its size and deferred effect, still needs a fine attribution review for some official normalizations; the text and main change are modeled, but some specific `blame` output can be improved.
 
 ## Official Sources
 
