@@ -35,7 +35,8 @@ Reconstruir la Constitucion Politica del Peru desde 1993 hasta la edicion oficia
 - Snapshot 2020-12-29: Ley 31097 reconstruida y auditada.
 - Snapshot 2021-02-06: Ley 31118 reconstruida y auditada.
 - Snapshot 2021-02-10: Ley 31122 reconstruida y auditada.
-- Snapshot 2021-07-16: Ley 31280 reconstruida y auditada; pendiente registrar la sentencia 918/2021 del Tribunal Constitucional como reversion historica.
-- Snapshot 2021-07-23-31304: Ley 31304 reconstruida y auditada; pendiente registrar la sentencia 918/2021 del Tribunal Constitucional como reversion historica.
-- Snapshot 2021-07-23-31305: Ley 31305 reconstruida y auditada; pendiente registrar la sentencia 918/2021 del Tribunal Constitucional como reversion historica.
+- Snapshot 2021-07-16: Ley 31280 reconstruida y auditada.
+- Snapshot 2021-07-23-31304: Ley 31304 reconstruida y auditada.
+- Snapshot 2021-07-23-31305: Ley 31305 reconstruida y auditada.
+- Snapshot 2021-11-27-stc-918-2021: sentencia 918/2021 del Tribunal Constitucional reconstruida y auditada como reversion historica de las Leyes 31280, 31304 y 31305.
 - Inventario de 36 reformas: completo segun el portal oficial de Leyes de Reforma Constitucional del Congreso revisado en mayo de 2026.

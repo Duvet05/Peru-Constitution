@@ -6,7 +6,7 @@ El historial reconstruido se puede generar con:
 ./scripts/build_history.py reformas.csv build/Peru-Constitution-history
 ```
 
-En el estado actual, el historial generado tiene dieciocho hitos:
+En el estado actual, el historial generado tiene diecinueve hitos:
 
 - 2013-05-01: texto actualizado del Archivo Digital de la Legislacion del Peru.
 - 2015-03-10: Ley 30305, sobre denominacion y no reeleccion inmediata de autoridades regionales y alcaldes.
@@ -25,6 +25,7 @@ En el estado actual, el historial generado tiene dieciocho hitos:
 - 2021-07-16: Ley 31280, sobre residencia temporal del expresidente; declarada inconstitucional por la sentencia 918/2021 del Tribunal Constitucional.
 - 2021-07-23: Ley 31304, sobre patrimonio cultural de la Nacion; declarada inconstitucional por la sentencia 918/2021 del Tribunal Constitucional.
 - 2021-07-23: Ley 31305, sobre secreto bancario y reserva tributaria; declarada inconstitucional por la sentencia 918/2021 del Tribunal Constitucional.
+- 2021-11-27: STC 918/2021, que deja sin efecto historico las Leyes 31280, 31304 y 31305.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -135,7 +136,7 @@ Ese rango muestra el parrafo incorporado por la Ley 31122 antes de que el hito 2
 Para ver una reforma historica luego expulsada del ordenamiento:
 
 ```sh
-git blame HEAD~1 -L '/Artículo 21/',+8 constitucion.md
+git blame HEAD~2 -L '/Artículo 21/',+8 constitucion.md
 ```
 
 Ese rango muestra el articulo 21 atribuido a la Ley 31304 antes de su posterior declaracion de inconstitucionalidad.
@@ -143,7 +144,15 @@ Ese rango muestra el articulo 21 atribuido a la Ley 31304 antes de su posterior 
 Para ver el levantamiento del secreto bancario y reserva tributaria incorporado historicamente:
 
 ```sh
-git blame HEAD~1 -L 31,49 constitucion.md
+git blame HEAD~2 -L 31,49 constitucion.md
 ```
 
 Ese rango muestra el inciso 5 del articulo 2 atribuido a la Ley 31305 antes de su posterior declaracion de inconstitucionalidad.
+
+Para ver la reversion por sentencia constitucional:
+
+```sh
+git show --stat HEAD~1
+```
+
+Ese commit muestra la STC 918/2021 retirando del texto historico los cambios de las Leyes 31280, 31304 y 31305 antes del hito 2024.
