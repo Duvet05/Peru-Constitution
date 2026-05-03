@@ -6,7 +6,7 @@ El historial reconstruido se puede generar con:
 ./scripts/build_history.py reformas.csv build/Peru-Constitution-history
 ```
 
-En el estado actual, el historial generado tiene siete hitos:
+En el estado actual, el historial generado tiene ocho hitos:
 
 - 2013-05-01: texto actualizado del Archivo Digital de la Legislacion del Peru.
 - 2015-03-10: Ley 30305, sobre denominacion y no reeleccion inmediata de autoridades regionales y alcaldes.
@@ -14,6 +14,7 @@ En el estado actual, el historial generado tiene siete hitos:
 - 2017-06-22: Ley 30588, que incorpora el articulo 7-A sobre acceso al agua.
 - 2017-08-20: Ley 30650, sobre prescripcion de delitos contra la Administracion Publica.
 - 2017-08-20: Ley 30651, sobre legitimacion activa del Presidente del Poder Judicial en procesos de inconstitucionalidad.
+- 2018-03-14: Ley 30738, sobre nacionalidad peruana por nacimiento.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -56,3 +57,11 @@ git blame -L 1905,1926 constitucion.md
 ```
 
 Ese rango muestra el articulo 203 despues de la Ley 30651, con la nota posterior de la Ley 31988 todavia atribuida al hito 2024.
+
+Para ver una modificacion de una sola linea:
+
+```sh
+git blame -L 389,397 constitucion.md
+```
+
+Ese rango muestra el primer parrafo del articulo 52 atribuido a la Ley 30738.
