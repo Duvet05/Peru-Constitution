@@ -47,4 +47,5 @@ Reconstruir la Constitucion Politica del Peru desde 1993 hasta la edicion oficia
 - Snapshot 2024-10-29: Ley 32145 reconstruida y auditada.
 - Snapshot 2024-12-11-32188: Ley 32188 reconstruida y auditada.
 - Snapshot 2024-12-11-32189: Ley 32189 reconstruida y auditada.
+- Snapshot 2025-03-22: Ley 32265 reconstruida como restitucion de firma en el texto constitucional.
 - Inventario de 36 reformas: completo segun el portal oficial de Leyes de Reforma Constitucional del Congreso revisado en mayo de 2026.
