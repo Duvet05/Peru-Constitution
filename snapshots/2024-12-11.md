@@ -46,7 +46,7 @@ Toda persona tiene derecho al secreto bancario y la reserva tributaria. Su levan
 
 El levantamiento de estos derechos fundamentales se efectúa de acuerdo a ley, que incluye decisión motivada y bajo responsabilidad de su titular.
 
-6. A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informa- ciones que afecten la intimidad personal y familiar.
+6. A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informaciones que afecten la intimidad personal y familiar.
 
 7. Al honor y a la buena reputación, a la intimidad personal y familiar así como a la voz y a la imagen propias.
 
@@ -646,7 +646,7 @@ Artículo 89. Las Comunidades Campesinas y las Nativas tienen existencia legal y
 
 tierras es imprescriptible, salvo en el caso de abandono previsto en el artículo anterior.
 
-El Estado respeta la identidad cultural de las Comuni- dades Campesinas, Nativas y del Pueblo Afroperuano.
+El Estado respeta la identidad cultural de las Comunidades Campesinas, Nativas y del Pueblo Afroperuano.
 
 TÍTULO IV
 
@@ -1320,7 +1320,7 @@ Ninguna autoridad puede avocarse a causas pendientes ante el órgano jurisdiccio
 
 3. La observancia del debido proceso y la tutela jurisdiccional.
 
-Ninguna persona puede ser desviada de la juris- dicción predeterminada por la ley, ni sometida a procedimiento distinto de los previamente estable- cidos, ni juzgada por órganos jurisdiccionales de excepción ni por comisiones especiales creadas al efecto, cualquiera sea su denominación.
+Ninguna persona puede ser desviada de la jurisdicción predeterminada por la ley, ni sometida a procedimiento distinto de los previamente establecidos, ni juzgada por órganos jurisdiccionales de excepción ni por comisiones especiales creadas al efecto, cualquiera sea su denominación.
 
 4. La publicidad en los procesos, salvo disposición contraria de la ley.
 
@@ -1426,7 +1426,7 @@ El Consejo Nacional de la Magistratura es independiente y se rige por su Ley Org
 
 1 De conformidad con la Única Disposición Complementaria Final de la Ley 30904, Ley de reforma constitucional sobre la conformación y funciones de la Junta Nacional de Justicia, publicada el 10 de enero de 2019, se modifica en todas las disposiciones correspondientes del ordenamiento jurídico nacional la denominación de “Consejo Nacional de la Magistratura” por el de “Junta Nacional de Justicia”.
 
-La Junta Nacional de Justicia es indepen- diente y se rige por su Ley Orgánica.”
+La Junta Nacional de Justicia es independiente y se rige por su Ley Orgánica.”
 
 Artículo 151. La Academia de la Magistratura, que forma parte del Poder Judicial, se encarga de la formación y capacitación de jueces y fiscales en todos sus niveles, para los efectos de su selección.
 
@@ -1720,7 +1720,7 @@ La ley determina las competencias y facultades adicionales, así como incentivos
 
 Mientras dure el proceso de integración, dos o más gobiernos regionales podrán crear mecanismos de coordinación entre sí. La ley determinará esos mecanismos.
 
-Artículo 191. Los gobiernos regionales tienen autono- mía política, económica y administrativa en los asuntos de su competencia. Coordinan con las municipalidades sin interferir sus funciones y atribuciones.
+Artículo 191. Los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia. Coordinan con las municipalidades sin interferir sus funciones y atribuciones.
 
 La estructura orgánica básica de estos gobiernos la conforman el Consejo Regional, como órgano normativo y fiscalizador, el Gobernador Regional, como órgano ejecutivo, y el Consejo de Coordinación Regional integrado por los alcaldes provinciales y por representantes de la sociedad civil, como órgano consultivo y de coordinación con las municipalidades, con las funciones y atribuciones que les señala la ley. El Consejo Regional tendrá un mínimo de siete (7) miembros y un máximo de veinticinco (25), debiendo haber un mínimo de uno (1) por provincia y el resto, de acuerdo a ley, siguiendo un criterio de población electoral.
 

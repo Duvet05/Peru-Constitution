@@ -7,6 +7,7 @@ from pathlib import Path
 def normalize_line(line: str) -> str:
     line = line.strip()
     line = re.sub(r"\s+", " ", line)
+    line = re.sub(r"([A-Za-zÁÉÍÓÚÜÑáéíóúüñ])- ([a-záéíóúüñ]{2,})", r"\1\2", line)
     line = re.sub(r"Artículo\s+(\d+(?:-[A-Z])?)\.-", r"Artículo \1.", line)
     line = re.sub(r"Artículo\s+(\d+(?:-[A-Z])?)\.", r"Artículo \1.", line)
     return line
@@ -20,6 +21,8 @@ def should_keep_as_separate(line: str) -> bool:
 
 def canonicalize(text: str) -> str:
     text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"([A-Za-zÁÉÍÓÚÜÑáéíóúüñ])-\n\s*([a-záéíóúüñ]{2,})", r"\1\2", text)
+    text = re.sub(r"([A-Za-zÁÉÍÓÚÜÑáéíóúüñ])- +([a-záéíóúüñ])", r"\1\2", text)
     blocks = re.split(r"\n\s*\n", text)
     output: list[str] = []
 
@@ -59,4 +62,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

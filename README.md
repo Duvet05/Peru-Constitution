@@ -14,6 +14,7 @@ Proyecto inicial. Incluye:
 - scripts para descargar y normalizar texto;
 - un inventario completo de reformas constitucionales;
 - un manifest editable para reconstruir commits historicos;
+- el primer snapshot reconstruido por reforma individual: Ley 30305;
 - una herramienta para reconstruir un repo historico desde snapshots.
 
 La fuente oficial vigente usada como referencia inicial es la edicion del Congreso de la Republica de diciembre de 2024. El primer snapshot completo proviene de ese PDF oficial y conserva las anotaciones editoriales del Congreso, porque el objetivo es publicar una Constitucion vigente y anotada.
@@ -103,7 +104,7 @@ git blame -w constitucion.md
 
 La opcion `-w` ignora cambios de espacios y ayuda cuando hubo normalizacion de formato.
 
-El snapshot inicial completo permite usar blame desde ya, pero todo el texto aparece atribuido a la edicion oficial de 2024. El siguiente trabajo es dividir la historia en commits por Ley de Reforma Constitucional.
+El historial ya incluye un hito oficial de 2013, la Ley 30305 como primer commit reconstruido por reforma individual y la edicion anotada de diciembre de 2024. El siguiente trabajo es seguir reemplazando el salto 2015-2024 por commits individuales de cada Ley de Reforma Constitucional.
 
 ## Criterio editorial
 

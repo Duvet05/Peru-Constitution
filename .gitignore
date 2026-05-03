@@ -1,4 +1,6 @@
 build/
 sources/*.pdf
 sources/*.html
-
+sources/*.txt
+__pycache__/
+scripts/__pycache__/
