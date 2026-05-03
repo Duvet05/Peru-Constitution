@@ -20,6 +20,7 @@ En el estado actual, el historial generado tiene doce hitos:
 - 2019-01-10: Ley 30906, sobre prohibicion de reeleccion inmediata de parlamentarios.
 - 2020-09-15: Ley 31042, sobre impedimentos para postular o ejercer funcion publica.
 - 2020-12-29: Ley 31097, sobre inversion publica en educacion.
+- 2021-02-06: Ley 31118, sobre eliminacion de la inmunidad parlamentaria.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -110,3 +111,11 @@ git blame -L 179,189 constitucion.md
 ```
 
 Ese rango muestra el ultimo parrafo del articulo 16 atribuido a la Ley 31097.
+
+Para ver la eliminacion de la inmunidad parlamentaria:
+
+```sh
+git blame -L 733,752 constitucion.md
+```
+
+Ese rango muestra los parrafos nuevos del articulo 93 atribuidos a la Ley 31118 y la nota de bicameralidad atribuida al hito 2024.
