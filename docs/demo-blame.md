@@ -6,7 +6,7 @@ El historial reconstruido se puede generar con:
 ./scripts/build_history.py reformas.csv build/Peru-Constitution-history
 ```
 
-En el estado actual, el historial generado tiene diez hitos:
+En el estado actual, el historial generado tiene once hitos:
 
 - 2013-05-01: texto actualizado del Archivo Digital de la Legislacion del Peru.
 - 2015-03-10: Ley 30305, sobre denominacion y no reeleccion inmediata de autoridades regionales y alcaldes.
@@ -17,6 +17,7 @@ En el estado actual, el historial generado tiene diez hitos:
 - 2018-03-14: Ley 30738, sobre nacionalidad peruana por nacimiento.
 - 2019-01-10: Ley 30904, sobre la Junta Nacional de Justicia.
 - 2019-01-10: Ley 30905, sobre financiamiento de organizaciones politicas.
+- 2019-01-10: Ley 30906, sobre prohibicion de reeleccion inmediata de parlamentarios.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -83,3 +84,11 @@ git blame -L 299,315 constitucion.md
 ```
 
 Ese rango muestra los nuevos parrafos del articulo 35 atribuidos a la Ley 30905.
+
+Para ver un articulo incorporado y luego anotado como derogado:
+
+```sh
+git blame -L 681,687 constitucion.md
+```
+
+Ese rango muestra el articulo 90-A atribuido a la Ley 30906 y la nota de derogacion atribuida al hito 2024.
