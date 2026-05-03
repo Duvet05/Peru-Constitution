@@ -21,6 +21,7 @@ En el estado actual, el historial generado tiene doce hitos:
 - 2020-09-15: Ley 31042, sobre impedimentos para postular o ejercer funcion publica.
 - 2020-12-29: Ley 31097, sobre inversion publica en educacion.
 - 2021-02-06: Ley 31118, sobre eliminacion de la inmunidad parlamentaria.
+- 2021-02-10: Ley 31122, sobre doble empleo publico remunerado de personal medico en emergencia sanitaria.
 - 2024-12-11: edicion oficial del Congreso de la Republica, diciembre de 2024.
 
 Ejemplo:
@@ -119,3 +120,11 @@ git blame -L 733,752 constitucion.md
 ```
 
 Ese rango muestra los parrafos nuevos del articulo 93 atribuidos a la Ley 31118 y la nota de bicameralidad atribuida al hito 2024.
+
+Para ver una regla historica luego reemplazada:
+
+```sh
+git blame HEAD~1 -L '/Artículo 40/',+10 constitucion.md
+```
+
+Ese rango muestra el parrafo incorporado por la Ley 31122 antes de que el hito 2024 refleje reformas posteriores sobre el articulo 40.
