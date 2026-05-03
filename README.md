@@ -142,6 +142,12 @@ The goal is for `git blame constitucion.md` to show which law introduced or modi
 
 ## Quick Demo
 
+![Reconstructed history with 40 commits](assets/history-40-commits.svg)
+
+![Blame of article 7-A attributed to Law 30588](assets/blame-articulo-7a.svg)
+
+![Blame of the signature restored by Law 32265](assets/blame-firma-32265.svg)
+
 View the public blame history:
 
 ```sh
