@@ -20,5 +20,6 @@ La Primera Disposición Complementaria Final establece que las reformas constitu
 
 ## Nota editorial
 
-El snapshot usa como referencia la edición oficial del Congreso de diciembre de 2024 para la ubicación de las anotaciones de la Ley 31988, excluyendo las reformas posteriores que no pertenecen a esta ley. Queda pendiente una revisión retroactiva de denominaciones introducidas por la Ley 30904 para evitar que normalizaciones oficiales posteriores distorsionen blame en algunos artículos.
+El snapshot usa como referencia la edición oficial del Congreso de diciembre de 2024 para la ubicación de las anotaciones de la Ley 31988, excluyendo las reformas posteriores que no pertenecen a esta ley.
 
+En la revisión de cierre se retiraron normalizaciones editoriales evidentes del tramo 31988, incluyendo cortes de línea, encabezados de capítulo y rúbricas que pertenecen mejor al checkpoint oficial de diciembre de 2024 que a la ley reformadora. Por el tamaño de la reforma y su vigencia diferida, algunos `blame` puntuales todavía pueden requerir revisión fina, pero el cambio sustantivo principal queda separado de esas normalizaciones.

@@ -46,7 +46,7 @@ Reconstruir la Constitucion Politica del Peru desde 1993 hasta la edicion oficia
 - Snapshot 2022-02-12: Ley 31414 reconstruida y auditada.
 - Snapshot 2022-07-03: Ley 31507 reconstruida y auditada.
 - Snapshot 2023-09-23: Ley 31878 reconstruida y auditada.
-- Snapshot 2024-03-20: Ley 31988 reconstruida como reforma de vigencia diferida; pendiente revision fina de atribucion de normalizaciones oficiales.
+- Snapshot 2024-03-20: Ley 31988 reconstruida como reforma de vigencia diferida; revisada para separar normalizaciones editoriales evidentes del cambio sustantivo.
 - Snapshot 2024-10-15: Ley 32135 reconstruida; la discrepancia con la edicion oficial de diciembre de 2024 sobre la tercera disposicion transitoria especial queda documentada en `reformas/32135/README.md`.
 - Snapshot 2024-10-29: Ley 32145 reconstruida y auditada.
 - Snapshot 2024-12-11-32188: Ley 32188 reconstruida y auditada.

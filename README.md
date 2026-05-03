@@ -56,7 +56,7 @@ La fuente oficial vigente usada como referencia principal es la edicion del Cong
 Limitaciones conocidas:
 
 - El texto original de 1993 esta reconstruido desde el checkpoint oficial de 2013, leyes oficiales pre-2013 y fuentes anotadas de contraste; no debe leerse como una transcripcion directa desde un OCR oficial perfecto de 1993.
-- La Ley 31988, por su tamano y vigencia diferida, conserva una revision fina pendiente sobre atribucion de algunas normalizaciones oficiales; el texto y el cambio principal estan modelados, pero algunos `blame` puntuales pueden mejorar.
+- La Ley 31988, por su tamano y vigencia diferida, fue revisada para separar cambios sustantivos de normalizaciones editoriales evidentes; aun asi, algunos `blame` puntuales pueden requerir revision fina.
 
 ## Fuentes oficiales
 
@@ -182,7 +182,7 @@ The current official reference text comes mainly from the Congress of the Republ
 Known limitations:
 
 - The original 1993 text is reconstructed from the official 2013 checkpoint, pre-2013 official laws, and annotated comparison sources; it should not be read as a direct transcription from a perfect official 1993 OCR.
-- Law 31988, because of its size and deferred effect, still needs a fine attribution review for some official normalizations; the text and main change are modeled, but some specific `blame` output can be improved.
+- Law 31988, because of its size and deferred effect, was reviewed to separate substantive changes from obvious editorial normalizations; some specific `blame` output may still need fine review.
 
 ## Official Sources
 
