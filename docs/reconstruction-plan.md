@@ -46,4 +46,5 @@ Reconstruir la Constitucion Politica del Peru desde 1993 hasta la edicion oficia
 - Snapshot 2024-10-15: Ley 32135 reconstruida; pendiente contrastar la derogacion de la tercera disposicion transitoria especial con la edicion oficial de diciembre de 2024.
 - Snapshot 2024-10-29: Ley 32145 reconstruida y auditada.
 - Snapshot 2024-12-11-32188: Ley 32188 reconstruida y auditada.
+- Snapshot 2024-12-11-32189: Ley 32189 reconstruida y auditada.
 - Inventario de 36 reformas: completo segun el portal oficial de Leyes de Reforma Constitucional del Congreso revisado en mayo de 2026.
