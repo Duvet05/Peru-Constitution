@@ -8,16 +8,19 @@ REQUIRED_SPECIAL = {"7-A", "14-A", "34-A", "39-A", "90-A", "102-A", "102-B"}
 
 
 def main() -> int:
-    if len(sys.argv) != 2:
-        print("uso: validate_snapshot.py constitucion.md", file=sys.stderr)
+    if len(sys.argv) not in {2, 3}:
+        print("uso: validate_snapshot.py constitucion.md [--current]", file=sys.stderr)
         return 2
 
+    require_current_specials = len(sys.argv) == 3 and sys.argv[2] == "--current"
     text = Path(sys.argv[1]).read_text(encoding="utf-8")
     articles = {
         match.group(1)
-        for match in re.finditer(r"Artículo\s+(\d+(?:-[A-Z])?)", text)
+        for match in re.finditer(r"[“\"]?Artículo\s+(\d+(?:-[A-Z])?)", text)
     }
-    expected = {str(number) for number in range(1, 207)} | REQUIRED_SPECIAL
+    expected = {str(number) for number in range(1, 207)}
+    if require_current_specials:
+        expected |= REQUIRED_SPECIAL
     missing = sorted(expected - articles, key=lambda item: (int(item.split("-")[0]), item))
 
     if missing:
@@ -30,4 +33,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

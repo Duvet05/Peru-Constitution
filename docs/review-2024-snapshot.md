@@ -6,7 +6,8 @@ Comandos ejecutados:
 
 ```sh
 ./scripts/validate_snapshot.py constitucion.md
-./scripts/audit_snapshot.py constitucion.md
+./scripts/validate_snapshot.py constitucion.md --current
+./scripts/audit_snapshot.py constitucion.md --current
 ```
 
 Resultado:
@@ -16,17 +17,7 @@ Resultado:
 - Articulos especiales faltantes: ninguno.
 - Articulos especiales detectados: 7-A, 14-A, 34-A, 39-A, 90-A, 102-A y 102-B.
 - Artefactos de pagina detectados: 0.
-- Lineas con notas editoriales `(*)`: 122.
-- Lineas con corte por guion: 6.
+- Lineas con notas editoriales `(*)`: 121.
+- Lineas con corte por guion: 0.
 
-Lineas con corte por guion pendientes de revision manual:
-
-- 102
-- 1614
-- 3329
-- 3331
-- 3553
-- 4259
-
-Decision editorial: no corregir automaticamente cortes por guion ni notas editoriales en el texto legal. Esos cambios deben hacerse en commits separados, con verificacion contra fuente oficial, para que `git blame` no oculte diferencias de contenido.
-
+Decision editorial: conservar las notas editoriales del Congreso en el texto anotado. La canonicalizacion elimina saltos de linea del PDF y cortes por guion, pero no modifica contenido legal de fondo.

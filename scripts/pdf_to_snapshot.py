@@ -7,6 +7,7 @@ from pathlib import Path
 
 
 HEADER_FOOTER = [
+    re.compile(r"^\s*\d+\s*$"),
     re.compile(r"^\s*\d+\s+Edición del Congreso de la República\s*$"),
     re.compile(r"^\s*CONSTITUCIÓN POLÍTICA DEL PERÚ\s+\d+\s*$"),
 ]

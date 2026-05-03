@@ -10,10 +10,11 @@ def line_numbers(pattern: str, lines: list[str]) -> list[int]:
 
 
 def main() -> int:
-    if len(sys.argv) != 2:
-        print("uso: audit_snapshot.py constitucion.md", file=sys.stderr)
+    if len(sys.argv) not in {2, 3}:
+        print("uso: audit_snapshot.py constitucion.md [--current]", file=sys.stderr)
         return 2
 
+    require_current_specials = len(sys.argv) == 3 and sys.argv[2] == "--current"
     path = Path(sys.argv[1])
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
@@ -38,7 +39,8 @@ def main() -> int:
     print(f"Lineas: {len(lines)}")
     print(f"Articulos detectados: {len(articles)}")
     print(f"Articulos base faltantes: {', '.join(sorted(base_articles - articles, key=int)) or 'ninguno'}")
-    print(f"Articulos especiales faltantes: {', '.join(sorted(required_special - articles)) or 'ninguno'}")
+    if require_current_specials:
+        print(f"Articulos especiales faltantes: {', '.join(sorted(required_special - articles)) or 'ninguno'}")
     print(f"Articulos especiales: {', '.join(special_articles) or 'ninguno'}")
     print(f"Lineas con corte por guion: {len(hyphenated)}")
     print(f"Lineas con notas editoriales (*): {len(editorial_notes)}")

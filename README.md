@@ -54,18 +54,20 @@ Extraer un snapshot desde el PDF oficial del Congreso:
 
 ```sh
 ./scripts/pdf_to_snapshot.py sources/constitucion-12-2024.pdf snapshots/2024-12-11.md
+./scripts/canonicalize_snapshot.py snapshots/2024-12-11.md snapshots/2024-12-11.md
 ```
 
 Validar que el snapshot contenga los articulos esperados:
 
 ```sh
 ./scripts/validate_snapshot.py snapshots/2024-12-11.md
+./scripts/validate_snapshot.py snapshots/2024-12-11.md --current
 ```
 
 Auditar detalles de extraccion del PDF:
 
 ```sh
-./scripts/audit_snapshot.py constitucion.md
+./scripts/audit_snapshot.py constitucion.md --current
 ```
 
 Reconstruir el historial en un repo nuevo:
